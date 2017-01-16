@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/misc/ftw"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="7854"
+   name="ftw.c"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2003-11-08T06:33:36.000000Z"
+   checksum="0bae7f65551ab8b5762160fa39939add"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="85f06386b36d34540982f9f4b7e0c000"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+</wc-entries>

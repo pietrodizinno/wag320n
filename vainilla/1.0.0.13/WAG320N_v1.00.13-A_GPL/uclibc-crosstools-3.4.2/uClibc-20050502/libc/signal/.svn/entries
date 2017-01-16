@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/signal"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="3984"
+   name="siggetmask.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="e0e65f96a04cc7f49bd1c094320d0509"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="4205"
+   name="sigset.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-02-13T09:47:04.000000Z"
+   checksum="68236ebd21ad5d7a4950d78999400c9e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3984"
+   name="sigorset.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="d7ab353e4a58b3603c1862e4582a46c0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3984"
+   name="sigempty.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="fb695ad8dbb8accd93553fab20a50223"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="4180"
+   name="sysv_signal.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-02-05T06:04:17.000000Z"
+   checksum="eba7a2ba772bac7d6240ad501d28bf3c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3984"
+   name="raise.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="16a930cd9042a6a2b055fe63df929ea8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="4892"
+   name="allocrtsig.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-06-13T02:16:09.000000Z"
+   checksum="a5f5202e05762d6abddf4d4b4fe5c391"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3984"
+   name="sigfillset.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="841d02464728726cb485cae641717a38"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3984"
+   name="sigaddset.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="361510401146cf2f644075d92ccb463d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="7590"
+   name="sigwait.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2003-10-03T01:17:36.000000Z"
+   checksum="83fffb46133a17904b19e5692ff2860a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3984"
+   name="sigsetmask.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="75e95d655126cc2e229da613d82c60c4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3984"
+   name="sigismem.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="496516982b5f8e1721784460168b8070"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3984"
+   name="signal.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="0b8e12d63d685dfad75c048d26329c6e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3984"
+   name="sigrelse.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="f56bd987dd3178736d24427322214acd"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3984"
+   name="sigintr.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="451f9f2faddfb3e7ca8e276face029fe"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="6422"
+   name="sigaction.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2003-01-22T17:43:14.000000Z"
+   checksum="2e1bb3bba41f61bcd74d73d2b1a89a59"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="2661"
+   name="sigpause.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2001-05-16T21:39:34.000000Z"
+   checksum="d05e8674005f640fc271813dd85d4dea"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3533"
+   name="sigsetops.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2001-10-17T06:02:35.000000Z"
+   checksum="c7f1aedd9bcf1f2eb12dad6db354ba73"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3984"
+   name="sigandset.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="9af37c61b429177879be5a52bc4b077c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3984"
+   name="killpg.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="64e3c289cc4d4d894b9e2283a75966f2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3984"
+   name="sigdelset.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="37e98d8c15dca1ac4ebd5d1123f32559"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3984"
+   name="sigsetops.h"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="bbc4c9410c6558eb37ff71a10ef20b23"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3984"
+   name="sigignore.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="58eff170573ded5ac45d55d73e54be39"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3984"
+   name="sighold.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="408e49cf26bbb945e668c9c5bbd2b1bb"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="4126"
+   name="sigjmp.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-30T07:11:08.000000Z"
+   checksum="4b68855003834d1ee7f81b9081f525d4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="b6560b71405e22e833f4ad2666a613fb"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3984"
+   name="sigisempty.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="979197ef7b94474a458862b2103539c0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="3984"
+   name="sigblock.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2002-01-02T12:18:50.000000Z"
+   checksum="50216bf4c8dcd6bbd272c2e94ec86adf"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+</wc-entries>

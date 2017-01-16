@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10060"
+   name=""
+   committed-date="2005-03-29T13:47:21.689829Z"
+   url="svn://uclibc.org/trunk/uClibc/ldso/ldso/m68k"
+   last-author="jocke"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="10023"
+   name="dl-syscalls.h"
+   text-time="2005-05-02T06:10:14.000000Z"
+   committed-date="2005-03-16T03:35:38.721376Z"
+   checksum="cd79647034182ae63216956e4b93effc"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+<entry
+   committed-rev="2479"
+   name="resolve.S"
+   text-time="2005-05-02T06:10:14.000000Z"
+   committed-date="2001-04-27T17:23:26.000000Z"
+   checksum="16e70636bcb765155554e7492545bda7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+<entry
+   committed-rev="10041"
+   name="dl-startup.h"
+   text-time="2005-05-02T06:10:14.000000Z"
+   committed-date="2005-03-18T07:44:24.486157Z"
+   checksum="a770cfc9c988207fdb38368c0a757955"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+<entry
+   committed-rev="10060"
+   name="elfinterp.c"
+   text-time="2005-05-02T06:10:14.000000Z"
+   committed-date="2005-03-29T13:47:21.689829Z"
+   checksum="2fa18db94c36e05a92432e064bd14628"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+<entry
+   committed-rev="10060"
+   name="dl-sysdep.h"
+   text-time="2005-05-02T06:10:14.000000Z"
+   committed-date="2005-03-29T13:47:21.689829Z"
+   checksum="9998b8140932c35f617dbfa471f2d48a"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+</wc-entries>

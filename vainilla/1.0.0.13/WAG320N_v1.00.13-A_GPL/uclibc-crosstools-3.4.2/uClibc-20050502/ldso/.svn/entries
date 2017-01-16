@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10221"
+   name=""
+   committed-date="2005-05-01T07:13:09.412284Z"
+   url="svn://uclibc.org/trunk/uClibc/ldso"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   name="ldso"
+   kind="dir"/>
+<entry
+   name="include"
+   kind="dir"/>
+<entry
+   name="libdl"
+   kind="dir"/>
+<entry
+   committed-rev="2405"
+   name="COPYRIGHT"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2001-04-23T17:43:54.000000Z"
+   checksum="6da44318f381fcbe387499a241c03c9e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   name="man"
+   kind="dir"/>
+<entry
+   committed-rev="9770"
+   name="Makefile"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-01-24T23:20:56.000000Z"
+   checksum="341849330c5411367184b27052d02d85"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="2770"
+   name="README"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2001-05-31T21:23:20.000000Z"
+   checksum="b9da9afaa6140489c9d6997f3bb40dd0"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+</wc-entries>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10221"
+   name=""
+   committed-date="2005-05-01T07:13:09.412284Z"
+   url="svn://uclibc.org/trunk/uClibc/ldso/ldso"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:15.000000Z"
+   revision="10283"/>
+<entry
+   name="arm"
+   kind="dir"/>
+<entry
+   name="powerpc"
+   kind="dir"/>
+<entry
+   committed-rev="10094"
+   name="dl-startup.c"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-04-13T11:03:28.114493Z"
+   checksum="dd7cd6c6ef461a7af543c3d77a7e9f33"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+<entry
+   committed-rev="10192"
+   name="ldso.c"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-04-27T21:35:24.525702Z"
+   checksum="916e3172674c825ad1ff82195e3692e1"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+<entry
+   name="sh64"
+   kind="dir"/>
+<entry
+   committed-rev="10162"
+   name="dl-elf.c"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-04-23T05:16:30.758019Z"
+   checksum="962eae35f250b0eaa2bd3b32c6cdef77"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+<entry
+   name="m68k"
+   kind="dir"/>
+<entry
+   name="i386"
+   kind="dir"/>
+<entry
+   name="frv"
+   kind="dir"/>
+<entry
+   name="cris"
+   kind="dir"/>
+<entry
+   committed-rev="10068"
+   name="dl-hash.c"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-04-01T17:11:55.476132Z"
+   checksum="3b547e9e9908e96da47711d6bf76abbe"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+<entry
+   name="mips"
+   kind="dir"/>
+<entry
+   name="sparc"
+   kind="dir"/>
+<entry
+   name="sh"
+   kind="dir"/>
+<entry
+   committed-rev="10040"
+   name="Makefile"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-03-18T05:07:13.729321Z"
+   checksum="7f31c2e0104a4e07f837888bcda8756c"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+</wc-entries>

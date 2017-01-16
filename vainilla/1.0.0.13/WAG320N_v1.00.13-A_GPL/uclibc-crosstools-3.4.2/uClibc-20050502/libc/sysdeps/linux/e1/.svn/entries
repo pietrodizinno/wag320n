@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/e1"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   name="bits"
+   kind="dir"/>
+<entry
+   committed-rev="7611"
+   name="setjmp.c"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2003-10-08T18:15:50.000000Z"
+   checksum="e3e4251bfe7a63d3d9e480c541c6e0df"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="7611"
+   name="longjmp.c"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2003-10-08T18:15:50.000000Z"
+   checksum="8c41dd7c4c2f50342a60e41f3f7aac57"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="8838"
+   name="vfork.c"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2004-05-14T10:39:05.000000Z"
+   checksum="45accfd1d761766b110cb36a12bb4cc6"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="8839"
+   name="crt0.S"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2004-05-14T10:51:16.000000Z"
+   checksum="6faad8adccbd8fd80a9f822f08baad69"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="7611"
+   name="crt1.c"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2003-10-08T18:15:50.000000Z"
+   checksum="e24ad06b02815e402a04d4db900cc3aa"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="2e00d6ba36e0d9cfebeef5141e693189"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   name="sys"
+   kind="dir"/>
+<entry
+   committed-rev="7611"
+   name="syscalls.c"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2003-10-08T18:15:50.000000Z"
+   checksum="cad2b9086167bd8a40ec555ad6282a6f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+</wc-entries>

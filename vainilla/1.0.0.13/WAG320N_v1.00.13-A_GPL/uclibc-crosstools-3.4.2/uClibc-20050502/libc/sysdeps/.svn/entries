@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10271"
+   name=""
+   committed-date="2005-05-07T22:20:37.168644Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps"
+   last-author="jocke"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   name="linux"
+   kind="dir"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="fec177a14d15f5382082756e9ed2dd26"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="1287"
+   name="README"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2000-11-04T23:15:45.000000Z"
+   checksum="899f3f2c16a92d6acc6fe120a36ee24f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+</wc-entries>

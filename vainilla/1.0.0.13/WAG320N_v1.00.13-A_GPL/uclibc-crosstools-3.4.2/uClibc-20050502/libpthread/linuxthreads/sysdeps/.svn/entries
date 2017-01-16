@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9911"
+   name=""
+   committed-date="2005-02-18T16:33:15.582463Z"
+   url="svn://uclibc.org/trunk/uClibc/libpthread/linuxthreads/sysdeps"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10221"/>
+<entry
+   name="arm"
+   kind="dir"/>
+<entry
+   name="powerpc"
+   kind="dir"/>
+<entry
+   name="sh64"
+   kind="dir"/>
+<entry
+   name="alpha"
+   kind="dir"/>
+<entry
+   name="m68k"
+   kind="dir"/>
+<entry
+   name="pthread"
+   kind="dir"/>
+<entry
+   name="i386"
+   kind="dir"/>
+<entry
+   name="nios2"
+   kind="dir"/>
+<entry
+   name="frv"
+   kind="dir"/>
+<entry
+   name="x86_64"
+   kind="dir"/>
+<entry
+   name="cris"
+   kind="dir"/>
+<entry
+   name="v850"
+   kind="dir"/>
+<entry
+   name="mips"
+   kind="dir"/>
+<entry
+   name="nios"
+   kind="dir"/>
+<entry
+   name="sparc"
+   kind="dir"/>
+<entry
+   name="sh"
+   kind="dir"/>
+<entry
+   committed-rev="8055"
+   name="Makefile"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2003-12-05T20:39:51.000000Z"
+   checksum="5414040801e119f6f7f0f2b0c1e869a1"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   name="bfin"
+   kind="dir"/>
+</wc-entries>

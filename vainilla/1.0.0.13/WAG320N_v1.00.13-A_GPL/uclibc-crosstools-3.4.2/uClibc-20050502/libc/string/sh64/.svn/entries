@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/string/sh64"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="8111"
+   name="strcpy.S"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2003-12-17T07:57:32.000000Z"
+   checksum="a0cc2e968a9672e1274a1d9a00f3eae2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="8367"
+   name="strlen.S"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2004-01-30T21:11:18.000000Z"
+   checksum="9f0fa87b27763e351c5f01fab6b0b681"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="8111"
+   name="memcpy.S"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2003-12-17T07:57:32.000000Z"
+   checksum="c9e652bad0e0f787c886d1049eeec7b9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="8111"
+   name="memset.S"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2003-12-17T07:57:32.000000Z"
+   checksum="3e630ffa0ffa588ce49315d693022381"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="4a199f0a640d0dde2696689f4bb20669"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+</wc-entries>

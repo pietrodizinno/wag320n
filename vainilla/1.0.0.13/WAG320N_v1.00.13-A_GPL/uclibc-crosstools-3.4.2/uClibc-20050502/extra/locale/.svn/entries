@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9941"
+   name=""
+   committed-date="2005-02-26T18:54:07.109898Z"
+   url="svn://uclibc.org/trunk/uClibc/extra/locale"
+   last-author="solar"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:09.000000Z"
+   revision="10221"/>
+<entry
+   committed-rev="7150"
+   name="locale_mmap.h"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2003-08-01T20:08:59.000000Z"
+   checksum="244d1959dadcde13ac6cb3f89cd863e0"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:07.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="tst_nl_langinfo.c"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a2e2842d7b6226dfce38a588bfc1fd1c"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:07.000000Z"/>
+<entry
+   committed-rev="6237"
+   name="LOCALES"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T21:53:37.000000Z"
+   checksum="a739ec24c6840adc8e0eb0d3c971a6ee"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   name="collation"
+   kind="dir"/>
+<entry
+   committed-rev="5998"
+   name="gen_mmap.c"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-11-22T03:05:27.000000Z"
+   checksum="7943417ef6f3c29a24ea9e1289714f3f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="9941"
+   name="gen_wctype.c"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2005-02-26T18:54:07.109898Z"
+   checksum="17c1258b3ebd51a8fe9f2bcd5994fe4b"
+   last-author="solar"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="4733"
+   name="lmmtolso.c"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-05-06T07:37:32.000000Z"
+   checksum="edbdbf18eb2782013add51b7e753259a"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="7150"
+   name="gen_locale.c"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2003-08-01T20:08:59.000000Z"
+   checksum="96f77009117b62bc724632a049ba6763"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="7536"
+   name="gen_wc8bit.c"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2003-09-16T22:22:30.000000Z"
+   checksum="a657de3fa1c044d360f01d0f8d4dbed5"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="7150"
+   name="gen_ldc.c"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2003-08-01T20:08:59.000000Z"
+   checksum="8abef6fcf2e938fb62ae844f9f47c1f9"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="7670"
+   name="Makefile"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2003-10-18T10:20:59.000000Z"
+   checksum="6a14f9177e11aace1fe450aecad110a4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="5998"
+   name="README"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-11-22T03:05:27.000000Z"
+   checksum="a928d2d124f9950a8d94fb7be978b00b"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="7218"
+   name="gen_collate.c"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2003-08-18T21:28:33.000000Z"
+   checksum="e11ab8af7baae8b4d1d2bf41def5ded9"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   name="charmaps"
+   kind="dir"/>
+</wc-entries>

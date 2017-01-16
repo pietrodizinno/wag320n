@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10063"
+   name=""
+   committed-date="2005-03-31T18:14:44.422642Z"
+   url="svn://uclibc.org/trunk/uClibc/docs/uclibc.org/images"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10221"/>
+<entry
+   committed-rev="3916"
+   name="fm.mini.png"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2001-12-20T13:01:05.000000Z"
+   checksum="5959af2fb7be50c9adc0826e5251cab1"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="3916"
+   name="ltbutton2.png"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2001-12-20T13:01:05.000000Z"
+   checksum="eb88fab3210fc8902208aaea08287c1f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="3916"
+   name="dir.png"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2001-12-20T13:01:05.000000Z"
+   checksum="a1e1462319a81965614f118546765b73"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="3916"
+   name="written.in.vi.png"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2001-12-20T13:01:05.000000Z"
+   checksum="7bbf31d9324da01307284c3c618e7795"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="3916"
+   name="sdsmall.png"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2001-12-20T13:01:05.000000Z"
+   checksum="651a1a3988b9a724583c20f1cac3d541"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="3916"
+   name="back.png"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2001-12-20T13:01:05.000000Z"
+   checksum="4a7bb191c0f2b58e3a9626f3cc68f84d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="8077"
+   name="vh40.gif"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2003-12-11T07:55:13.000000Z"
+   checksum="25587915755dc09d467e70619967dc3e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="10063"
+   name="osuosl.png"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-31T18:14:44.422642Z"
+   checksum="5e68dc41e49ffac2f355b2fb268e44bd"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="3916"
+   name="text.png"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2001-12-20T13:01:05.000000Z"
+   checksum="0e148728c0f33bf37b50c50a0c0e16b0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="3916"
+   name="donate.png"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2001-12-20T13:01:05.000000Z"
+   checksum="e652518ee8cc4041f534d5acdaafc2e2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="3916"
+   name="gfx_by_gimp.png"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2001-12-20T13:01:05.000000Z"
+   checksum="93e98cb161a37fa0cfdf4e1e13bf2806"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+</wc-entries>

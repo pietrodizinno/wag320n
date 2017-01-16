@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6632"
+   name=""
+   committed-date="2003-02-20T09:55:34.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/v850/sys"
+   last-author="miles"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="4328"
+   name="ucontext.h"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2002-03-05T02:22:10.000000Z"
+   checksum="2ec8216d0496512d7a567b764b64adb1"
+   last-author="miles"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="6228"
+   name="procfs.h"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2002-12-18T02:16:29.000000Z"
+   checksum="30b8d621d0fd53ac42f23d56f9031cce"
+   last-author="miles"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="6632"
+   name="ptrace.h"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2003-02-20T09:55:34.000000Z"
+   checksum="1fd32fb80aa5fc332e678b4f84ab8e63"
+   last-author="miles"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+</wc-entries>

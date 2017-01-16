@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9862"
+   name=""
+   committed-date="2005-02-12T20:59:08.359318Z"
+   url="svn://uclibc.org/trunk/uClibc/test/stdlib"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:02.000000Z"
+   revision="10221"/>
+<entry
+   committed-rev="5963"
+   name="testatexit.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2002-11-19T07:04:01.000000Z"
+   checksum="e60717cca7c142b86df6df5378f066fc"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="4204"
+   name="teston_exit.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2002-02-13T09:32:52.000000Z"
+   checksum="c6269592a034fba6d348f6dce16f28ff"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="1149"
+   name="teststrtol.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2000-10-04T17:39:54.000000Z"
+   checksum="83e3072962c6911073c8683c9ecf54f7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="4467"
+   name="qsort.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2002-03-21T09:52:53.000000Z"
+   checksum="e9143a4069c8a8b8830e05d67a4340ce"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="8229"
+   name="Makefile"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2004-01-02T23:07:57.000000Z"
+   checksum="85c85a03105920ea26ac0f2eeb8e48d2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="5963"
+   name="ptytest.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2002-11-19T07:04:01.000000Z"
+   checksum="6639354f334ee517625286ac3f96d4b5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+</wc-entries>

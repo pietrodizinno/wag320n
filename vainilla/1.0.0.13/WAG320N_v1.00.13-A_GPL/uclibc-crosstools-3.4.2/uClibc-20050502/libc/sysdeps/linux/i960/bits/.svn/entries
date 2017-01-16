@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5635"
+   name=""
+   committed-date="2002-10-09T11:46:39.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/i960/bits"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="5453"
+   name="syscalls.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-09-05T05:29:49.000000Z"
+   checksum="71c503c7e9814ec83349fd38e6443328"
+   last-author="miles"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="4912"
+   name="endian.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-06-18T01:10:28.000000Z"
+   checksum="1cf7d28d8b49f4bda7a4db2461c195f2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="4912"
+   name="setjmp.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-06-18T01:10:28.000000Z"
+   checksum="cc9260023e49d279eb89bb1e9e03e177"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="5635"
+   name="fcntl.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-10-09T11:46:39.000000Z"
+   checksum="b894d1fb4682bb3836207c7aa473ef18"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="4912"
+   name="wordsize.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-06-18T01:10:28.000000Z"
+   checksum="2c314799fcb85777712bab1e53ef150a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="4912"
+   name="mman.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-06-18T01:10:28.000000Z"
+   checksum="b82f2f0419b216d72a3583734b6d25da"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+</wc-entries>

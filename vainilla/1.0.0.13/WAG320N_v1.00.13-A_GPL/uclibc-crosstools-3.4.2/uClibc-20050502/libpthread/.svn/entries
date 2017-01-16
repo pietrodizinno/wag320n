@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9943"
+   name=""
+   committed-date="2005-02-28T01:52:50.684355Z"
+   url="svn://uclibc.org/trunk/uClibc/libpthread"
+   last-author="mjn3"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10221"/>
+<entry
+   name="linuxthreads_db"
+   kind="dir"/>
+<entry
+   committed-rev="5200"
+   name="pthread.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2002-08-08T14:47:14.000000Z"
+   checksum="2944f06caff9f83bd2a838d526164f3b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   name="linuxthreads"
+   kind="dir"/>
+<entry
+   committed-rev="9735"
+   name="Makefile"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2005-01-19T08:49:59.000000Z"
+   checksum="7128830fbf1c1943a52a4ad549d2dd1c"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+</wc-entries>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9172"
+   name=""
+   committed-date="2004-08-26T23:36:04.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libpthread/linuxthreads/sysdeps/frv"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10221"/>
+<entry
+   committed-rev="9172"
+   name="pt-machine.h"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2004-08-26T23:36:04.000000Z"
+   checksum="04bac7893a280b1eeb7a5497c43e0c1b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+</wc-entries>

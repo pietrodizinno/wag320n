@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/pwd_grp"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="8951"
+   name="pwd_grp.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-07-15T09:09:24.000000Z"
+   checksum="d75783f61e9545c7f68d80e09944c62a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8185"
+   name="lckpwdf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2003-12-27T23:30:50.000000Z"
+   checksum="6c389259db80986d453ba2a990854760"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="8697c33367685a8b71dc5e6948a6b7f3"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="1170"
+   name=".indent.pro"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2000-10-07T23:46:22.000000Z"
+   checksum="6bea8d1b7f6cfeb6b6c2a95596c69c6d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+</wc-entries>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="7649"
+   name=""
+   committed-date="2003-10-14T11:52:32.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/microblaze/sys"
+   last-author="davidm"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="7649"
+   name="ucontext.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-10-14T11:52:32.000000Z"
+   checksum="2ec8216d0496512d7a567b764b64adb1"
+   last-author="davidm"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="7649"
+   name="ptrace.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-10-14T11:52:32.000000Z"
+   checksum="7a9853c1aa3df2a36c9ec8ad5fc16bee"
+   last-author="davidm"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+</wc-entries>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9862"
+   name=""
+   committed-date="2005-02-12T20:59:08.359318Z"
+   url="svn://uclibc.org/trunk/uClibc/test/silly"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:02.000000Z"
+   revision="10221"/>
+<entry
+   committed-rev="1149"
+   name="hello.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2000-10-04T17:39:54.000000Z"
+   checksum="b9658476839d69ef149e881f558aa996"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="4066"
+   name="tiny.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2002-01-11T14:44:57.000000Z"
+   checksum="cfa30b19bf9209e3ccf36341806817e2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="8229"
+   name="Makefile"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2004-01-02T23:07:57.000000Z"
+   checksum="2505c0e5fc5862e59ae729b85ce1a3a6"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+</wc-entries>

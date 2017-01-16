@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9579"
+   name=""
+   committed-date="2004-12-21T08:35:58.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/bfin/sys"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="9579"
+   name="ucontext.h"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2004-12-21T08:35:58.000000Z"
+   checksum="d9f9218b74b52ca7987f050b2a7e143b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9579"
+   name="procfs.h"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2004-12-21T08:35:58.000000Z"
+   checksum="f00cd9955023dd9cf952aaf7c32bf4f7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9579"
+   name="reg.h"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2004-12-21T08:35:58.000000Z"
+   checksum="a4bfeab4ac3453d4a4ab3588b4caef96"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9579"
+   name="elf.h"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2004-12-21T08:35:58.000000Z"
+   checksum="6c4b215449b50b0b6bdea593bc3d992a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9579"
+   name="io.h"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2004-12-21T08:35:58.000000Z"
+   checksum="f29bc8b749ccead3745920c76f0b91bb"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+</wc-entries>

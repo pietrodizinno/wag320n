@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/misc/ttyent"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="8814"
+   name="getttyent.c"
+   text-time="2005-05-02T06:10:32.000000Z"
+   committed-date="2004-05-07T10:22:52.000000Z"
+   checksum="de0ece3c148651295e9924746f32edb0"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:32.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:32.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="4c8ded90d468eae101fc95eefbf84918"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:32.000000Z"/>
+</wc-entries>

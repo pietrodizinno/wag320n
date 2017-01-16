@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10136"
+   name=""
+   committed-date="2005-04-19T17:30:29.514235Z"
+   url="svn://uclibc.org/trunk/uClibc/utils"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:12.000000Z"
+   revision="10221"/>
+<entry
+   committed-rev="7831"
+   name="readsoname2.c"
+   text-time="2005-05-02T06:10:12.000000Z"
+   committed-date="2003-11-06T22:38:49.000000Z"
+   checksum="8e076deee24a4a21a308154a67301800"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:12.000000Z"/>
+<entry
+   committed-rev="8446"
+   name="bswap.h"
+   text-time="2005-05-02T06:10:12.000000Z"
+   committed-date="2004-02-10T09:40:18.000000Z"
+   checksum="c3011e0d09019e56d3cc12b39d141be4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:12.000000Z"/>
+<entry
+   committed-rev="10136"
+   name="readelf.c"
+   text-time="2005-05-02T06:10:12.000000Z"
+   committed-date="2005-04-19T17:30:29.514235Z"
+   checksum="7b0e133637c07737d0c479ed59d3aac5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:12.000000Z"/>
+<entry
+   committed-rev="9302"
+   name="ldd.c"
+   text-time="2005-05-02T06:10:12.000000Z"
+   committed-date="2004-10-06T07:34:17.000000Z"
+   checksum="71a3c9ab068ff049c6a52c3d5a1e4c90"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:12.000000Z"/>
+<entry
+   committed-rev="9686"
+   name="ldconfig.c"
+   text-time="2005-05-02T06:10:12.000000Z"
+   committed-date="2005-01-12T01:22:59.000000Z"
+   checksum="c0cdf47eaf70e6f49aa5eb865c8f4ed5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:12.000000Z"/>
+<entry
+   committed-rev="9725"
+   name="Makefile"
+   text-time="2005-05-02T06:10:12.000000Z"
+   committed-date="2005-01-18T23:01:13.000000Z"
+   checksum="5b160be5e4f9846af01a1bf903c4817a"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:12.000000Z"/>
+</wc-entries>

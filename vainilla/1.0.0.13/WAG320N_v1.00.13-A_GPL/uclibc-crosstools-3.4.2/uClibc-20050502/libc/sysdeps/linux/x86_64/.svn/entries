@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10271"
+   name=""
+   committed-date="2005-05-07T22:20:37.168644Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/x86_64"
+   last-author="jocke"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="9875"
+   name="fpu_control.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="54621bf1518002dada98fded649b5525"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:26.000000Z"/>
+<entry
+   committed-rev="9877"
+   name="vfork.S"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:38:50.906269Z"
+   checksum="b0efc18093b20d34bcab9d5ccab8d25f"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:26.000000Z"/>
+<entry
+   committed-rev="9876"
+   name="brk.c"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:33:05.515641Z"
+   checksum="1d3fe140bcdb8c319f29d23d5c2a1c8e"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   name="bits"
+   kind="dir"/>
+<entry
+   committed-rev="9876"
+   name="sigaction.c"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:33:05.515641Z"
+   checksum="9d4dcf8c23d86160362ecf5dd4412858"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9877"
+   name="clone.S"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:38:50.906269Z"
+   checksum="5427234f77eef0b9ea1f11b50f481ba7"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9879"
+   name="crti.S"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:42:47.088783Z"
+   checksum="b872a672644a9e4ac1b4b3a2503e9a4a"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9876"
+   name="setjmp.S"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:33:05.515641Z"
+   checksum="2e27426db87ba6ba9d7fe7b9bc4e0b46"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9876"
+   name="__longjmp.S"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:33:05.515641Z"
+   checksum="676e7d85d82c7dd54e54a162f913662f"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9876"
+   name="crtn.S"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:33:05.515641Z"
+   checksum="e36dcd5847d2efd6a381f2dec6a2093a"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9876"
+   name="bsd-_setjmp.S"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:33:05.515641Z"
+   checksum="3a9014316571ac9a5972adca50d37f26"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9918"
+   name="crt0.S"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-21T14:58:28.678877Z"
+   checksum="d3ca213761618df5b33bc8f3da5e2797"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9876"
+   name="bsd-setjmp.S"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:33:05.515641Z"
+   checksum="7581b68ba69276873e8fcfb481c018c2"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9881"
+   name="syscall.S"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:47:15.200254Z"
+   checksum="72858c9abc871335e219fb180b627db6"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="Makefile"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="73d26f43a4916c9d8c8faae0151976fb"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   name="sys"
+   kind="dir"/>
+</wc-entries>

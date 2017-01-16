@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9862"
+   name=""
+   committed-date="2005-02-12T20:59:08.359318Z"
+   url="svn://uclibc.org/trunk/uClibc/test/dlopen"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:02.000000Z"
+   revision="10221"/>
+<entry
+   committed-rev="7363"
+   name="dltest.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2003-09-01T23:55:15.000000Z"
+   checksum="1dff326951870cbc63ede14f71cd8363"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:01.000000Z"/>
+<entry
+   committed-rev="7006"
+   name="test1.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2003-06-27T11:55:20.000000Z"
+   checksum="6ad71b9407b9ed5450384928e84c4f4f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="7006"
+   name="test2.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2003-06-27T11:55:20.000000Z"
+   checksum="10e294d7db3e369c9e8cc83d40a2a6dc"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="7229"
+   name="test3.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2003-08-19T14:24:14.000000Z"
+   checksum="170bec979140c5c328d78b9f6afaede9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="7363"
+   name="libtest.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2003-09-01T23:55:15.000000Z"
+   checksum="fcf8d66c687dcf95a16a004dd55e4e0a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="7229"
+   name="libtest1.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2003-08-19T14:24:14.000000Z"
+   checksum="08c5e7afc60c678f6d7b506102483431"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="7229"
+   name="libtest2.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2003-08-19T14:24:14.000000Z"
+   checksum="d56ad22e67853a81a0ee7529d433e555"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="8238"
+   name="Makefile"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2004-01-03T10:10:37.000000Z"
+   checksum="7a5dae285c0e277f596a0939cb00e3b2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+</wc-entries>

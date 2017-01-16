@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10076"
+   name=""
+   committed-date="2005-04-07T13:32:05.369613Z"
+   url="svn://uclibc.org/trunk/uClibc/ldso/ldso/cris"
+   last-author="tobiasa"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="8827"
+   name="dl-syscalls.h"
+   text-time="2005-05-02T06:10:13.000000Z"
+   committed-date="2004-05-12T22:54:59.000000Z"
+   checksum="cd79647034182ae63216956e4b93effc"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:13.000000Z"/>
+<entry
+   committed-rev="9042"
+   name="resolve.S"
+   text-time="2005-05-02T06:10:13.000000Z"
+   committed-date="2004-07-30T03:31:31.000000Z"
+   checksum="488da3174bbb84071bfc067ecca8df5a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:13.000000Z"/>
+<entry
+   committed-rev="10036"
+   name="dl-startup.h"
+   text-time="2005-05-02T06:10:13.000000Z"
+   committed-date="2005-03-17T17:14:06.371860Z"
+   checksum="50be1584c6aa18345a89092a6a485158"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:13.000000Z"/>
+<entry
+   committed-rev="10060"
+   name="elfinterp.c"
+   text-time="2005-05-02T06:10:13.000000Z"
+   committed-date="2005-03-29T13:47:21.689829Z"
+   checksum="873f59932c9f75515231a31f15b093f2"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:13.000000Z"/>
+<entry
+   committed-rev="10076"
+   name="dl-sysdep.h"
+   text-time="2005-05-02T06:10:13.000000Z"
+   committed-date="2005-04-07T13:32:05.369613Z"
+   checksum="653482a915c5709466b7c944f3ab21a4"
+   last-author="tobiasa"
+   kind="file"
+   prop-time="2005-05-02T06:10:13.000000Z"/>
+</wc-entries>

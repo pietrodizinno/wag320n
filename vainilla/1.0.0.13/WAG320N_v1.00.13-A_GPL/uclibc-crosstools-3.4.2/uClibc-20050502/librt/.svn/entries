@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9728"
+   name=""
+   committed-date="2005-01-18T23:30:31.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/librt"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10221"/>
+<entry
+   committed-rev="9674"
+   name="mq_open.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2005-01-11T09:41:40.000000Z"
+   checksum="eb9a1a6035ec52666dd85bcd44a24afe"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="9674"
+   name="timer_gettime.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2005-01-11T09:41:40.000000Z"
+   checksum="34b1197052a0a1bef8713fbfb484f1f2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="9674"
+   name="mq_receive.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2005-01-11T09:41:40.000000Z"
+   checksum="3702b991826455bfd132fcb90fc86089"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="9674"
+   name="mq_close.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2005-01-11T09:41:40.000000Z"
+   checksum="64b67df39929ed2bf0e17c0f35e92650"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="9674"
+   name="timer_delete.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2005-01-11T09:41:40.000000Z"
+   checksum="5a603b9abb9145a80829dd26997b53b6"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="9674"
+   name="mq_getsetattr.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2005-01-11T09:41:40.000000Z"
+   checksum="2ef8e72cd5827784a685c34e67efa26e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="9674"
+   name="timer_create.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2005-01-11T09:41:40.000000Z"
+   checksum="9123bf3dbc1d5f70a0bd76ff042472da"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="9674"
+   name="mq_notify.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2005-01-11T09:41:40.000000Z"
+   checksum="d024be91570b8c688373edf6ace4bb29"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="9722"
+   name="kernel-posix-timers.h"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2005-01-18T04:26:49.000000Z"
+   checksum="8f3a4c0e057e9027ffe9ea50b5a57cd3"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="9674"
+   name="mq_send.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2005-01-11T09:41:40.000000Z"
+   checksum="fa46839554fb98bb62df165d6bcf5feb"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="9674"
+   name="timer_settime.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2005-01-11T09:41:40.000000Z"
+   checksum="d3ba99f90438d5b3106930e36ccb420b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="9728"
+   name="Makefile"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2005-01-18T23:30:31.000000Z"
+   checksum="521d1c750a672803c45ed7b51303f4f4"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="9674"
+   name="mq_unlink.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2005-01-11T09:41:40.000000Z"
+   checksum="2930fa35417400564639f7e4b040f6ed"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="9674"
+   name="timer_getoverr.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2005-01-11T09:41:40.000000Z"
+   checksum="0fa40cb57023b6d3c72ee0233b75439e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+</wc-entries>

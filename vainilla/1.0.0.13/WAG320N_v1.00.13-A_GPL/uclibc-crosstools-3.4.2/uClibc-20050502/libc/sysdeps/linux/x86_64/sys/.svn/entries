@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9875"
+   name=""
+   committed-date="2005-02-15T01:27:10.880182Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/x86_64/sys"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="9875"
+   name="ucontext.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="73fc6a2a32678895efb9141fc7655e7f"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="procfs.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="8ccfbaaf1eaa4ef12e1042a803055cec"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="reg.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="49d66af5217b4c06b938366cafe5e336"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="user.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="c91c816cb7bae69b2df6621c789873fe"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="perm.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="0a68c6582184cdd11a98bd3322501287"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="debugreg.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="f6a00bd50997f315a6e4242c884eb183"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="io.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="c6719dedd9ec32ad04d73d891576db22"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+</wc-entries>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8458"
+   name=""
+   committed-date="2004-02-12T00:18:33.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/include/scsi"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10284"/>
+<entry
+   committed-rev="8458"
+   name="sg.h"
+   text-time="2005-05-02T06:10:07.000000Z"
+   committed-date="2004-02-12T00:18:33.000000Z"
+   checksum="8f1149f7714bf7b0b3387addf1940aac"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:07.000000Z"/>
+<entry
+   committed-rev="8458"
+   name="scsi_ioctl.h"
+   text-time="2005-05-02T06:10:07.000000Z"
+   committed-date="2004-02-12T00:18:33.000000Z"
+   checksum="2e0329c6eddeadb24141f3572dc992f5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:07.000000Z"/>
+<entry
+   committed-rev="8458"
+   name="scsi.h"
+   text-time="2005-05-02T06:10:07.000000Z"
+   committed-date="2004-02-12T00:18:33.000000Z"
+   checksum="bd1a98a34d7b1a78afbe661b38f09ce9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:07.000000Z"/>
+</wc-entries>

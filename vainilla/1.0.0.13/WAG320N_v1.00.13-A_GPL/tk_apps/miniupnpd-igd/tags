@@ -1,0 +1,428 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.6	//
+AddMulticastMembership	minissdp.c	/^AddMulticastMembership(int s, const char * ifaddr)$/;"	f	file:
+AddPortMapping	igd/igd_soap.c	/^AddPortMapping(struct upnphttp * h)$/;"	f	file:
+BASEOBJS	Makefile	/^BASEOBJS = miniupnpd.o upnphttp.o upnpdescgen.o upnpsoap.o \\$/;"	m
+BASEOBJS	igd/Makefile	/^BASEOBJS = igd_descgen.o igd_eventxml.o igd_globalvars.o igd_soap.o \\$/;"	m
+BuildHeader_upnphttp	upnphttp.c	/^BuildHeader_upnphttp(struct upnphttp * h, int respcode,$/;"	f
+BuildResp2_upnphttp	upnphttp.c	/^BuildResp2_upnphttp(struct upnphttp * h, int respcode,$/;"	f
+BuildResp_upnphttp	upnphttp.c	/^BuildResp_upnphttp(struct upnphttp * h,$/;"	f
+BuildSendAndCloseSoapResp	upnpsoap.c	/^BuildSendAndCloseSoapResp(struct upnphttp * h,$/;"	f
+CFLAGS	Makefile	/^CFLAGS = -Wall -O2 -s -D_GNU_SOURCE -DDEBUG -I .\/include\/ -I ..\/iptables-1.3.5\/include\/$/;"	m
+CFLAGS	igd/Makefile	/^CFLAGS = -Wall -O2 -s -D_GNU_SOURCE -DDEBUG -I ..\/include -I .\/include -I ..\/..\/iptables-1.3.5\/include\/ -L ..\/..\/iptables-1.3.5\/libiptc\/ -L ..\/$/;"	m
+ClearNameValueList	upnpreplyparse.c	/^ClearNameValueList(struct NameValueParserData * pdata)$/;"	f
+CloseSocket_upnphttp	upnphttp.c	/^CloseSocket_upnphttp(struct upnphttp * h)$/;"	f
+DESC_MAX_LEN	igd/include/igd_globalvars.h	11;"	d
+DUMMY_PATH	igd/include/igd_path.h	14;"	d
+DeletePortMapping	igd/igd_soap.c	/^DeletePortMapping(struct upnphttp * h)$/;"	f	file:
+Delete_event	upnpevent.c	/^void Delete_event(struct event_handle *event)$/;"	f
+Delete_upnphttp	upnphttp.c	/^Delete_upnphttp(struct upnphttp * h)$/;"	f
+DisplayNameValueList	upnpreplyparse.c	/^DisplayNameValueList(char * buffer, int bufsize)$/;"	f
+EGet	include/upnphttp.h	/^	EGet,$/;"	e	enum:httpCommands
+EMBED_DEVICE	include/minissdp.h	15;"	d
+EPost	include/upnphttp.h	/^	EPost$/;"	e	enum:httpCommands
+EUnknown	include/upnphttp.h	/^	EUnknown = 0,$/;"	e	enum:httpCommands
+EVENT_URL_LIST	igd/igd_upnp.c	/^struct event_list EVENT_URL_LIST[] = {$/;"	v	typeref:struct:event_list
+EXECUTABLES	igd/Makefile	/^EXECUTABLES = igd_upnpd$/;"	m
+ExecuteSoapAction	upnpsoap.c	/^ExecuteSoapAction(struct upnphttp * h, const char * action, int n)$/;"	f
+ForceTermination	igd/igd_soap.c	/^ForceTermination(struct upnphttp * h)$/;"	f	file:
+GetCommonLinkProperties	igd/igd_soap.c	/^GetCommonLinkProperties(struct upnphttp * h)$/;"	f	file:
+GetConnectionTypeInfo	igd/igd_soap.c	/^GetConnectionTypeInfo(struct upnphttp * h)$/;"	f	file:
+GetExternalIPAddress	igd/igd_soap.c	/^GetExternalIPAddress(struct upnphttp * h)$/;"	f	file:
+GetGenericPortMappingEntry	igd/igd_soap.c	/^GetGenericPortMappingEntry(struct upnphttp * h)$/;"	f	file:
+GetNATRSIPStatus	igd/igd_soap.c	/^GetNATRSIPStatus(struct upnphttp * h)$/;"	f	file:
+GetSpecificPortMappingEntry	igd/igd_soap.c	/^GetSpecificPortMappingEntry(struct upnphttp * h)$/;"	f	file:
+GetStatusInfo	igd/igd_soap.c	/^GetStatusInfo(struct upnphttp * h)$/;"	f	file:
+GetTotalBytesReceived	igd/igd_soap.c	/^GetTotalBytesReceived(struct upnphttp * h)$/;"	f	file:
+GetTotalBytesSent	igd/igd_soap.c	/^GetTotalBytesSent(struct upnphttp * h)$/;"	f	file:
+GetTotalPacketsReceived	igd/igd_soap.c	/^GetTotalPacketsReceived(struct upnphttp * h)$/;"	f	file:
+GetTotalPacketsSent	igd/igd_soap.c	/^GetTotalPacketsSent(struct upnphttp * h)$/;"	f	file:
+GetValueFromNameValueList	upnpreplyparse.c	/^GetValueFromNameValueList(struct NameValueParserData * pdata,$/;"	f
+HttpVer	include/upnphttp.h	/^	char HttpVer[16];$/;"	m	struct:upnphttp
+INSTALL	Makefile	/^INSTALL = install$/;"	m
+INSTALL	igd/Makefile	/^INSTALL = install$/;"	m
+IPConnection_service_types	igd/igd_upnp.c	/^static const struct service_type_uuid IPConnection_service_types[] =$/;"	v	typeref:struct:service_type_uuid	file:
+IP_XML_MOD	igd/include/igd_path.h	47;"	d
+IS_WHITE_SPACE	include/minixml.h	13;"	d
+K_APPS_PATH	Makefile	/^	export TK_APPS_PATH := $(shell pwd)\/..$/;"	m
+LANHCfgM_CONTROLURL	igd/include/igd_path.h	42;"	d
+LANHCfgM_EVENTURL	igd/include/igd_path.h	43;"	d
+LANHCfgM_PATH	igd/include/igd_path.h	41;"	d
+LANHCfgM_XML_PATH	igd/include/igd_path.h	44;"	d
+LAYER3F_CONTROLURL	igd/include/igd_path.h	32;"	d
+LAYER3F_EVENTURL	igd/include/igd_path.h	33;"	d
+LAYER3F_PATH	igd/include/igd_path.h	31;"	d
+LAYER3F_XML_PATH	igd/include/igd_path.h	34;"	d
+LIBS	igd/Makefile	/^LIBS = -liptc -lminiupnpd$/;"	m
+LIB_OBJ	Makefile	/^LIB_OBJ = libminiupnpd.so libminiupnpdstatic.a $/;"	m
+LNXOBJS	igd/Makefile	/^LNXOBJS = linux\/getifstats.o linux\/iptcrdr.o$/;"	m
+LOG_MINIUPNPD	include/config.h	13;"	d
+MAX_ADD_LISTEN_ADDR	igd/igd_upnp.c	40;"	d	file:
+MAX_ADD_LISTEN_ADDR	include/maco.h	6;"	d
+MAX_IP_ADDR	igd/include/igd_globalvars.h	13;"	d
+MAX_IP_ADDR	include/maco.h	7;"	d
+MAX_IP_ADDRESS	include/maco.h	10;"	d
+MAX_OPTION_VALUE_LEN	igd/include/options.h	30;"	d
+MAX_TYPE	igd/include/options.h	/^	MAX_TYPE$/;"	e	enum:upnpconfigoptions
+MAX_URL_LEN	include/maco.h	9;"	d
+MAX_UUID_LENGTH	include/maco.h	11;"	d
+MINIUPNPD_SERVER_STRING	include/maco.h	4;"	d
+NAME_MAX_LEN	igd/include/igd_globalvars.h	12;"	d
+NAT_ENABLE	igd/include/options.h	/^	NAT_ENABLE,$/;"	e	enum:upnpconfigoptions
+NameValue	include/upnpreplyparse.h	/^struct NameValue {$/;"	s
+NameValueParserData	include/upnpreplyparse.h	/^struct NameValueParserData {$/;"	s
+NameValueParserGetData	upnpreplyparse.c	/^NameValueParserGetData(void * d, const char * datas, int l)$/;"	f	file:
+NameValueParserStartElt	upnpreplyparse.c	/^NameValueParserStartElt(void * d, const char * name, int l)$/;"	f	file:
+New_upnphttp	upnphttp.c	/^New_upnphttp(int s)$/;"	f
+OS_NAME	include/config.h	9;"	d
+OS_URL	include/config.h	11;"	d
+OS_VERSION	include/config.h	10;"	d
+OpenAndConfHTTPSocket	miniupnpd.c	/^OpenAndConfHTTPSocket(const char * addr, unsigned short port)$/;"	f	file:
+OpenAndConfSSDPNotifySocket	minissdp.c	/^OpenAndConfSSDPNotifySocket(const char * addr)$/;"	f
+OpenAndConfSSDPReceiveSocket	minissdp.c	/^OpenAndConfSSDPReceiveSocket(const char * ifaddr,$/;"	f
+PID_FILE	igd/include/options.h	/^	PID_FILE,$/;"	e	enum:upnpconfigoptions
+PPPConnection_service_types	igd/igd_upnp.c	/^static const struct service_type_uuid PPPConnection_service_types[] =$/;"	v	typeref:struct:service_type_uuid	file:
+PPP_XML_MOD	igd/include/igd_path.h	46;"	d
+ParseHttpHeaders	upnphttp.c	/^ParseHttpHeaders(struct upnphttp * h)$/;"	f	file:
+ParseNameValue	upnpreplyparse.c	/^ParseNameValue(const char * buffer, int bufsize,$/;"	f
+ProcessHTTPPOST_upnphttp	upnphttp.c	/^ProcessHTTPPOST_upnphttp(struct upnphttp * h)$/;"	f	file:
+ProcessHttpQuery_upnphttp	upnphttp.c	/^ProcessHttpQuery_upnphttp(struct upnphttp * h, struct eventlisthead *pevent_handlehead, struct event_list *list)$/;"	f	file:
+ProcessSSDPRequest	minissdp.c	/^ProcessSSDPRequest(int s, const char * host, unsigned short port)$/;"	f
+Process_upnphttp	upnphttp.c	/^Process_upnphttp(struct upnphttp * h, struct eventlisthead *pevent_handlehead, struct event_list *list)$/;"	f
+QueryStateVariable	igd/igd_soap.c	/^QueryStateVariable(struct upnphttp * h)$/;"	f	file:
+RM	Makefile	/^RM = rm -f$/;"	m
+RM	igd/Makefile	/^RM = rm -f$/;"	m
+ROOTDESC_PATH	igd/include/igd_path.h	12;"	d
+ROOT_DEVICE	include/minissdp.h	14;"	d
+ROOT_XML_PATH	igd/include/igd_path.h	48;"	d
+RequestConnection	igd/igd_soap.c	/^RequestConnection(struct upnphttp * h)$/;"	f	file:
+SERVICE	include/minissdp.h	16;"	d
+SSDP_MCAST_ADDR	minissdp.c	28;"	d	file:
+SSDP_PORT	minissdp.c	27;"	d	file:
+Send404	upnphttp.c	/^Send404(struct upnphttp * h)$/;"	f	file:
+Send501	upnphttp.c	/^Send501(struct upnphttp * h)$/;"	f
+SendResp_upnphttp	upnphttp.c	/^SendResp_upnphttp(struct upnphttp * h)$/;"	f
+SendSSDPAnnounce2	minissdp.c	/^SendSSDPAnnounce2(int s, struct sockaddr_in sockname,$/;"	f	file:
+SendSSDPGoodbye	minissdp.c	/^SendSSDPGoodbye(int s)$/;"	f
+SendSSDPNotifies	minissdp.c	/^SendSSDPNotifies(int s, const char * host, unsigned short port)$/;"	f
+SoapError	upnpsoap.c	/^SoapError(struct upnphttp * h, int errCode, const char * errDesc)$/;"	f
+TYPE_ALL	minissdp.c	24;"	d	file:
+TYPE_DEVICE_SERVICE	minissdp.c	23;"	d	file:
+TYPE_ROOT	minissdp.c	22;"	d	file:
+TYPE_UUID	minissdp.c	21;"	d	file:
+UPC	igd/include/options.h	/^	UPC,$/;"	e	enum:upnpconfigoptions
+UPNPBITRATE_DOWN	igd/include/options.h	/^	UPNPBITRATE_DOWN,$/;"	e	enum:upnpconfigoptions
+UPNPBITRATE_UP	igd/include/options.h	/^	UPNPBITRATE_UP,$/;"	e	enum:upnpconfigoptions
+UPNPEXT_IFNAME	igd/include/options.h	/^	UPNPEXT_IFNAME,$/;"	e	enum:upnpconfigoptions
+UPNPEXT_IP	igd/include/options.h	/^	UPNPEXT_IP,$/;"	e	enum:upnpconfigoptions
+UPNPLISTENING_IP	igd/include/options.h	/^	UPNPLISTENING_IP,$/;"	e	enum:upnpconfigoptions
+UPNPNOTIFY_INTERVAL	igd/include/options.h	/^	UPNPNOTIFY_INTERVAL,$/;"	e	enum:upnpconfigoptions
+UPNPPACKET_LOG	igd/include/options.h	/^	UPNPPACKET_LOG,$/;"	e	enum:upnpconfigoptions
+UPNPPERM_ALLOW	igd/include/igd_permissions.h	/^	enum {UPNPPERM_ALLOW=1, UPNPPERM_DENY=2 } type;$/;"	e	enum:upnpperm::__anon1
+UPNPPERM_DENY	igd/include/igd_permissions.h	/^	enum {UPNPPERM_ALLOW=1, UPNPPERM_DENY=2 } type;$/;"	e	enum:upnpperm::__anon1
+UPNPPORT	igd/include/options.h	/^	UPNPPORT,$/;"	e	enum:upnpconfigoptions
+UPNPSYSTEM_UPTIME	igd/include/options.h	/^	UPNPSYSTEM_UPTIME, $/;"	e	enum:upnpconfigoptions
+UPNPUUID	igd/include/options.h	/^	UPNPUUID, $/;"	e	enum:upnpconfigoptions
+UPNP_INVALID	igd/include/options.h	/^	UPNP_INVALID = 0,$/;"	e	enum:upnpconfigoptions
+UPNP_VERSION	include/config.h	8;"	d
+WANCFG_CONTROLURL	igd/include/igd_path.h	17;"	d
+WANCFG_EVENTURL	igd/include/igd_path.h	18;"	d
+WANCFG_PATH	igd/include/igd_path.h	16;"	d
+WANCFG_XML_PATH	igd/include/igd_path.h	19;"	d
+WANEthLCfg_CONTROLURL	igd/include/igd_path.h	37;"	d
+WANEthLCfg_EVENTURL	igd/include/igd_path.h	38;"	d
+WANEthLCfg_PATH	igd/include/igd_path.h	36;"	d
+WANEthLCfg_XML_ATH	igd/include/igd_path.h	39;"	d
+WANIPC_CONTROLURL	igd/include/igd_path.h	22;"	d
+WANIPC_EVENTURL	igd/include/igd_path.h	23;"	d
+WANIPC_PATH	igd/include/igd_path.h	21;"	d
+WANIPC_XML_PATH	igd/include/igd_path.h	24;"	d
+WANPPPC_CONTROLURL	igd/include/igd_path.h	27;"	d
+WANPPPC_EVENTURL	igd/include/igd_path.h	28;"	d
+WANPPPC_PATH	igd/include/igd_path.h	26;"	d
+WANPPPC_XML_PATH	igd/include/igd_path.h	29;"	d
+WAN_TYPE	igd/include/options.h	/^	WAN_TYPE,$/;"	e	enum:upnpconfigoptions
+XMLElt	include/upnpdescgen.h	/^struct XMLElt {$/;"	s
+__CONFIG_H__	include/config.h	6;"	d
+__DAEMONIZE_H__	include/daemonize.h	9;"	d
+__GETIFADDR_H__	include/getifaddr.h	9;"	d
+__GETIFSTATS_H__	igd/linux/getifstats.h	8;"	d
+__H_IGDEVENTXML	igd/include/igd_eventxml.h	8;"	d
+__IGDDESCGEN_H__	igd/include/igd_descgen.h	8;"	d
+__IGDGLOBALVARS_H__	igd/include/igd_globalvars.h	8;"	d
+__IGDPATH_H__	igd/include/igd_path.h	8;"	d
+__IGDPERMISSIONS_H__	igd/include/igd_permissions.h	9;"	d
+__IGDREDIRECT_H__	igd/include/igd_redirect.h	9;"	d
+__IGDSOAP_H__	igd/include/igd_soap.h	9;"	d
+__IPTCRDR_H__	igd/linux/iptcrdr.h	9;"	d
+__MACO_H__	include/maco.h	2;"	d
+__MINISSDP_H__	include/minissdp.h	8;"	d
+__MINIUPNPD_H__	include/miniupnpd.h	3;"	d
+__MINIXML_H__	include/minixml.h	12;"	d
+__OBSDRDR_H__	igd/openbsd/obsdrdr.h	9;"	d
+__OPTIONS_H__	igd/include/options.h	8;"	d
+__PORT_H__	igd/include/port.h	11;"	d
+__UPNPDESCGEN_H__	include/upnpdescgen.h	8;"	d
+__UPNPEVENT_H_	include/upnpevent.h	8;"	d
+__UPNPHTTP_FUNC_H__	include/upnphttp_func.h	9;"	d
+__UPNPHTTP_H__	include/upnphttp.h	9;"	d
+__UPNPREPLYPARSE_H__	include/upnpreplyparse.h	9;"	d
+__UPNPSOAP_H__	include/upnpsoap.h	9;"	d
+add_filter_rule	igd/linux/iptcrdr.c	/^add_filter_rule(int proto, const char * iaddr, unsigned short iport)$/;"	f
+add_filter_rule2	igd/linux/iptcrdr.c	/^add_filter_rule2(const char * ifname, const char * iaddr,$/;"	f
+add_filter_rule2	igd/openbsd/obsdrdr.c	/^add_filter_rule2(const char * ifname, const char * iaddr,$/;"	f
+add_listen_addr	include/miniupnpd.h	/^	const char * add_listen_addr[MAX_ADD_LISTEN_ADDR];$/;"	m	struct:runtime_vars
+add_property	igd/igd_eventxml.c	/^static int add_property(char *buf, struct event_table *table)$/;"	f	file:
+add_redirect_desc	igd/linux/iptcrdr.c	/^add_redirect_desc(unsigned short eport, int proto, const char * desc)$/;"	f	file:
+add_redirect_rule2	igd/linux/iptcrdr.c	/^add_redirect_rule2(const char * ifname, unsigned short eport,$/;"	f
+add_redirect_rule2	igd/openbsd/obsdrdr.c	/^add_redirect_rule2(const char * ifname, unsigned short eport,$/;"	f
+addnatrule	igd/linux/iptcrdr.c	/^addnatrule(int proto, unsigned short eport,$/;"	f
+address	igd/include/igd_permissions.h	/^	struct in_addr address, mask;	\/* ip\/mask *\/$/;"	m	struct:upnpperm	typeref:struct:upnpperm::in_addr
+anchor_name	igd/openbsd/obsdrdr.c	/^static const char anchor_name[] = "miniupnpd";$/;"	v	file:
+attfunc	include/minixml.h	/^	void (*attfunc) (void *, const char *, int, const char *, int);$/;"	m	struct:xmlparser
+baudrate	igd/linux/getifstats.h	/^	unsigned long baudrate;$/;"	m	struct:ifdata
+call_back_URL	include/upnpevent.h	/^	char call_back_URL[MAX_URL_LEN];$/;"	m	struct:event_handle
+check_event	include/upnpevent.h	/^	int (*check_event)(void );$/;"	m	struct:event_list
+check_lanHcfg	igd/port.c	/^int check_lanHcfg()$/;"	f
+check_layer3	igd/port.c	/^int check_layer3()$/;"	f
+check_m_search	minissdp.c	/^int check_m_search(char *buf)$/;"	f
+check_m_search_line	minissdp.c	/^int check_m_search_line(char *buf)$/;"	f
+check_man	minissdp.c	/^int check_man(char *buf)$/;"	f
+check_mx	minissdp.c	/^int check_mx(char *buf)$/;"	f
+check_st	minissdp.c	/^int check_st(char *buf)$/;"	f
+check_upnp_rule_against_permissions	igd/igd_permissions.c	/^check_upnp_rule_against_permissions(const struct upnpperm * permary,$/;"	f
+check_wanEthCfg	igd/port.c	/^int check_wanEthCfg()$/;"	f
+check_wancfg	igd/port.c	/^int check_wancfg()$/;"	f
+check_wanip	igd/port.c	/^int check_wanip()$/;"	f
+check_wanppp	igd/port.c	/^int check_wanppp()$/;"	f
+checkforrunning	daemonize.c	/^checkforrunning(const char * fname)$/;"	f
+clear_redirect_rules	igd/openbsd/obsdrdr.c	/^clear_redirect_rules(void)$/;"	f
+creat_event_handle	upnpevent.c	/^static void creat_event_handle(struct upnphttp * h, struct eventlisthead *pevent_handlehead, struct event_list *list)$/;"	f	file:
+creat_time_flag	include/upnpevent.h	/^	time_t creat_time_flag;$/;"	m	struct:event_handle
+create_uuid	upnpevent.c	/^void create_uuid(char *buf)$/;"	f
+curelt	include/upnpreplyparse.h	/^    char curelt[64];$/;"	m	struct:NameValueParserData
+daemonize	daemonize.c	/^daemonize(void)$/;"	f
+data	include/minixml.h	/^	void * data;$/;"	m	struct:xmlparser
+data	include/upnpdescgen.h	/^	const char * data;	\/* Value *\/$/;"	m	struct:XMLElt
+datafunc	include/minixml.h	/^	void (*datafunc) (void *, const char *, int);$/;"	m	struct:xmlparser
+del_redirect_desc	igd/linux/iptcrdr.c	/^del_redirect_desc(unsigned short eport, int proto)$/;"	f	file:
+delete_filter_rule	igd/openbsd/obsdrdr.c	/^delete_filter_rule(const char * ifname, unsigned short eport, int proto)$/;"	f
+delete_redirect_and_filter_rules	igd/linux/iptcrdr.c	/^delete_redirect_and_filter_rules(unsigned short eport, int proto)$/;"	f
+delete_redirect_rule	igd/openbsd/obsdrdr.c	/^delete_redirect_rule(const char * ifname, unsigned short eport, int proto)$/;"	f
+delete_rule_and_commit	igd/linux/iptcrdr.c	/^delete_rule_and_commit(unsigned int index, iptc_handle_t *h,$/;"	f	file:
+divide	igd/options.c	/^int divide(char *buf, char *name, char *value)$/;"	f
+downstream_bitrate	igd/igd_globalvars.c	/^unsigned long downstream_bitrate = 0;$/;"	v
+dump_config	igd/igd_upnp.c	/^void dump_config()$/;"	f
+eltname	include/upnpdescgen.h	/^	const char * eltname;	\/* begin with '\/' if no child *\/$/;"	m	struct:XMLElt
+endeltfunc	include/minixml.h	/^	void (*endeltfunc) (void *, const char *, int);$/;"	m	struct:xmlparser
+entries	include/upnpevent.h	/^	LIST_ENTRY(event_handle) entries;$/;"	m	struct:event_handle
+entries	include/upnphttp.h	/^	LIST_ENTRY(upnphttp) entries;$/;"	m	struct:upnphttp
+entries	include/upnpreplyparse.h	/^    LIST_ENTRY(NameValue) entries;$/;"	m	struct:NameValue
+eport	igd/linux/iptcrdr.c	/^	unsigned short eport;$/;"	m	struct:rdr_desc	file:
+eport_max	igd/include/igd_permissions.h	/^	u_short eport_min, eport_max;	\/* external port range *\/$/;"	m	struct:upnpperm
+eport_min	igd/include/igd_permissions.h	/^	u_short eport_min, eport_max;	\/* external port range *\/$/;"	m	struct:upnpperm
+event_URL	include/upnpevent.h	/^	char event_URL[MAX_URL_LEN];$/;"	m	struct:event_handle
+event_URL	include/upnpevent.h	/^	const char * event_URL; $/;"	m	struct:event_list
+event_handle	include/upnpevent.h	/^struct  event_handle{$/;"	s
+event_head	igd/igd_eventxml.c	/^static char event_head[] = "<e:propertyset xmlns:e=\\"urn:schemas-upnp-org:event-1-0\\">\\r\\n";$/;"	v	file:
+event_list	include/upnpevent.h	/^struct event_list{$/;"	s
+event_table	include/upnpevent.h	/^struct event_table{$/;"	s
+event_tail	igd/igd_eventxml.c	/^static char event_tail[] = "<\/e:propertyset>\\r\\n";$/;"	v	file:
+ext_if_name	igd/igd_globalvars.c	/^char ext_if_name[NAME_MAX_LEN];$/;"	v
+find_event_URL	upnpevent.c	/^struct event_list *find_event_URL(struct event_list *url_list, char *URL)$/;"	f
+find_event_uuid	upnpevent.c	/^struct event_handle *find_event_uuid(struct eventlisthead *pevent_handlehead, char *uuid)$/;"	f
+findendheaders	upnphttp.c	/^findendheaders(const char * s, int len)$/;"	f	file:
+genLANHCfgM	igd/igd_descgen.c	/^char *genLANHCfgM(int * len)$/;"	f
+genLayer3F	igd/igd_descgen.c	/^char *genLayer3F(int * len)$/;"	f
+genRootDesc	igd/igd_descgen.c	/^genRootDesc(int * len)$/;"	f
+genServiceDesc_xml	upnpdescgen.c	/^char *genServiceDesc_xml(int *len, char *xml_path)$/;"	f
+genWANCfg	igd/igd_descgen.c	/^genWANCfg(int * len)$/;"	f
+genWANEthLCfg	igd/igd_descgen.c	/^char *genWANEthLCfg(int * len)$/;"	f
+genWANIPCn	igd/igd_descgen.c	/^genWANIPCn(int * len)$/;"	f
+genWANPPPCn	igd/igd_descgen.c	/^genWANPPPCn(int * len)$/;"	f
+gen_desc	include/upnphttp_func.h	/^		char* (*gen_desc)(int *);$/;"	m	struct:http_desc
+gen_lanHcfg_event_xml	igd/igd_eventxml.c	/^int gen_lanHcfg_event_xml(char *buf)$/;"	f
+gen_layer3_event_xml	igd/igd_eventxml.c	/^int gen_layer3_event_xml(char *buf)$/;"	f
+gen_root_xml	upnpdescgen.c	/^void gen_root_xml(char *mod_path, char *root_path, struct XMLElt *root_desc)$/;"	f
+gen_wanEthCfg_event_xml	igd/igd_eventxml.c	/^int gen_wanEthCfg_event_xml(char *buf)$/;"	f
+gen_wancfg_event_xml	igd/igd_eventxml.c	/^int gen_wancfg_event_xml(char *buf)$/;"	f
+gen_wanip_event_xml	igd/igd_eventxml.c	/^int gen_wanip_event_xml(char *buf)$/;"	f
+gen_wanppp_event_xml	igd/igd_eventxml.c	/^int gen_wanppp_event_xml(char *buf)$/;"	f
+gen_xml	include/upnpevent.h	/^	int (*gen_xml)(char *);$/;"	m	struct:event_list
+get_EthernetLinkStatus	igd/port.c	/^int get_EthernetLinkStatus(char *buf)$/;"	f
+get_Exip	igd/port.c	/^int get_Exip(char *buf)$/;"	f
+get_MappNum	igd/port.c	/^int get_MappNum(char *buf)$/;"	f
+get_XName	igd/port.c	/^int get_XName(char *buf)$/;"	f
+get_accept_target	igd/linux/iptcrdr.c	/^get_accept_target(void)$/;"	f	file:
+get_connectStatus	igd/port.c	/^int get_connectStatus(char *buf)$/;"	f
+get_connectType	igd/port.c	/^int get_connectType(char *buf)$/;"	f
+get_conserver	igd/port.c	/^int get_conserver(char *buf)$/;"	f
+get_dnat_target	igd/linux/iptcrdr.c	/^get_dnat_target(const char * daddr, unsigned short dport)$/;"	f	file:
+get_redirect_desc	igd/linux/iptcrdr.c	/^get_redirect_desc(unsigned short eport, int proto,$/;"	f	file:
+get_redirect_rule	igd/linux/iptcrdr.c	/^get_redirect_rule(const char * ifname, unsigned short eport, int proto,$/;"	f
+get_redirect_rule	igd/openbsd/obsdrdr.c	/^get_redirect_rule(const char * ifname, unsigned short eport, int proto,$/;"	f
+get_redirect_rule_by_index	igd/linux/iptcrdr.c	/^get_redirect_rule_by_index(int index,$/;"	f
+get_redirect_rule_by_index	igd/openbsd/obsdrdr.c	/^get_redirect_rule_by_index(int index,$/;"	f
+get_tcp_match	igd/linux/iptcrdr.c	/^get_tcp_match(unsigned short dport)$/;"	f	file:
+get_udp_match	igd/linux/iptcrdr.c	/^get_udp_match(unsigned short dport)$/;"	f	file:
+get_uptime	igd/port.c	/^unsigned int get_uptime()$/;"	f
+get_value	include/upnpevent.h	/^		int (*get_value)(char *);$/;"	m	struct:event_table
+get_wan_up	igd/port.c	/^int get_wan_up(char *ifname)$/;"	f
+getifaddr	getifaddr.c	/^getifaddr(const char * ifname, char * buf, int len)$/;"	f
+getifstats	igd/linux/getifstats.c	/^getifstats(const char * ifname, struct ifdata * data)$/;"	f
+getifstats	igd/openbsd/getifstats.c	/^getifstats(const char * ifname, struct ifdata * data)$/;"	f
+handle_subcribe	upnpevent.c	/^void handle_subcribe(struct upnphttp *h, struct eventlisthead *pevent_handlehead, struct event_list *list)$/;"	f
+handle_unsubcribe	upnpevent.c	/^void handle_unsubcribe(struct upnphttp *h, struct eventlisthead *pevent_handlehead, struct event_list *list)$/;"	f
+head	include/upnpreplyparse.h	/^    LIST_HEAD(listhead, NameValue) head;$/;"	m	struct:NameValueParserData
+httpCommands	include/upnphttp.h	/^enum httpCommands {$/;"	g
+http_desc	include/upnphttp_func.h	/^struct http_desc{$/;"	s
+httpresphead	upnphttp.c	/^static const char httpresphead[] =$/;"	v	file:
+ibytes	igd/linux/getifstats.h	/^	unsigned long ibytes;$/;"	m	struct:ifdata
+id	igd/include/options.h	/^	enum upnpconfigoptions id;$/;"	m	struct:option	typeref:enum:option::upnpconfigoptions
+ifdata	igd/linux/getifstats.h	/^struct ifdata {$/;"	s
+igd_http_desc	igd/igd_descgen.c	/^struct  http_desc igd_http_desc[]={$/;"	v	typeref:struct:http_desc
+igd_soapMethods	igd/igd_soap.c	/^struct method igd_soapMethods[] =$/;"	v	typeref:struct:method
+igd_uuidvalue	igd/igd_globalvars.c	/^char igd_uuidvalue[64] = "uuid:00000000-0000-0000-0000-000000000000";$/;"	v
+init	igd/igd_upnp.c	/^init(int argc, char * * argv, struct runtime_vars * v)$/;"	f	file:
+init_time_flag	include/upnpevent.h	/^	time_t init_time_flag;$/;"	m	struct:event_handle
+interval	igd/igd_globalvars.c	/^int interval = 30;$/;"	v
+ip_addr	include/upnpevent.h	/^	char ip_addr[MAX_IP_ADDRESS];$/;"	m	struct:event_handle
+ipackets	igd/linux/getifstats.h	/^	unsigned long ipackets;$/;"	m	struct:ifdata
+iport_max	igd/include/igd_permissions.h	/^	u_short iport_min, iport_max;	\/* internal port range *\/$/;"	m	struct:upnpperm
+iport_min	igd/include/igd_permissions.h	/^	u_short iport_min, iport_max;	\/* internal port range *\/$/;"	m	struct:upnpperm
+iptc_init_verify_and_append	igd/linux/iptcrdr.c	/^iptc_init_verify_and_append(const char * table, struct ipt_entry * e,$/;"	f	file:
+known_service_types	minissdp.c	/^struct  service_type_uuid *known_service_types;$/;"	v	typeref:struct:service_type_uuid
+lanHcfg_event_table	igd/igd_eventxml.c	/^struct event_table lanHcfg_event_table[] = {$/;"	v	typeref:struct:event_table
+lan_ipaddr	igd/igd_globalvars.c	/^char lan_ipaddr[NAME_MAX_LEN];$/;"	v
+lan_port	igd/igd_globalvars.c	/^char lan_port[NAME_MAX_LEN];$/;"	v
+layer3_event_table	igd/igd_eventxml.c	/^struct event_table layer3_event_table[] = {$/;"	v	typeref:struct:event_table
+list	igd/openbsd/getifstats.c	/^struct nlist list[] = {$/;"	v	typeref:struct:nlist
+list_redirect_rule	igd/linux/iptcrdr.c	/^list_redirect_rule(const char * ifname)$/;"	f
+list_rules	igd/openbsd/obsdrdr.c	/^list_rules(void)$/;"	f
+listen_addr	include/miniupnpd.h	/^	char listen_addr[MAX_IP_ADDR];$/;"	m	struct:runtime_vars
+logpackets	igd/igd_globalvars.c	/^int logpackets = 0;$/;"	v
+logpackets	igd/openbsd/testobsdrdr.c	/^int logpackets = 1;$/;"	v
+main	igd/igd_upnp.c	/^main(int argc, char * * argv)$/;"	f
+main	igd/linux/testiptcrdr.c	/^main(int argc, char ** argv)$/;"	f
+main	igd/openbsd/testgetifstats.c	/^main(int argc, char * * argv)$/;"	f
+main	igd/openbsd/testobsdrdr.c	/^main(int arc, char * * argv)$/;"	f
+mask	igd/include/igd_permissions.h	/^	struct in_addr address, mask;	\/* ip\/mask *\/$/;"	m	struct:upnpperm	typeref:struct:upnpperm::
+match_permission	igd/igd_permissions.c	/^match_permission(const struct upnpperm * perm,$/;"	f	file:
+method	include/upnpsoap.h	/^struct method$/;"	s
+methodImpl	include/upnpsoap.h	/^	void (*methodImpl)(struct upnphttp *);$/;"	m	struct:method
+methodName	include/upnpsoap.h	/^	const char * methodName; $/;"	m	struct:method
+miniupnp_deamon	miniupnpd.c	/^int miniupnp_deamon(struct runtime_vars *v, struct event_list *p_event_list)$/;"	f
+miniupnpd_chain	igd/linux/iptcrdr.c	/^static const char miniupnpd_chain[] = "MINIUPNPD";$/;"	v	file:
+my_strstr	upnpevent.c	/^char *my_strstr(const char *haystack, const char *needle, int mode)$/;"	f
+n_add_listen_addr	include/miniupnpd.h	/^	int n_add_listen_addr;$/;"	m	struct:runtime_vars
+name	include/upnpevent.h	/^		char *name;$/;"	m	struct:event_table
+name	include/upnpreplyparse.h	/^    char name[64];$/;"	m	struct:NameValue
+nat_enable	igd/igd_globalvars.c	/^int nat_enable = 1;$/;"	v
+next	igd/linux/iptcrdr.c	/^	struct rdr_desc * next;$/;"	m	struct:rdr_desc	typeref:struct:rdr_desc::rdr_desc	file:
+notify_interval	include/miniupnpd.h	/^	int notify_interval;	\/* seconds between SSDP announces *\/$/;"	m	struct:runtime_vars
+num_upnpperm	igd/igd_globalvars.c	/^unsigned int num_upnpperm = 0;$/;"	v
+obytes	igd/linux/getifstats.h	/^	unsigned long obytes;$/;"	m	struct:ifdata
+opackets	igd/linux/getifstats.h	/^	unsigned long opackets;$/;"	m	struct:ifdata
+option	igd/include/options.h	/^struct option$/;"	s
+optionids	igd/options.c	/^struct option optionids[] = {$/;"	v	typeref:struct:option
+parseatt	minixml.c	/^int parseatt(struct xmlparser * p)$/;"	f
+parseelt	minixml.c	/^void parseelt(struct xmlparser * p)$/;"	f
+parsexml	minixml.c	/^void parsexml(struct xmlparser * parser)$/;"	f
+path	include/upnphttp_func.h	/^		char *path;$/;"	m	struct:http_desc
+pidfilename	igd/igd_globalvars.c	/^char pidfilename[128] = "\/var\/run\/igd_miniupnpd.pid";$/;"	v
+port	include/miniupnpd.h	/^	int port;	\/* HTTP Port *\/$/;"	m	struct:runtime_vars
+port	include/upnpevent.h	/^	int port;$/;"	m	struct:event_handle
+preapre_send_event	upnpevent.c	/^void preapre_send_event(struct  event_handle *p_event)$/;"	f
+print_iface	igd/linux/iptcrdr.c	/^print_iface(const char * iface, const unsigned char * mask, int invert)$/;"	f	file:
+print_match	igd/linux/iptcrdr.c	/^print_match(const struct ipt_entry_match *match)$/;"	f	file:
+printip	igd/linux/iptcrdr.c	/^printip(uint32_t ip)$/;"	f	file:
+proto	igd/linux/iptcrdr.c	/^	short proto;$/;"	m	struct:rdr_desc	file:
+proto_atoi	igd/igd_redirect.c	/^proto_atoi(const char * protocol)$/;"	f	file:
+quitting	miniupnpd.c	/^static volatile int quitting = 0;$/;"	v	file:
+rdr_desc	igd/linux/iptcrdr.c	/^struct rdr_desc {$/;"	s	file:
+rdr_desc_list	igd/linux/iptcrdr.c	/^static struct rdr_desc * rdr_desc_list = 0;$/;"	v	typeref:struct:rdr_desc	file:
+read_permission_line	igd/igd_permissions.c	/^read_permission_line(struct upnpperm * perm,$/;"	f
+recv_event	upnpevent.c	/^void recv_event(struct event_handle *p_event)$/;"	f
+renew_service	upnpevent.c	/^void renew_service(struct upnphttp *h, struct eventlisthead *pevent_handlehead )$/;"	f
+req_buf	include/upnphttp.h	/^	char * req_buf;$/;"	m	struct:upnphttp
+req_buflen	include/upnphttp.h	/^	int req_buflen;$/;"	m	struct:upnphttp
+req_command	include/upnphttp.h	/^	enum httpCommands req_command;$/;"	m	struct:upnphttp	typeref:enum:upnphttp::httpCommands
+req_contentlen	include/upnphttp.h	/^	int req_contentlen;$/;"	m	struct:upnphttp
+req_contentoff	include/upnphttp.h	/^	int req_contentoff;     \/* header length *\/$/;"	m	struct:upnphttp
+req_soapAction	include/upnphttp.h	/^	char * req_soapAction;$/;"	m	struct:upnphttp
+req_soapActionLen	include/upnphttp.h	/^	int req_soapActionLen;$/;"	m	struct:upnphttp
+res_buf	include/upnphttp.h	/^	char * res_buf;$/;"	m	struct:upnphttp
+res_buf_alloclen	include/upnphttp.h	/^	int res_buf_alloclen;$/;"	m	struct:upnphttp
+res_buflen	include/upnphttp.h	/^	int res_buflen;$/;"	m	struct:upnphttp
+rootDesc	igd/igd_upnp.c	/^static const struct XMLElt rootDesc[] =$/;"	v	typeref:struct:XMLElt	file:
+root_device_path	minissdp.c	/^char root_device_path[128];$/;"	v
+runtime_vars	include/miniupnpd.h	/^struct runtime_vars {$/;"	s
+sendXMLdesc	upnphttp.c	/^sendXMLdesc(struct upnphttp * h, char * (f)(int *))$/;"	f	file:
+send_event_notify	upnpevent.c	/^void send_event_notify(struct event_handle *p_event, struct event_list *url_list )$/;"	f
+send_goodbye_name	minissdp.c	/^void send_goodbye_name(struct sockaddr_in *p_sockname, int s, struct  service_type_uuid *service)$/;"	f
+send_goodbye_uuid	minissdp.c	/^void send_goodbye_uuid(struct sockaddr_in *p_sockname, int s, struct  service_type_uuid *service)$/;"	f
+send_notify_name	minissdp.c	/^void send_notify_name(struct sockaddr_in *p_sockname,int s, const char * host, unsigned short port,struct  service_type_uuid *service)$/;"	f
+send_notify_uuid	minissdp.c	/^void send_notify_uuid(struct sockaddr_in *p_sockname,int s, const char * host, unsigned short port,struct  service_type_uuid *service)$/;"	f
+send_register_event_back	upnpevent.c	/^void send_register_event_back(struct event_handle *p_event, struct upnphttp *http)$/;"	f
+send_reply_search_name	minissdp.c	/^void send_reply_search_name(int s, struct sockaddr_in sockname,$/;"	f
+send_reply_search_uuid	minissdp.c	/^void send_reply_search_uuid(int s, struct sockaddr_in sockname,$/;"	f
+send_time_flag	include/upnpevent.h	/^	time_t send_time_flag;$/;"	m	struct:event_handle
+send_unsubcribe	upnpevent.c	/^void send_unsubcribe(struct upnphttp *h)$/;"	f
+seq	include/upnpevent.h	/^	int seq;$/;"	m	struct:event_handle
+service_name	include/minissdp.h	/^	char *service_name;$/;"	m	struct:service_type_uuid
+service_type	include/minissdp.h	/^	int service_type;$/;"	m	struct:service_type_uuid
+service_type_uuid	include/minissdp.h	/^struct service_type_uuid{$/;"	s
+set_startup_time	miniupnpd.c	/^set_startup_time(int sysuptime)$/;"	f	file:
+sigterm	miniupnpd.c	/^sigterm(int sig)$/;"	f	file:
+snprintip	igd/linux/iptcrdr.c	/^static int snprintip(char * dst, size_t size, uint32_t ip)$/;"	f	file:
+soapMethods	upnpsoap.c	/^struct method *soapMethods = NULL;$/;"	v	typeref:struct:method
+socket	include/upnpevent.h	/^	int socket;$/;"	m	struct:event_handle
+socket	include/upnphttp.h	/^	int socket;$/;"	m	struct:upnphttp
+start_wan	igd/port.c	/^int start_wan()$/;"	f
+starteltfunc	include/minixml.h	/^	void (*starteltfunc) (void *, const char *, int);$/;"	m	struct:xmlparser
+startup_time	miniupnpd.c	/^time_t startup_time = 0;$/;"	v
+state	include/upnpevent.h	/^	int state;\/* 0:registed; 100:init; -100:error; 200:connect sucess; 300:finish *\/$/;"	m	struct:event_handle
+state	include/upnphttp.h	/^	int state;$/;"	m	struct:upnphttp
+stop_wan	igd/port.c	/^int  stop_wan()$/;"	f
+str	igd/linux/iptcrdr.c	/^	char str[];$/;"	m	struct:rdr_desc	file:
+sysuptime	igd/igd_globalvars.c	/^int sysuptime = 0;$/;"	v
+test_index	igd/openbsd/testobsdrdr.c	/^test_index(void)$/;"	f
+time_out	include/upnpevent.h	/^	int time_out;$/;"	m	struct:event_handle
+type	igd/include/igd_permissions.h	/^	enum {UPNPPERM_ALLOW=1, UPNPPERM_DENY=2 } type;$/;"	m	struct:upnpperm	typeref:enum:upnpperm::__anon1
+upc	igd/igd_globalvars.c	/^char upc[NAME_MAX_LEN];$/;"	v
+upnp_delete_redirection	igd/igd_redirect.c	/^upnp_delete_redirection(unsigned short eport, const char * protocol)$/;"	f
+upnp_get_redirection_infos	igd/igd_redirect.c	/^upnp_get_redirection_infos(unsigned short eport, const char * protocol,$/;"	f
+upnp_get_redirection_infos_by_index	igd/igd_redirect.c	/^upnp_get_redirection_infos_by_index(int index,$/;"	f
+upnp_http_desc	upnphttp.c	/^struct http_desc *upnp_http_desc = NULL;$/;"	v	typeref:struct:http_desc
+upnp_init	miniupnpd.c	/^upnp_init(struct  service_type_uuid *service_type,char *pid_file,char *uuid,char *root_device,struct method *methods,struct http_desc *desc,int debug)$/;"	f
+upnp_redirect	igd/igd_redirect.c	/^upnp_redirect(unsigned short eport, $/;"	f
+upnpconfigoptions	igd/include/options.h	/^enum upnpconfigoptions {$/;"	g
+upnphttp	include/upnphttp.h	/^struct upnphttp {$/;"	s
+upnpperm	igd/include/igd_permissions.h	/^struct upnpperm {$/;"	s
+upnppermlist	igd/igd_globalvars.c	/^struct upnpperm * upnppermlist = 0;$/;"	v	typeref:struct:upnpperm
+upstream_bitrate	igd/igd_globalvars.c	/^unsigned long upstream_bitrate = 0;$/;"	v
+use_ext_ip_addr	igd/igd_globalvars.c	/^char use_ext_ip_addr[MAX_IP_ADDR];$/;"	v
+uuid	include/minissdp.h	/^	char *uuid;$/;"	m	struct:service_type_uuid
+uuid	include/upnpevent.h	/^	char uuid[MAX_UUID_LENGTH+1];$/;"	m	struct:event_handle
+uuid_igd	igd/igd_upnp.c	/^char uuid_igd[] = "fc4ec57e-28b1-11db-88f8-a16830956233";$/;"	v
+uuid_land	igd/igd_upnp.c	/^char uuid_land[] = "fc4ec57e-ba12-11db-88f8-a72469cbac1a";$/;"	v
+uuid_wancd	igd/igd_upnp.c	/^char uuid_wancd[] = "fc4ec57e-092a-11db-88f8-0578ab52457c";$/;"	v
+uuid_wand	igd/igd_upnp.c	/^char uuid_wand[] = "fc4ec57e-2753-11db-88f8-0060085db3f6";$/;"	v
+uuidvalue	minissdp.c	/^char uuidvalue[64] = "uuid:00000000-0000-0000-0000-000000000000";$/;"	v
+value	igd/include/options.h	/^	char value[MAX_OPTION_VALUE_LEN];$/;"	m	struct:option
+value	include/upnpreplyparse.h	/^    char value[64];$/;"	m	struct:NameValue
+wanEthCfg_event_table	igd/igd_eventxml.c	/^struct event_table wanEthCfg_event_table[] = {$/;"	v	typeref:struct:event_table
+wan_type	igd/igd_globalvars.c	/^int wan_type = 0;\/* default to set ip mode *\/$/;"	v
+wancfg_event_table	igd/igd_eventxml.c	/^struct event_table wancfg_event_table[] = {$/;"	v	typeref:struct:event_table
+wanip_event_table	igd/igd_eventxml.c	/^struct event_table wanip_event_table[] = {$/;"	v	typeref:struct:event_table
+wanppp_event_table	igd/igd_eventxml.c	/^struct event_table wanppp_event_table[] = {$/;"	v	typeref:struct:event_table
+writepidfile	daemonize.c	/^writepidfile(const char * fname, int pid)$/;"	f
+xml	include/minixml.h	/^	const char *xml;	\/* pointer to current character *\/$/;"	m	struct:xmlparser
+xmlend	include/minixml.h	/^	const char *xmlend;$/;"	m	struct:xmlparser
+xmlparser	include/minixml.h	/^struct xmlparser {$/;"	s
+xmlsize	include/minixml.h	/^	int xmlsize;$/;"	m	struct:xmlparser
+xmlstart	include/minixml.h	/^	const char *xmlstart;$/;"	m	struct:xmlparser

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10283"
+   name=""
+   committed-date="2005-05-10T08:22:56.045633Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/inet"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="8809"
+   name="getservice.c"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2004-05-07T05:26:31.000000Z"
+   checksum="000e6cc7e7332be07a21dcad5c6dba46"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:16.000000Z"/>
+<entry
+   committed-rev="4154"
+   name="herror.c"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2002-02-02T11:00:37.000000Z"
+   checksum="64367e23560a1dc2ce4c02f4dd201cb3"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:16.000000Z"/>
+<entry
+   committed-rev="6504"
+   name="ether_addr.c"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2003-01-30T18:17:55.000000Z"
+   checksum="41031182e0d6888a04e8d4cda1657692"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:16.000000Z"/>
+<entry
+   committed-rev="4414"
+   name="gai_strerror.c"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2002-03-19T11:28:17.000000Z"
+   checksum="df67e001d683f6a1acb8a63ab4be955f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:16.000000Z"/>
+<entry
+   name="rpc"
+   kind="dir"/>
+<entry
+   committed-rev="8635"
+   name="getproto.c"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2004-03-18T11:12:34.000000Z"
+   checksum="94a5731d3fdfcffbabdc44108b7af0f4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:16.000000Z"/>
+<entry
+   committed-rev="7614"
+   name="inet_net.c"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2003-10-08T19:35:20.000000Z"
+   checksum="9b4211ef59db4e01642bc070ffee8c88"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:16.000000Z"/>
+<entry
+   committed-rev="9865"
+   name="socketcalls.c"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2005-02-13T08:01:45.457167Z"
+   checksum="270031ce831a69af37ba7ff6ce773853"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:16.000000Z"/>
+<entry
+   committed-rev="9647"
+   name="addr.c"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2005-01-06T04:02:00.000000Z"
+   checksum="39c804f8fea629f7ee277327d63cc427"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:16.000000Z"/>
+<entry
+   committed-rev="10283"
+   name="resolv.c"
+   text-time="2005-05-10T09:42:57.000000Z"
+   committed-date="2005-05-10T08:22:56.045633Z"
+   checksum="c74f4b5335b392e09ff2529ff974a125"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-10T09:42:57.000000Z"/>
+<entry
+   committed-rev="3778"
+   name="getnetbynm.c"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2001-11-21T14:56:43.000000Z"
+   checksum="6f9ea815741deca022f6fa273fda6d88"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:16.000000Z"/>
+<entry
+   committed-rev="1176"
+   name=".indent.pro"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2000-10-09T20:06:30.000000Z"
+   checksum="6bea8d1b7f6cfeb6b6c2a95596c69c6d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:16.000000Z"/>
+<entry
+   committed-rev="5036"
+   name="ntop.c"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2002-07-10T04:32:03.000000Z"
+   checksum="65519c11ef2548190b8996856718d8d0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:16.000000Z"/>
+<entry
+   committed-rev="8021"
+   name="ntohl.c"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2003-12-02T17:59:06.000000Z"
+   checksum="5fed72bda08e6439c6bf1309ecc0dfba"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:16.000000Z"/>
+<entry
+   committed-rev="5989"
+   name="in6_addr.c"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2002-11-21T07:03:25.000000Z"
+   checksum="ec8dca4b803a941124f31a26d9c46a9b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:17.000000Z"/>
+<entry
+   committed-rev="3778"
+   name="getnetbyad.c"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2001-11-21T14:56:43.000000Z"
+   checksum="be0dda8cf8b500db58684dfc1bbcbe8e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:17.000000Z"/>
+<entry
+   committed-rev="5990"
+   name="getaddrinfo.c"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2002-11-21T07:05:33.000000Z"
+   checksum="a49877d093e9b39b1e70f3dba317650b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:17.000000Z"/>
+<entry
+   committed-rev="8894"
+   name="if_nametoindex.c"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2004-06-12T08:41:18.000000Z"
+   checksum="64cc2bb5155b2142980ed174ea1170c0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:17.000000Z"/>
+<entry
+   committed-rev="3778"
+   name="hostid.c"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2001-11-21T14:56:43.000000Z"
+   checksum="be3c5b668d0c218553f1866146b440e9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:17.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="38c817677b659c5b4636e741eee43f9d"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:17.000000Z"/>
+<entry
+   committed-rev="8812"
+   name="getnetent.c"
+   text-time="2005-05-02T06:10:17.000000Z"
+   committed-date="2004-05-07T10:00:36.000000Z"
+   checksum="a8c0f094e544d093bf1e66aadcfb361a"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:17.000000Z"/>
+</wc-entries>

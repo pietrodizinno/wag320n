@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/termios"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="4051"
+   name="tcgetattr.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2002-01-09T19:40:21.000000Z"
+   checksum="814da5d268e9ed0da86c69ff7c72ee6a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8951"
+   name="ttyname.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-07-15T09:09:24.000000Z"
+   checksum="b570f1efb7bdb1a744b831034687ce94"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="7406"
+   name="termios.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2003-09-06T06:09:51.000000Z"
+   checksum="d2788b9d8ec071f201c930df2b688b9e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="2272"
+   name="tcgetsid.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2001-04-06T20:28:45.000000Z"
+   checksum="8e663cbffa82dcbddd6fd7747624e694"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="4051"
+   name="kernel_termios.h"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2002-01-09T19:40:21.000000Z"
+   checksum="f692010d2d978c8367b073cd58a17213"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="ffd926b8862ca3aa8ec7b0bc707ccccb"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="1176"
+   name=".indent.pro"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2000-10-09T20:06:30.000000Z"
+   checksum="6bea8d1b7f6cfeb6b6c2a95596c69c6d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="4051"
+   name="tcsetattr.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2002-01-09T19:40:21.000000Z"
+   checksum="61ab7bf62cf14ec80e1e333a71cb6650"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+</wc-entries>

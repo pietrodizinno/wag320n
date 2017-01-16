@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="7614"
+   name=""
+   committed-date="2003-10-08T19:35:20.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/include/netinet"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10284"/>
+<entry
+   committed-rev="3438"
+   name="igmp.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="316cce92cacbf8a02a7328911ace7afc"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="ip6.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="38524f0bc27e910a111b168d85f5b29e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="if_tr.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="a8f466967c768de80bb5024bda9c8070"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="785"
+   name="ip_fw.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2000-07-09T02:16:27.000000Z"
+   checksum="bcf680eed8d024548b22b335b1ee5d20"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="in_systm.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="ce2a68d71f506f674e90bc4b016049e2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="3449"
+   name="in.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T07:22:21.000000Z"
+   checksum="22f502cf9a4c77067b24866ceef5153e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="ether.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="24859084265c260de462662787d68092"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="ip.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="af8c4110a9f55f9115de19645adf65e5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="icmp6.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="617cd8aae413e9e2757c5db00dd8a023"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="7614"
+   name="ip_tcp.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2003-10-08T19:35:20.000000Z"
+   checksum="b0de8f9aae2b7097a81fada3ca788e95"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="ip_icmp.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="f15ea5725081ac4662677510b747b8b3"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="785"
+   name="ip_udp.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2000-07-09T02:16:27.000000Z"
+   checksum="878b3438cc377ef8ac1f17382ccfa9c2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="if_fddi.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="0f6efca27e020b46f14c796a76bf4130"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="785"
+   name="protocols.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2000-07-09T02:16:27.000000Z"
+   checksum="947ffdaad2e3335f88caf146b6056205"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="if_ether.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="08eba9fd6760b20d0f914b1f3eb8161e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="tcp.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="c72967ada935d11c381cb34d1943dec5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="udp.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="089c911a41c192760bb057ef74df3cd8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+</wc-entries>

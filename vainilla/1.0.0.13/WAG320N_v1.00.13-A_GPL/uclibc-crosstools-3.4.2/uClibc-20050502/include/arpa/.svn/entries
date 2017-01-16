@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3442"
+   name=""
+   committed-date="2001-09-27T05:29:22.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/include/arpa"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10284"/>
+<entry
+   committed-rev="3438"
+   name="ftp.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="f1c730a52fed8182847b459c8a7cccef"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="nameser.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="4743f96c3a734ba4339fb20ea4ff8ae8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="telnet.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="7b3eac4e7def3b3bffa60a3870b50034"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="3442"
+   name="nameser_compat.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T05:29:22.000000Z"
+   checksum="046b015f233b6cc05ec7d2e11802c401"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="tftp.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="640a89f99d1cf7b569497cbc5f3cbc3b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="inet.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="d639eb4ff67a4139ca5a9a6268e6a33f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+</wc-entries>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8416"
+   name=""
+   committed-date="2004-02-06T07:07:16.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/microblaze/bits"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="7649"
+   name="kernel_stat.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-10-14T11:52:32.000000Z"
+   checksum="8fcaae18bdf9ef47e634e61627eb3cec"
+   last-author="davidm"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="7649"
+   name="syscalls.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-10-14T11:52:32.000000Z"
+   checksum="71c503c7e9814ec83349fd38e6443328"
+   last-author="davidm"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="7649"
+   name="byteswap.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-10-14T11:52:32.000000Z"
+   checksum="975f8b1a9cc1eab35ea43e7f7d416322"
+   last-author="davidm"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="7649"
+   name="endian.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-10-14T11:52:32.000000Z"
+   checksum="42abcb4b695d998e26d8b6ab84d40f12"
+   last-author="davidm"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="7649"
+   name="select.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-10-14T11:52:32.000000Z"
+   checksum="78fecddb77f6057a8529c25247313360"
+   last-author="davidm"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="7649"
+   name="setjmp.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-10-14T11:52:32.000000Z"
+   checksum="8f2b00d06ef62da4d9731cee56832796"
+   last-author="davidm"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="8416"
+   name="kernel_types.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2004-02-06T07:07:16.000000Z"
+   checksum="1591a8551ada2b105020b131f01df670"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="7649"
+   name="fcntl.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-10-14T11:52:32.000000Z"
+   checksum="abbd31586c4a7c6b075317b29ec0d3a5"
+   last-author="davidm"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="7649"
+   name="poll.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-10-14T11:52:32.000000Z"
+   checksum="62044bd81cc738191ec730dc57346b78"
+   last-author="davidm"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="7649"
+   name="wordsize.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-10-14T11:52:32.000000Z"
+   checksum="2c314799fcb85777712bab1e53ef150a"
+   last-author="davidm"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="7649"
+   name="mman.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-10-14T11:52:32.000000Z"
+   checksum="9eb67a7798fc3365d6c6a74cccb7a26e"
+   last-author="davidm"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+</wc-entries>

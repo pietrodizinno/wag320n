@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4309"
+   name=""
+   committed-date="2002-03-01T20:46:26.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/m68k/sys"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="4309"
+   name="ucontext.h"
+   text-time="2005-05-02T06:10:23.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="ef8e89b60c5151c07b3ffbee72ff5abd"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="4309"
+   name="procfs.h"
+   text-time="2005-05-02T06:10:23.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="6e12536fa0e9b77378f24e401cd40f90"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="4309"
+   name="reg.h"
+   text-time="2005-05-02T06:10:23.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="53f3488df34fc8c51f3919d605cf5d87"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+</wc-entries>

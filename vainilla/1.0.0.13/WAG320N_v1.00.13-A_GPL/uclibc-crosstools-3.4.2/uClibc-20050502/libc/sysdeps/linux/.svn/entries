@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10271"
+   name=""
+   committed-date="2005-05-07T22:20:37.168644Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux"
+   last-author="jocke"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   name="arm"
+   kind="dir"/>
+<entry
+   name="powerpc"
+   kind="dir"/>
+<entry
+   name="sh64"
+   kind="dir"/>
+<entry
+   name="m68k"
+   kind="dir"/>
+<entry
+   name="alpha"
+   kind="dir"/>
+<entry
+   name="microblaze"
+   kind="dir"/>
+<entry
+   name="i960"
+   kind="dir"/>
+<entry
+   name="common"
+   kind="dir"/>
+<entry
+   name="i386"
+   kind="dir"/>
+<entry
+   name="nios2"
+   kind="dir"/>
+<entry
+   committed-rev="1287"
+   name="README"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2000-11-04T23:15:45.000000Z"
+   checksum="7ecf0a2008a62d3446e882b8d9994160"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:26.000000Z"/>
+<entry
+   name="frv"
+   kind="dir"/>
+<entry
+   name="x86_64"
+   kind="dir"/>
+<entry
+   name="cris"
+   kind="dir"/>
+<entry
+   name="v850"
+   kind="dir"/>
+<entry
+   name="h8300"
+   kind="dir"/>
+<entry
+   name="e1"
+   kind="dir"/>
+<entry
+   name="nios"
+   kind="dir"/>
+<entry
+   name="mips"
+   kind="dir"/>
+<entry
+   name="sparc"
+   kind="dir"/>
+<entry
+   name="sh"
+   kind="dir"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="c179ebb1ee9c462f15fd79347e36bea1"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   name="bfin"
+   kind="dir"/>
+</wc-entries>

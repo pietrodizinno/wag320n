@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9977"
+   name=""
+   committed-date="2005-03-07T20:15:39.307104Z"
+   url="svn://uclibc.org/trunk/uClibc/libm"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:11.000000Z"
+   revision="10221"/>
+<entry
+   committed-rev="9974"
+   name="w_cabs.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="071696886118e62d29ef5d2747020a45"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_exp.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="2d80d2141a6ca9dd484f2f4f10a6da42"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_finite.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="c5d02c6386027e473f02dccebc92ba72"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_acosh.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="8e9a38d154e26f5e9aedb43f4f6e73a3"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_floor.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="dc6b79cd5c64ccddc729592674b0b6a5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_sinh.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="469e75f12f1ea075ee676c2d2832f0b7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_atan2.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="4d0a2281e5f4af741083143b20935e13"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_fmod.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="ede4fe713a1a605ba27d629e55996685"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_expm1.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="45b4b49d27f2ddb525c84e538b31e5db"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_j0.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="56073d86fc9344226d15bd517318cab1"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_copysign.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="51949f1ca217c420ef2b57c0f6901597"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_exp.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="c5a44ecf5e6ce8acb86f4d9d9f514efd"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_nextafter.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="9465bfdd9929cd4f8e31a5cc33632e91"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_acosh.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="ffd1f0ca04d6b7b015952c63257f2ce9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_log10.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="78a17edd1d52afb87ea1eb590cf08652"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="k_rem_pio2.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="f68cc1f1a0b47e4c2d9e158fe445cbe6"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_atan2.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="1803e923ba58c22610970e4d0328abc1"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9976"
+   name="Makefile"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-07T10:52:38.844366Z"
+   checksum="b429ea045889a9a604bee8b80381f3e3"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_sqrt.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="ebf0fda52e4c0cfe1cbc928250f3324b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_jn.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="adabd5e3ff4ab03dd18f4332a8a6e46d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_j1.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="6836a0b6232009b1a9f7c832f9bda595"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_lgamma.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="65459d8e37af4cc06449ebaee20c28ec"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_ceilf.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="8f3c48429e9f0fe9d1bef2d390da8cf8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="fp_private.h"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="8de035910038cdc4dedf69f039aeafb8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_atan.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="3f40a13e3676a99e52e3664e8c89da9e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_lgamma_r.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="513972c8833168bccf19eae9d0af17c8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_frexp.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="6ea10370b6f08865c6d69d67214b6c51"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="3780"
+   name="s_signgam.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2001-11-22T14:04:29.000000Z"
+   checksum="6e3ad4ef4aa864537a27097ae2a85781"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_hypot.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="7c1e427bd4765a9248f3b6fbe1e0bf37"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_log10.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="96e924873ffc24531c8d34a85bbc83d3"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_acos.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="5e929ccd2235474db33028a85db7666c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_ilogb.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="a759b62505bf3b5c6df20d476adcd48f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_asin.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="8b4af69d40f81b6d3b6bde406b8dc46e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_cosh.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="b190b90dc55e3a657add34562dfb2172"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_asinh.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="68897a84444e63665aee0207d09e4fa4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_scalbn.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="c0f1ba6b83baf870d5df86b3fe440c21"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_gamma.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="171ba4563e2805a71b972757c55d6dd4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_hypot.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="ca93cc401bc83c56b25940dbb152bf2b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_fmod.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="bb800fca524db742224670b3ed66714a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_erf.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="0880d9118063572a37615dcc6531ec15"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_rint.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="543dc60bd509870202a949bf400863c1"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   name="powerpc"
+   kind="dir"/>
+<entry
+   committed-rev="9974"
+   name="e_atanh.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="bf68cd511381011cffd13db8a592a574"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_significand.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="903402eb2bfe3e4aea15fbc573828d60"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_logb.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="b5897b0e2359135308fd4ee40bffdb3c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_modf.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="a8ac8dd45bbcb9275951fc71f0b54c9a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_gamma.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="d4e3db00254a73c3c262ef5523c4147b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="fpmacros.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="5f6798eaa8a3a138daedb419259116b1"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_remainder.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="30996ca2692f4a8b00458889c7ea073d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="k_standard.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="47c10fb64663af376b985c45a091b458"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_jn.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="fa51c374b6bd2ed9d3c57909fc29e8a3"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_cbrt.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="8384e788668d3c0b7add65278364d509"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_drem.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="7d70be4c5a3c045b7408fdd2c77c8131"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_j1.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="9a9a8a450cad18cca835387bbbda7d57"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_rem_pio2.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="3bf64ce4c38a413e9d0b8c46aeb1018f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_atanh.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="e0395ea71cc2d7de6fa1e79bda7a45fb"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_lgamma_r.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="6039d30f80bfdd8a154752ccc888bd5f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_matherr.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="00685180d94290e8b0857ca8387d3aec"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_log.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="c4d5e1cd5877ceff7306b881f0529337"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_sinh.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="31aea8922f1a4e918bbe7c4394eae9e0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9977"
+   name="float_wrappers.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-07T20:15:39.307104Z"
+   checksum="9f786e61cd26649ae7ff6d66cf125806"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_scalb.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="ce570a83ecd2e7f590bd62e14bea9bff"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="math_private.h"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="79e1caaddceee003b4123b967812af24"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_acos.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="cdf0ec40aae5a215f78009aa0407d398"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="k_tan.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="d93104e3b3d227dabb6bf5e1f83ef463"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_remainder.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="2d91ca3e3758d06af7da642d7f277763"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_fabs.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="76fff33c280fa5a7a97b7bf89dc17166"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_ldexp.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="3903a9c017438893375fc8b858a81c52"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_ceil.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="388e7c1dabfac44b247ce073acb3ad42"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_asin.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="07e617d0518de16e1dc92c12d55e0c00"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="k_cos.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="ad85800c35fea0bf36c5bb82b1be4960"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_j0.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="0e758a01a0d7594c35075866d2054aca"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_cosh.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="0c7fa64f5da8373941545c6465f9a7bc"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="k_sin.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="e3327f15c2906d82fa6fc94fb9c67fc7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_log1p.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="dcd19639b5f34f4fee6783354811ba67"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_tan.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="187c40994f0d024ffb9e86c89d302ca2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_cos.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="fc1ba96e0d2e73f1eea75666d99dd830"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_gamma_r.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="2b4d555b59fdbe81a98172e024575aca"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_log.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="b05a2ab8eb7636e79dfce8439931f791"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_floorf.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="bd0da96fd847479198ad89a0fc4794ad"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="e_pow.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="fbd072424063e19bf23f8fa5aaaff707"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_scalb.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="ac75a8296908bdfc98750396cc893b3b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_sin.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="7e42c105cab4d68dd72f6fca8f9b5b7b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="4748"
+   name="nan.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2002-05-09T08:15:21.000000Z"
+   checksum="145cdbcdd2f5fa6da0e897835bc249aa"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="README"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="6d94df39d609f612b3b1c7833ddc9bcc"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_tanh.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="5bc53427ef3fdef68433f14fa441c859"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_sqrt.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="716db64213a8aa26bf1cad9b66d35740"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_lgamma.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="f9c5879715ca959ac980e6a0445a1a61"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_gamma_r.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="d395d3ac7ad36fc593f354fab1ce4ff3"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_pow.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="b3a3309d0d93ce1c0764e2c38642cc0b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_lib_version.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="708f3f0089a724e8585a1fb75aed0f87"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+</wc-entries>

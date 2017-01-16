@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="7206"
+   name=""
+   committed-date="2003-08-13T20:08:30.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/sh64/sys"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="7206"
+   name="ucontext.h"
+   text-time="2005-05-02T06:10:22.000000Z"
+   committed-date="2003-08-13T20:08:30.000000Z"
+   checksum="bcd98dae4b245edb94ece2d80cb9d1ee"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:22.000000Z"/>
+</wc-entries>

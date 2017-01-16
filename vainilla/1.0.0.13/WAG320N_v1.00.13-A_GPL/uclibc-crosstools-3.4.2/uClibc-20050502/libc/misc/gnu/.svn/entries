@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/misc/gnu"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="7969"
+   name="obstack.c"
+   text-time="2005-05-02T06:10:32.000000Z"
+   committed-date="2003-11-20T17:13:53.000000Z"
+   checksum="1544b2243937b04dc335f145148212b2"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:32.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:32.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="e17159d2b19b0a24ef74287959b0feb3"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:32.000000Z"/>
+</wc-entries>

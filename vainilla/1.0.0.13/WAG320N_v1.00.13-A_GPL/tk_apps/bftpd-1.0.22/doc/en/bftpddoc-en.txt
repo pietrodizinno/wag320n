@@ -1,0 +1,405 @@
+  bftpd documentation
+  written by Max-Wilhelm Bruker <brukie@gmx.net>
+
+
+  This document is the documentation for the bftpd FTP server.
+  ______________________________________________________________________
+
+  Table of Contents
+
+
+  1. Introduction
+  2. Installation
+     2.1 Compiling
+     2.2 Running the server
+
+  3. Configuration
+     3.1 User management
+     3.2 The configuration file
+        3.2.1 The global structure
+        3.2.2 User structures
+        3.2.3 Group structures
+        3.2.4 Directory structures
+
+  4. FAQ
+     4.1 Problems while compiling
+        4.1.1 I can't compile bftpd
+        4.1.2 There are strange warnings
+        4.1.3 Make tells me I can't use wtmp
+     4.2 Problems when trying to run it
+        4.2.1 I get a warning like "Could not get peer IP address."
+        4.2.2 I get an error like "Bind failed: Address already in use."
+     4.3 Problems during the FTP sessions
+        4.3.1 I get an error like "500 Unknown command: 'foo'"
+        4.3.2 The session terminates with a 421 error
+     4.4 Miscellaneous
+        4.4.1 How does the on-the-fly compression work?
+        4.4.2 My options for an anonymous user don't work
+        4.4.3 Why is there so little documentation?
+
+  5. Credits
+     5.1 Portability testing
+     5.2 Suggestions, bug reports & code contributions
+     5.3 Documentation contributions
+     5.4 Others
+
+
+  ______________________________________________________________________
+
+  11..  IInnttrroodduuccttiioonn
+
+  bftpd is an FTP server for Linux, BSD/OS, FreeBSD, Solaris, DG-UX and
+  Tru64. (I don't know if it runs on other systems, please mail me if
+  you have tried it). It runs either with inetd or standalone.
+
+  It tries to be very configurable while being fast and small. You can
+  make defaults for each configuration option, and then override these
+  defaults in user-specific and directory-specific structures.
+
+  Features of bftpd include:
+
+  +o  Easy configuration
+
+  +o  Speed
+
+  +o  Support for most RFC FTP commands
+
+  +o  tar.gz on-the-fly compression/archiving
+
+  +o  Security with chroot without special setup
+
+  +o  No need for files (sh, ls...) in a chroot environment
+
+  +o  Logging to wtmp and to a logfile or syslog
+
+  +o  PAM and passwd/shadow support
+
+  +o  Support for SITE CHOWN/CHMOD
+
+  22..  IInnssttaallllaattiioonn
+
+  22..11..  CCoommppiilliinngg
+
+  First execute the following commands (replacing x.x.x by the version
+  number you are installing):
+
+
+       tar xzf bftpd-x.x.x.tar.gz
+       cd bftpd-x.x.x
+       ./configure
+       make
+       make install
+
+
+
+  Note that you have to copy bftpd.conf from the source directory to
+  /etc manually if you are upgrading from a previous version, as 'make
+  install' does not overwrite your existing configuration.
+
+  Note: If you want to use the 'tar.gz on-the-fly' feature of bftpd, you
+  must grab the source code of the program "pax" and extract it into a
+  subdirectory of the bftpd source directory. Then, instead of doing
+  "./configure", do "./configure --enable-pax=pax-sourcedir --enable-
+  libz".  You must also have the library libz and its header file,
+  /usr/include/zlib.h.
+
+  22..22..  RRuunnnniinngg tthhee sseerrvveerr
+
+  bftpd runs in either standalone or inetd mode.
+
+     IIff yyoouu wwaanntt iinneettdd mmooddee
+        Add the following to your /etc/inetd.conf:
+
+
+          ftp stream tcp nowait root /usr/sbin/bftpd bftpd
+
+
+
+     Give inetd a HUP or reboot your system. Your FTP server should work
+     now.
+
+     IIff yyoouu wwaanntt iinneettdd mmooddee wwiitthh xxiinneettdd
+        Add the following to your /etc/xinetd.conf:
+
+
+
+     service ftp
+     {
+         disable = no
+         socket_type             = stream
+         wait                    = no
+         user                    = root
+         server                  = /usr/sbin/bftpd
+         log_on_success          += DURATION USERID
+         log_on_failure          += USERID
+         nice                    = 10
+     }
+
+
+
+     (contributed by JackRipper)
+
+     IIff yyoouu wwaanntt ssttaannddaalloonnee mmooddee::
+        Make the OS execute
+
+
+          /usr/sbin/bftpd -d
+
+
+
+     at bootup.
+
+  33..  CCoonnffiigguurraattiioonn
+
+  33..11..  UUsseerr mmaannaaggeemmeenntt
+
+  You can manage the users simply by editing /etc/passwd and, if your
+  system supports it, /etc/shadow. Any user existent in /etc/passwd can
+  connect to the FTP server if he has a usable password and meets
+  certain configurable criteria. Having anonymous users is possible by
+  setting a configuration variable called ANONYMOUS_USER to yes. PAM is
+  also supported.
+
+  33..22..  TThhee ccoonnffiigguurraattiioonn ffiillee
+
+  33..22..11..  TThhee gglloobbaall ssttrruuccttuurree
+
+  In the "global" structure, you can assign values to configuration
+  options. The syntax is like the following:
+
+
+       global {
+         name1="value1"
+         name2="value2"
+       }
+
+
+
+  33..22..22..  UUsseerr ssttrruuccttuurreess
+
+  There are also user structures, in which you can override the global
+  settings for particular users. Example:
+
+
+
+  global {
+    name1="value1"
+    name2="value2"
+  }
+  user foo {
+    name1="value3"
+  }
+
+
+
+  If the user foo is logged in, name1 will be value3. If another user is
+  logged in, name1 will be value1. name2 is always value2.
+
+  33..22..33..  GGrroouupp ssttrruuccttuurreess
+
+  You can also define options for groups of users. It is just as it
+  would be for one user, but you can put more than one user in a group.
+  You can also put system groups into them by using the @ character.
+  Example:
+
+
+       group foo,bar,@baz {
+         name1="value1"
+       }
+
+
+
+  This options affect the users foo and bar and every user who is in the
+  system group baz. A supplementary membership is sufficient.
+
+  33..22..44..  DDiirreeccttoorryy ssttrruuccttuurreess
+
+  You can set options which affects only the users who are in a certain
+  directory, or in any subdirectory of it, recursively. Note that you
+  must put these structures _i_n_s_i_d_e the global, user and group
+  structures. This way, you can also override directory-specific
+  settings for particular users. Example:
+
+
+       global {
+         name1="value1"
+         directory "/foo" {
+           name1="value2"
+         }
+       }
+       user bar {
+         directory "/foo" {
+           name1="value3"
+         }
+       }
+
+
+
+  In this example, name1 will be value3 if the user bar is in the direc-
+  tory /foo. It will be value2 if another user is in the directory /foo.
+  In any other case, it will be value1.
+
+  An explanation of the name/value pairs is in the example configuration
+  file supplied with bftpd (if you are not upgrading, this file has
+  already been copied to /etc on your system). Modify it so that it fits
+  your needs. The defaults should be OK though.
+
+
+  44..  FFAAQQ
+
+  44..11..  PPrroobblleemmss wwhhiillee ccoommppiilliinngg
+
+  44..11..11..  II ccaann''tt ccoommppiillee bbffttppdd
+
+  Let me know. Please tell me what architecture and operating system you
+  are using, and give me the output of the complete compilation process
+  (configure and make). I don't get a lot of mail, so I'll try to answer
+  your questions. If I don't reply, I have almost certainly forgotten
+  your mail, so please send it again :)
+
+  44..11..22..  TThheerree aarree ssttrraannggee wwaarrnniinnggss
+
+  It is likely that compiling bftpd on a platform I haven't tested may
+  give you some warnings. Even if it compiles successfully and runs
+  without crashing, please tell me, as compiler warnings _c_a_n cause
+  problems which are not obvious.
+
+  44..11..33..  MMaakkee tteellllss mmee II ccaann''tt uussee wwttmmpp
+
+  You are probably running Solaris. As I don't have access to a Solaris
+  computer, I have never been able to test the wtmp functions in it. If
+  you get a warning like this and you don't know what wtmp is, just
+  don't care, else help me to fix the error.
+
+  44..22..  PPrroobblleemmss wwhheenn ttrryyiinngg ttoo rruunn iitt
+
+  44..22..11..  II ggeett aa wwaarrnniinngg lliikkee ""CCoouulldd nnoott ggeett ppeeeerr IIPP aaddddrreessss..""
+
+  You have started bftpd on the console. If you want to run it as a
+  standalone server, you have to invoke it with the "-d" option. If you
+  have set it up as an inetd server, you can test it with:
+
+
+       hostname:~$ ftp localhost
+
+
+
+  44..22..22..  II ggeett aann eerrrroorr lliikkee ""BBiinndd ffaaiilleedd:: AAddddrreessss aallrreeaaddyy iinn uussee..""
+
+  This error means that another process has bound itself to the port you
+  want to run bftpd on. You can set this port in bftpd.conf with the
+  option PORT in the global structure. It defaults to 21. If you have
+  not changed that, you probably forgot to turn off your old FTP server.
+  Look in /etc/inetd.conf and in "ps auxwww | grep ftp".
+
+  44..33..  PPrroobblleemmss dduurriinngg tthhee FFTTPP sseessssiioonnss
+
+  44..33..11..  II ggeett aann eerrrroorr lliikkee ""550000 UUnnkknnoowwnn ccoommmmaanndd:: ''ffoooo''""
+
+  Your client has sent a command to the server which it didn't
+  understand. This is my fault, unless you have written a really
+  inexistent command. Please check your command for typographic errors
+  and report the error to me if you are sure that the command was right.
+
+  44..33..22..  TThhee sseessssiioonn tteerrmmiinnaatteess wwiitthh aa 442211 eerrrroorr
+
+  If you try to log in with a wrong password, bftpd will terminate the
+  connection. If you already had logged in before the error appeared, or
+  the error appeared before you could log in, it definitely is a bug.
+  Please tell me everything about it.
+
+
+
+  44..44..  MMiisscceellllaanneeoouuss
+
+  44..44..11..  HHooww ddooeess tthhee oonn--tthhee--ffllyy ccoommpprreessssiioonn wwoorrkk??
+
+  Let's say you have a directory called foo. Even if there is no file
+  called foo.tar.gz, you can RETR this file over FTP and it will contain
+  the contents of the directory foo, tar-gzipped. You can also RETR the
+  following files:
+
+  +o  dirname.tar
+
+  +o  filename.gz
+
+     If you want to use this, you must compile it in (see the
+     installation section).
+
+  44..44..22..  MMyy ooppttiioonnss ffoorr aann aannoonnyymmoouuss uusseerr ddoonn''tt wwoorrkk
+
+  If you have a structure with an ALIAS=... in it, you mustn't put any
+  more options in it. Instead, put them into the structure the alias
+  points to.
+
+  44..44..33..  WWhhyy iiss tthheerree ssoo lliittttllee ddooccuummeennttaattiioonn??
+
+  The answer is simple, nobody has written anything :)
+  I never know what to write, so if you have any idea of how to improve
+  the documentation, please tell me. The same applies to translations of
+  documentation. If you want to contribute something, just do it, but
+  _p_l_e_a_s_e care about typographic errors and grammar.
+
+  55..  CCrreeddiittss
+
+  55..11..  PPoorrttaabbiilliittyy tteessttiinngg
+
+
+  +o  David L. Nicol (david@kasey.umkc.edu) tested bftpd on Tru64.
+
+  +o  JackRipper (vic@altoona.net) tested bftpd on BSD/OS and DG-UX.
+
+  +o  Christian Beyerlein (christian@beyerlein.de) tested bftpd on
+     FreeBSD and Solaris.
+
+  +o  The people from #linux (IRCNet) tested bftpd on various operating
+     systems.
+
+  55..22..  SSuuggggeessttiioonnss,, bbuugg rreeppoorrttss && ccooddee ccoonnttrriibbuuttiioonnss
+
+
+  +o  Josh Woodcock (josh@hamparts.com) gave some hints about Solaris 8.
+
+  +o  Floh (floh@maflohsoft.de) suggested the ASCII mode support.
+
+  +o  Erik Hensema (erik@hensema.xs4all.nl) found a Linux 2.4.0 netfilter
+     bug which affected bftpd.
+
+  +o  Heiko Rother (rother@cmsnet.de) suggested a lot of things (see
+     changelog).
+
+  +o  Christophe Bailleux (cb@grolier.fr) loves to find problems in the
+     directory listing routines. He also suggested a lot of things and
+     contributed some code.
+
+  +o  Jonathan Heusser (jonathanheusser@gyml.unibas.ch) found a buffer
+     overflow bug.
+
+
+  +o  Christian Beyerlein (christian@beyerlein.de) suggested to make user
+     aliases.
+
+  +o  Elmusafir (jslmarti@campus.cem.itesm.mx) reported the StarOffice
+     problem fixed in 1.0.8.
+
+  +o  Alex Madden (alexm@immstudios.com) and Daniel Mack
+     (daniel.mack@nextra.de) reported the Solaris imcompatibility fixed
+     in 1.0.8.
+
+  +o  Daniel Mack (daniel.mack@nextra.de) contributed a big patch (see
+     changelog).
+
+  55..33..  DDooccuummeennttaattiioonn ccoonnttrriibbuuttiioonnss
+
+
+  +o  Radek Michalski (radek@end.p-s.com.pl) translates the bftpd docs
+     into Polish and also contributes new text.
+
+  55..44..  OOtthheerrss
+
+
+  +o  Some ideas about code structure and portability where taken from
+     betaftpd bei Steinar H. Gunderson. But these were only a few lines!
+
+
+

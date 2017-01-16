@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9862"
+   name=""
+   committed-date="2005-02-12T20:59:08.359318Z"
+   url="svn://uclibc.org/trunk/uClibc/test/mmap"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:02.000000Z"
+   revision="10221"/>
+<entry
+   committed-rev="6642"
+   name="mmap.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2003-02-26T02:13:56.000000Z"
+   checksum="1d9ba3c16ebe7dfe4c8d66fa7c8a5294"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="8229"
+   name="Makefile"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2004-01-02T23:07:57.000000Z"
+   checksum="3ffe655e12ed50e58f9441be0e8d56d9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+</wc-entries>

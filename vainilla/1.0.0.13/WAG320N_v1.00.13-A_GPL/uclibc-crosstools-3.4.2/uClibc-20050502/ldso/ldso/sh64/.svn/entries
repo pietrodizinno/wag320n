@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10189"
+   name=""
+   committed-date="2005-04-27T12:46:57.366347Z"
+   url="svn://uclibc.org/trunk/uClibc/ldso/ldso/sh64"
+   last-author="lethal"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="10066"
+   name="dl-syscalls.h"
+   text-time="2005-05-02T06:10:14.000000Z"
+   committed-date="2005-03-31T19:30:38.223384Z"
+   checksum="2d5701887bf66aca7857842b54c94f8a"
+   last-author="lethal"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+<entry
+   committed-rev="9042"
+   name="resolve.S"
+   text-time="2005-05-02T06:10:14.000000Z"
+   committed-date="2004-07-30T03:31:31.000000Z"
+   checksum="cf2fe39a0377a0c2e36141b17d7f6bba"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+<entry
+   committed-rev="10189"
+   name="dl-startup.h"
+   text-time="2005-05-02T06:10:14.000000Z"
+   committed-date="2005-04-27T12:46:57.366347Z"
+   checksum="dd6d319a776e0ad050cc047f3a085682"
+   last-author="lethal"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+<entry
+   committed-rev="10066"
+   name="elfinterp.c"
+   text-time="2005-05-02T06:10:14.000000Z"
+   committed-date="2005-03-31T19:30:38.223384Z"
+   checksum="44e4dae651933b0f13e8458e61dfa2fe"
+   last-author="lethal"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+<entry
+   committed-rev="10066"
+   name="dl-sysdep.h"
+   text-time="2005-05-02T06:10:14.000000Z"
+   committed-date="2005-03-31T19:30:38.223384Z"
+   checksum="9a642abdfa47012867be41d94379ce71"
+   last-author="lethal"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+</wc-entries>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10063"
+   name=""
+   committed-date="2005-03-31T18:14:44.422642Z"
+   url="svn://uclibc.org/trunk/uClibc/docs/uclibc.org"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10221"/>
+<entry
+   committed-rev="9703"
+   name="news.html"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-01-14T17:07:51.000000Z"
+   checksum="7baf1fb4b55c2601f071f8af32437047"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9833"
+   name="developer.html"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-02-09T18:24:45.197956Z"
+   checksum="b6262ea5571f1eb00b3853219840a3e9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9921"
+   name="header.html"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-02-21T22:02:27.383695Z"
+   checksum="2233f5b33bedcb43ace257a7f14fed1c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="8076"
+   name="other_libs.html"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2003-12-11T07:54:56.000000Z"
+   checksum="8a2f12d6591d7e97cb09157834b8b55e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="10063"
+   name="footer.html"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-31T18:14:44.422642Z"
+   checksum="b0a73354695fd9b00f7ee898da74d4dc"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9816"
+   name="lists.html"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-02-08T20:27:08.990791Z"
+   checksum="a995c599601b610e7259ebef291a36aa"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9824"
+   name="subversion.html"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-02-09T06:50:57.326529Z"
+   checksum="b0bbbade2c8c4d00d5559629fd9aa934"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="7858"
+   name="uClibc-apps.html"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2003-11-08T08:48:34.000000Z"
+   checksum="7125ff8a143322560b38e584c4e2aaaa"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="9816"
+   name="products.html"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-02-08T20:27:08.990791Z"
+   checksum="ca5ec45f1d0d9d62d369506e74556bc0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9921"
+   name="toolchains.html"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-02-21T22:02:27.383695Z"
+   checksum="8a7d0ac4fb4f96e5e79c9a7c6ec44b9e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9921"
+   name="FAQ.html"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-02-21T22:02:27.383695Z"
+   checksum="99db35a6ba55130fc3ac0fa3f6a49009"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9816"
+   name="download.html"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-02-08T20:27:08.990791Z"
+   checksum="9a15f1b23822888d3ebfc238373024d8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="8240"
+   name="index.html"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2004-01-03T11:06:48.000000Z"
+   checksum="71189376812d14d2241d5852be6be55e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="8240"
+   name="about.html"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2004-01-03T11:06:48.000000Z"
+   checksum="8b0f3848579efb10d17d0e6c20beac1e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9816"
+   name="oldnews.html"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-02-08T20:27:08.990791Z"
+   checksum="e5c69d43f620b5acf976f36716ca3949"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+</wc-entries>

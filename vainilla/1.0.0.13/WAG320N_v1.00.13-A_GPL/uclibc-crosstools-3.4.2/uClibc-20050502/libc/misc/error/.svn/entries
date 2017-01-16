@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/misc/error"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="8614"
+   name="err.c"
+   text-time="2005-05-02T06:10:32.000000Z"
+   committed-date="2004-03-11T10:10:53.000000Z"
+   checksum="152f1b1612bfebe2f94fc80a6737cba6"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:32.000000Z"/>
+<entry
+   committed-rev="8614"
+   name="error.c"
+   text-time="2005-05-02T06:10:32.000000Z"
+   committed-date="2004-03-11T10:10:53.000000Z"
+   checksum="53bd2014a6da86f8ff4deae207cea4d9"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:32.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:32.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="0c93ef2492e85a60f4359fe7f264301f"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:32.000000Z"/>
+</wc-entries>

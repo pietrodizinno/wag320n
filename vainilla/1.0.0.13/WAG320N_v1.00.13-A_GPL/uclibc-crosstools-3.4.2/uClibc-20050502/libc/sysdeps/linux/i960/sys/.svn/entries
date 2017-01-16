@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4912"
+   name=""
+   committed-date="2002-06-18T01:10:28.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/i960/sys"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="4912"
+   name="ucontext.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-06-18T01:10:28.000000Z"
+   checksum="2ecae0cbb81abba87788cfc6a8306572"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="4912"
+   name="procfs.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-06-18T01:10:28.000000Z"
+   checksum="6e12536fa0e9b77378f24e401cd40f90"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+</wc-entries>

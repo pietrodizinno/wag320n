@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10185"
+   name=""
+   committed-date="2005-04-27T07:37:16.784175Z"
+   url="svn://uclibc.org/trunk/uClibc/docs"
+   last-author="lethal"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10221"/>
+<entry
+   committed-rev="9675"
+   name="Glibc_vs_uClibc_Differences.txt"
+   text-time="2005-05-02T06:10:12.000000Z"
+   committed-date="2005-01-11T09:55:02.000000Z"
+   checksum="b1076833010fc6d542f8380dbee135cb"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   name="uclibc.org"
+   kind="dir"/>
+<entry
+   committed-rev="9721"
+   name="threads.txt"
+   text-time="2005-05-02T06:10:12.000000Z"
+   committed-date="2005-01-18T02:30:03.000000Z"
+   checksum="6c1e276154a4d6fcb534a71a015297b7"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:12.000000Z"/>
+<entry
+   committed-rev="10185"
+   name="uClibc_vs_SuSv3.txt"
+   text-time="2005-05-02T06:10:12.000000Z"
+   committed-date="2005-04-27T07:37:16.784175Z"
+   checksum="1e7723d6299710791fdf016ddbe141bc"
+   last-author="lethal"
+   kind="file"
+   prop-time="2005-05-02T06:10:12.000000Z"/>
+</wc-entries>

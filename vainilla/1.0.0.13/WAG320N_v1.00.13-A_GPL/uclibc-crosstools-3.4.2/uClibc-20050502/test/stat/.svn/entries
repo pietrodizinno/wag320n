@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9862"
+   name=""
+   committed-date="2005-02-12T20:59:08.359318Z"
+   url="svn://uclibc.org/trunk/uClibc/test/stat"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:03.000000Z"
+   revision="10221"/>
+<entry
+   committed-rev="6471"
+   name="stat.c"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2003-01-24T19:21:30.000000Z"
+   checksum="6142f18e1a639bd1be7cb70681902078"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="8229"
+   name="Makefile"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2004-01-02T23:07:57.000000Z"
+   checksum="a268f6e869a149dddd108317ad10a61c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+</wc-entries>

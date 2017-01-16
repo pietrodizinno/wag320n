@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/misc/statfs"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="5747"
+   name="statfs64.c"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2002-10-31T18:20:21.000000Z"
+   checksum="86600e210f93f027a71edd650f96918a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="5441"
+   name="fstatvfs.c"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2002-09-03T21:58:19.000000Z"
+   checksum="3d35a92ad9fadea5fcd429d945b30489"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="5747"
+   name="fstatfs64.c"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2002-10-31T18:20:21.000000Z"
+   checksum="77f55f7c1c278d06363b9ec5ca53454e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="5747"
+   name="statvfs64.c"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2002-10-31T18:20:21.000000Z"
+   checksum="d6db6bce12c48c20b63ec9f99168e16e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="4029"
+   name="internal_statvfs.c"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2002-01-06T08:51:00.000000Z"
+   checksum="3041534010688d03655f734d4ab31273"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="5747"
+   name="fstatvfs64.c"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2002-10-31T18:20:21.000000Z"
+   checksum="47530c5487a1ee9f7c49ccb7d21d4c7a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="5441"
+   name="statvfs.c"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2002-09-03T21:58:19.000000Z"
+   checksum="fe1f7c285f4a6493d986651378f97471"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="6786ce77d4e3bcceeded795ac7972774"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+</wc-entries>

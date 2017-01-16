@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/i960"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   name="bits"
+   kind="dir"/>
+<entry
+   committed-rev="5791"
+   name="clone.S"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-11-03T15:01:18.000000Z"
+   checksum="60147dffdcbfe83c275b0ac278ae6c7c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="4912"
+   name="setjmp.S"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-06-18T01:10:28.000000Z"
+   checksum="038f180e632772df39b8e3eb4b2fcee5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="4912"
+   name="specs.uclinux.gcc-2.95.i960-intel-coff"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-06-18T01:10:28.000000Z"
+   checksum="70dbd3b2a50ef97dc4242f128e9e3a27"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="4912"
+   name="AUTHORS"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-06-18T01:10:28.000000Z"
+   checksum="051c4c06182c954282ff4d23c11b69d8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="4912"
+   name="vfork.S"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-06-18T01:10:28.000000Z"
+   checksum="13cd174ef54392675d7eb06995984e83"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="8839"
+   name="crt0.S"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2004-05-14T10:51:16.000000Z"
+   checksum="6e80af7538ab928d7ac348fb7de720c7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="8328"
+   name="mmap.S"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2004-01-21T23:27:48.000000Z"
+   checksum="43dbf627d76c46b6a2348845de7907c0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="17bec5f15345f90c9475f4aa0ae2e5c9"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="7857"
+   name="README"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-11-08T08:09:02.000000Z"
+   checksum="495d74ff9f194b9bb62d632f72819340"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   name="sys"
+   kind="dir"/>
+</wc-entries>

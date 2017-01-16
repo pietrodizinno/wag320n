@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10034"
+   name=""
+   committed-date="2005-03-16T23:22:01.174369Z"
+   url="svn://uclibc.org/trunk/uClibc/extra/Configs"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10221"/>
+<entry
+   committed-rev="9579"
+   name="Config.bfin"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-12-21T08:35:58.000000Z"
+   checksum="beeac0fee0af9cd609f680e5f21cf5e1"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="8297"
+   name="Config.powerpc"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-01-16T13:43:30.000000Z"
+   checksum="a55b27b163ea6c7eca0856c4724d392a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="8296"
+   name="Config.arm"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-01-16T13:38:10.000000Z"
+   checksum="5dc6da54f5f1f0825238fc09310fd76b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="9590"
+   name="Config.frv.default"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-12-22T21:14:23.000000Z"
+   checksum="46558c419546bdf623a1f69a3f83c496"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="10027"
+   name="Config.in.arch"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-03-16T23:12:44.456747Z"
+   checksum="05566f6e998b489f92ea5f71121a4f8d"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="7779"
+   name="Config.default"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2003-11-04T20:58:12.000000Z"
+   checksum="a11b08eb019892704755bf6c969a25c8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="8297"
+   name="Config.alpha"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-01-16T13:43:30.000000Z"
+   checksum="d821a7c7cf0adcad5eb94076fe558fb2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="10026"
+   name="Config.m68k"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-03-16T23:12:06.232422Z"
+   checksum="9535e664f53fcbc50fc4713facaa6b0f"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="8296"
+   name="Config.i960"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-01-16T13:38:10.000000Z"
+   checksum="e62a863c8c5ffa8c8419c513c5acc8d1"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="8296"
+   name="Config.microblaze"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-01-16T13:38:10.000000Z"
+   checksum="ae4084e2e7a1058a924bce93eddc9b82"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="9981"
+   name="Config.i386"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-03-09T05:43:40.896345Z"
+   checksum="a049de97c9e90ed558a8bf7174813122"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="8957"
+   name="Config.nios2"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-07-16T11:09:34.000000Z"
+   checksum="4ecfae42a5161c6d4ff720e8f93f8486"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="8811"
+   name="Config.frv"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-05-07T06:52:18.000000Z"
+   checksum="e18eb00603b7a04b9b18c218f629845d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="9874"
+   name="Config.x86_64"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-02-15T00:58:49.806225Z"
+   checksum="3b53489a9a62b84dcbafda74bf125a9e"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="8297"
+   name="Config.cris"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-01-16T13:43:30.000000Z"
+   checksum="7dffa97588484ef14af1b209c0fe9a7e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="8296"
+   name="Config.h8300"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-01-16T13:38:10.000000Z"
+   checksum="59376f4f0e46d1d72f50d72087a5f28e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="8296"
+   name="Config.v850"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-01-16T13:38:10.000000Z"
+   checksum="f2e9d5e2a7f1deb253772ace3879a773"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="9134"
+   name="Config.e1"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-08-19T23:04:26.000000Z"
+   checksum="3f51c8eb6cad0439f3a4e07eb7a8532c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="10027"
+   name="Config.in"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-03-16T23:12:44.456747Z"
+   checksum="ae0428a87ed0e1e1c678f46a078666fa"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="8296"
+   name="Config.mips"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-01-16T13:38:10.000000Z"
+   checksum="2fed3bcad0088502ba2019164b1ef340"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="8957"
+   name="Config.nios"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-07-16T11:09:34.000000Z"
+   checksum="3e2391f0ab532c23827802968bebcba2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="10034"
+   name="Config.sparc"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-03-16T23:22:01.174369Z"
+   checksum="8888bdf428db581f1c421a72299ba6b0"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="8297"
+   name="Config.sh"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-01-16T13:43:30.000000Z"
+   checksum="13071eee6a994bafa4decb17b366b529"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+</wc-entries>

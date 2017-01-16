@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6934"
+   name=""
+   committed-date="2003-06-17T18:39:54.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libpthread/linuxthreads/sysdeps/m68k"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10221"/>
+<entry
+   committed-rev="6934"
+   name="pt-machine.h"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2003-06-17T18:39:54.000000Z"
+   checksum="88333bef9cec7c3ba51befe72791d86d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+</wc-entries>

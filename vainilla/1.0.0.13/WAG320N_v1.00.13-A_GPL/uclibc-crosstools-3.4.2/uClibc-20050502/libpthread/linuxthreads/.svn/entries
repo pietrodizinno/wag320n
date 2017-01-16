@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9943"
+   name=""
+   committed-date="2005-02-28T01:52:50.684355Z"
+   url="svn://uclibc.org/trunk/uClibc/libpthread/linuxthreads"
+   last-author="mjn3"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10221"/>
+<entry
+   committed-rev="4243"
+   name="configure"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2002-02-20T09:18:50.000000Z"
+   checksum="195448b77fca2db009228b5246ce5381"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="4243"
+   name="rwlock.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2002-02-20T09:18:50.000000Z"
+   checksum="ed3d970be342d0250bedca2cde530e21"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="4243"
+   name="linuxthreads.texi"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2002-02-20T09:18:50.000000Z"
+   checksum="249f12cc58cf303796e1cab04e902bab"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="8185"
+   name="mutex.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2003-12-27T23:30:50.000000Z"
+   checksum="66a3a220d3b3c6cce920889c1b11bce5"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="9108"
+   name="internals.h"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2004-08-16T19:21:45.000000Z"
+   checksum="536e1be48b699e10241a416c08d7547d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="6867"
+   name="wrapsyscall.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2003-05-30T04:47:47.000000Z"
+   checksum="421972d9918bd51167374db52791eeec"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="4243"
+   name="ptlongjmp.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2002-02-20T09:18:50.000000Z"
+   checksum="0b89bb81b43ffabc8b00f852c9dc1a14"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="8297"
+   name="manager.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2004-01-16T13:43:30.000000Z"
+   checksum="b399238e6a3a3b2d86339b0a92306620"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="6646"
+   name="spinlock.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2003-02-27T18:13:05.000000Z"
+   checksum="d9ab392bcc065c95890a32487b2a34a3"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="9943"
+   name="semaphore.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2005-02-28T01:52:50.684355Z"
+   checksum="e3141619696e2842f85bf00a3aff8256"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="8185"
+   name="specific.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2003-12-27T23:30:50.000000Z"
+   checksum="304eaf2f50520ca3257a2eb2ccc7b725"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="9788"
+   name="pthread.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2005-01-31T15:35:46.000000Z"
+   checksum="28b4b658f29355f580c20353ea3c66bf"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="4243"
+   name="Changes"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2002-02-20T09:18:50.000000Z"
+   checksum="42abf0908c9241a2a63c903f7de729be"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="6646"
+   name="spinlock.h"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2003-02-27T18:13:05.000000Z"
+   checksum="149455f77e1da550a7eae2dd3565365c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="6646"
+   name="semaphore.h"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2003-02-27T18:13:05.000000Z"
+   checksum="be0c550c3bb65e0bb78e8b8a3c63319e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="4243"
+   name="debug.h"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2002-02-20T09:18:50.000000Z"
+   checksum="2d1cda8537d9a0b090b174fb998eeb22"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="9926"
+   name="Makefile"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2005-02-23T04:05:19.457132Z"
+   checksum="c91f92da4e6b9517a25bd87c657d2782"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="9792"
+   name="join.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2005-02-01T16:43:29.000000Z"
+   checksum="5a223d20008f9c6e3b0703fd1fa8808a"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="7150"
+   name="locale.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2003-08-01T20:08:59.000000Z"
+   checksum="381aea268dbf80840cba9247a252e088"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="8835"
+   name="signals.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2004-05-14T10:22:10.000000Z"
+   checksum="07696ff01f558ba88efdec8826da6b19"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="4243"
+   name="LICENSE"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2002-02-20T09:18:50.000000Z"
+   checksum="73640207fbc79b198c7ffd4ad4d97aa0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="5305"
+   name="events.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2002-08-19T10:05:03.000000Z"
+   checksum="aa4e910f51eca6c57e4140320ba7bf92"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="8807"
+   name="ptfork.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2004-05-06T09:16:11.000000Z"
+   checksum="0c8817600414fcb0472bffee3d2b7095"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   name="sysdeps"
+   kind="dir"/>
+<entry
+   committed-rev="6871"
+   name="attr.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2003-06-02T17:51:32.000000Z"
+   checksum="0837edb63dd73e0535d68882fb1525ae"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="4243"
+   name="README"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2002-02-20T09:18:50.000000Z"
+   checksum="766c136916cfa7a086dc62d3b0af3fe9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="6871"
+   name="oldsemaphore.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2003-06-02T17:51:32.000000Z"
+   checksum="86ae3ce8392d3e113cab7d6298312da0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="5305"
+   name="errno.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2002-08-19T10:05:03.000000Z"
+   checksum="f966abda7fac1c73879b787a4d04045a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="6867"
+   name="cancel.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2003-05-30T04:47:47.000000Z"
+   checksum="d508943ab157e38873598f67901a11ed"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="4243"
+   name="pt-machine.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2002-02-20T09:18:50.000000Z"
+   checksum="0d63c06f234593e0a9b9f83a595955f6"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="4243"
+   name="Versions"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2002-02-20T09:18:50.000000Z"
+   checksum="685eb2483d2f0a803243191f98de9752"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="lockfile.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="decf131a1f45c42741c42cd3338f65ff"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="6646"
+   name="restart.h"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2003-02-27T18:13:05.000000Z"
+   checksum="be07e0f7efac89390db3a3f9370b1bd5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="4243"
+   name="queue.h"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2002-02-20T09:18:50.000000Z"
+   checksum="551e038f873d0eeaa781e9ca2d5c0ef3"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="4243"
+   name="FAQ.html"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2002-02-20T09:18:50.000000Z"
+   checksum="93a348468f6d85edd957e5256fdbb55c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="6646"
+   name="condvar.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2003-02-27T18:13:05.000000Z"
+   checksum="c3211ec156e537abcf87b9b177fddaa1"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+</wc-entries>

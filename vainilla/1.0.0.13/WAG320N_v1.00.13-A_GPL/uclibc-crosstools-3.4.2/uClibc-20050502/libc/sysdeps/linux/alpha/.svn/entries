@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10271"
+   name=""
+   committed-date="2005-05-07T22:20:37.168644Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/alpha"
+   last-author="jocke"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="9138"
+   name="brk.S"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2004-08-21T21:19:29.000000Z"
+   checksum="9cec665dba0b2f415e53ce6659edf442"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="7613"
+   name="fpu_control.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-10-08T19:30:43.000000Z"
+   checksum="fd218fabc64575e011434f133b6d9ea1"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="4750"
+   name="sysdep.c"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-10T08:28:15.000000Z"
+   checksum="93f4ddcf7a64f74e0ff099cca460df48"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="4824"
+   name="divl.S"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-30T03:04:12.000000Z"
+   checksum="cea65191e03008e1d8e0aed75f9c22fb"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="4824"
+   name="reml.S"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-30T03:04:12.000000Z"
+   checksum="b036ac5a3c4cac144e95145d0749f431"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   name="bits"
+   kind="dir"/>
+<entry
+   committed-rev="9138"
+   name="clone.S"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2004-08-21T21:19:29.000000Z"
+   checksum="bbe2957f94272ae8e5762e09dcc778e7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="7803"
+   name="crti.S"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-11-05T05:13:53.000000Z"
+   checksum="d1382b94c74c7a4b2f45dc046c0c6b3e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="9138"
+   name="setjmp.S"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2004-08-21T21:19:29.000000Z"
+   checksum="8af8cdf5309d614c88bd1e2a77d26fd0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="4824"
+   name="divq.S"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-30T03:04:12.000000Z"
+   checksum="78675a08b97921d7e25beae67aa9b314"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="4824"
+   name="remq.S"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-30T03:04:12.000000Z"
+   checksum="5bc2a937a14b9effc35b2b80b31f1724"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="9138"
+   name="__longjmp.S"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2004-08-21T21:19:29.000000Z"
+   checksum="a390734d8c5fbc0c4583c067ec58a31c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="7803"
+   name="crtn.S"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-11-05T05:13:53.000000Z"
+   checksum="44c1f2c10073682f44df37abd1340b34"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="4750"
+   name="bsd-_setjmp.S"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-10T08:28:15.000000Z"
+   checksum="fcc4c41620c4efee6f87559059fa764d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="6455"
+   name="crt0.S"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-01-23T17:33:54.000000Z"
+   checksum="271fcac44b04ae436e6eb7cfec9eca62"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="4750"
+   name="bsd-setjmp.S"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-10T08:28:15.000000Z"
+   checksum="7535b1d9dfd9ef62226acf310477800b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="9138"
+   name="divrem.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2004-08-21T21:19:29.000000Z"
+   checksum="63b1d94616ab9e2b29e0dba1d4cb15b7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="4f32fc9eb949e605ad973d9d60cdd2a0"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   name="sys"
+   kind="dir"/>
+</wc-entries>

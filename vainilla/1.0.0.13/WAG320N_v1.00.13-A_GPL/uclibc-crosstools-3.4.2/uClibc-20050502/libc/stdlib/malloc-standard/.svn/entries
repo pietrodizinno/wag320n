@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/stdlib/malloc-standard"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="9736"
+   name="free.c"
+   text-time="2005-05-02T06:10:18.000000Z"
+   committed-date="2005-01-19T10:31:51.000000Z"
+   checksum="ba278a9ec05e901c62bdf39212134930"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="9736"
+   name="mallinfo.c"
+   text-time="2005-05-02T06:10:18.000000Z"
+   committed-date="2005-01-19T10:31:51.000000Z"
+   checksum="33805b31e5df0cc929fd37b103894a73"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="8200"
+   name="realloc.c"
+   text-time="2005-05-02T06:10:18.000000Z"
+   committed-date="2003-12-30T10:40:49.000000Z"
+   checksum="3328ce553a87bb25896319cd44483e97"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="8948"
+   name="malloc.c"
+   text-time="2005-05-02T06:10:18.000000Z"
+   committed-date="2004-07-15T08:06:25.000000Z"
+   checksum="a2a0440a7a9773f12661aaf21ca45ebe"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="8200"
+   name="mallopt.c"
+   text-time="2005-05-02T06:10:18.000000Z"
+   committed-date="2003-12-30T10:40:49.000000Z"
+   checksum="c84f0777b3204b934e4465d2c8d9bda0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="8200"
+   name="memalign.c"
+   text-time="2005-05-02T06:10:18.000000Z"
+   committed-date="2003-12-30T10:40:49.000000Z"
+   checksum="61ee49430d3095c07fc99dd46637020f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:18.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="ef1a5c2271b59b261285ad02b9b56a19"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="9153"
+   name="malloc.h"
+   text-time="2005-05-02T06:10:18.000000Z"
+   committed-date="2004-08-25T23:46:46.000000Z"
+   checksum="40cc48558ec92fbe61021722c3d74cdd"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="8202"
+   name="calloc.c"
+   text-time="2005-05-02T06:10:18.000000Z"
+   committed-date="2003-12-30T10:57:16.000000Z"
+   checksum="7aeb5caa52b36c8b89685db1938fe365"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+</wc-entries>

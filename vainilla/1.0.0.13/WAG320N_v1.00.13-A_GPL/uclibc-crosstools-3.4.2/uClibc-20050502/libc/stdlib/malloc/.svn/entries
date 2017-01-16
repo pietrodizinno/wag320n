@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/stdlib/malloc"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="5435"
+   name="heap_free.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2002-08-30T06:00:00.000000Z"
+   checksum="9dbc94518294b737c2b7a14c0f33f160"
+   last-author="miles"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="6776"
+   name="free.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2003-04-02T06:40:43.000000Z"
+   checksum="af7ff604b57214e0aebb4628f227bfc7"
+   last-author="miles"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="7659"
+   name="realloc.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2003-10-16T10:13:53.000000Z"
+   checksum="2c8796be11026eb235385308d75b5f61"
+   last-author="miles"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="8185"
+   name="heap.h"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2003-12-27T23:30:50.000000Z"
+   checksum="5943df3a137f588c01c881732cd592aa"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="5987"
+   name="heap_debug.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2002-11-21T06:06:22.000000Z"
+   checksum="21fe00e16e161f7b91f9d4205bc3df0a"
+   last-author="miles"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="5093"
+   name="heap_alloc.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2002-07-25T01:58:57.000000Z"
+   checksum="409ae7ba5915096eed8ca239d815be63"
+   last-author="miles"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="8948"
+   name="malloc.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-07-15T08:06:25.000000Z"
+   checksum="36a4ff61584f582aef259220dbf6c8c6"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="5300"
+   name="memalign.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2002-08-19T08:46:34.000000Z"
+   checksum="70d56974c0ee88b1aaffaf5a415d4806"
+   last-author="miles"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="5093"
+   name="heap_alloc_at.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2002-07-25T01:58:57.000000Z"
+   checksum="78890f7e196563982561fee7ab57924f"
+   last-author="miles"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="a550ed5a0a74dcd1c91706576b5d0ead"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="9108"
+   name="malloc.h"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-08-16T19:21:45.000000Z"
+   checksum="27048b37daba00e5eac0253f627ae25d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="8200"
+   name="calloc.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2003-12-30T10:40:49.000000Z"
+   checksum="9975c2aae277a014062fa137b092991f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="5991"
+   name="malloc_debug.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2002-11-21T07:52:46.000000Z"
+   checksum="13030df9c0bda8611fa5cecf8015a3de"
+   last-author="miles"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+</wc-entries>

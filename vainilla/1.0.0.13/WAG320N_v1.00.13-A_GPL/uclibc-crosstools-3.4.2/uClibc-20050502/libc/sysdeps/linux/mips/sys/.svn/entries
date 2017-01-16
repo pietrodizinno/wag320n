@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9091"
+   name=""
+   committed-date="2004-08-13T23:39:45.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/mips/sys"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="9050"
+   name="ucontext.h"
+   text-time="2005-05-02T06:10:30.000000Z"
+   committed-date="2004-07-30T19:23:55.000000Z"
+   checksum="ffc33d3074ed37a13ab782e03a9b74dd"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:30.000000Z"/>
+<entry
+   committed-rev="8947"
+   name="procfs.h"
+   text-time="2005-05-02T06:10:30.000000Z"
+   committed-date="2004-07-15T07:52:22.000000Z"
+   checksum="06b7f3d3ceab37530a19c6be202fcace"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:30.000000Z"/>
+<entry
+   committed-rev="9050"
+   name="regdef.h"
+   text-time="2005-05-02T06:10:30.000000Z"
+   committed-date="2004-07-30T19:23:55.000000Z"
+   checksum="aacddb33bbd8e8fa1af266fbe1891992"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:30.000000Z"/>
+<entry
+   committed-rev="9091"
+   name="user.h"
+   text-time="2005-05-02T06:10:30.000000Z"
+   committed-date="2004-08-13T23:39:45.000000Z"
+   checksum="9076c3460e42fe8e48c646a743572f3f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:30.000000Z"/>
+<entry
+   committed-rev="9050"
+   name="asm.h"
+   text-time="2005-05-02T06:10:30.000000Z"
+   committed-date="2004-07-30T19:23:55.000000Z"
+   checksum="cf692dd949ad3d40740486901996b4ae"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:30.000000Z"/>
+<entry
+   committed-rev="9050"
+   name="fpregdef.h"
+   text-time="2005-05-02T06:10:30.000000Z"
+   committed-date="2004-07-30T19:23:55.000000Z"
+   checksum="b96a2dd2bf85703cf28ed5a1d952ff4b"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:30.000000Z"/>
+<entry
+   committed-rev="4309"
+   name="cachectl.h"
+   text-time="2005-05-02T06:10:30.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="702e2ed8225dac2723a14b2e77d46814"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:30.000000Z"/>
+<entry
+   committed-rev="8007"
+   name="sysmips.h"
+   text-time="2005-05-02T06:10:30.000000Z"
+   committed-date="2003-11-28T18:28:41.000000Z"
+   checksum="f9f127d0ea00f2f1f0d145c6fa75e572"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:30.000000Z"/>
+<entry
+   committed-rev="4309"
+   name="tas.h"
+   text-time="2005-05-02T06:10:30.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="6c81d5610614caa5f82ebaed4915664d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:30.000000Z"/>
+</wc-entries>

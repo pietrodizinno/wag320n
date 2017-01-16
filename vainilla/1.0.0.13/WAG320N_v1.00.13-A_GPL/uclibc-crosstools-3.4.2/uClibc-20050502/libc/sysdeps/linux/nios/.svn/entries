@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/nios"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="8957"
+   name="NM_Macros.S"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2004-07-16T11:09:34.000000Z"
+   checksum="f443ff56a78fad809f69204ffaaa7a88"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="8957"
+   name="fpu_control.h"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2004-07-16T11:09:34.000000Z"
+   checksum="7103d8f56bc1f4f887c731ac176bbb91"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="8957"
+   name="vfork.S"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2004-07-16T11:09:34.000000Z"
+   checksum="b045b7de462a8e92a91758027f660f80"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="8957"
+   name="crt0.c"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2004-07-16T11:09:34.000000Z"
+   checksum="b6a0464cbe58f7d025cee53a9fc64435"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="9051"
+   name="brk.c"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2004-07-30T20:06:01.000000Z"
+   checksum="35d551dcfa1f7882375ffa9a56718806"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="8957"
+   name="crtend.c"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2004-07-16T11:09:34.000000Z"
+   checksum="5addbeccffe4989ab97d56f20ebb4f80"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   name="bits"
+   kind="dir"/>
+<entry
+   committed-rev="8957"
+   name="clone.S"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2004-07-16T11:09:34.000000Z"
+   checksum="138b326dbfa95c239dc9515237ed5e37"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="8957"
+   name="setjmp.S"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2004-07-16T11:09:34.000000Z"
+   checksum="97c19795901bb7a646d37fa446680ab9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="8957"
+   name="__longjmp.S"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2004-07-16T11:09:34.000000Z"
+   checksum="929c34f47cd3132efc76f191d0248b16"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="8957"
+   name="bsd-_setjmp.S"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2004-07-16T11:09:34.000000Z"
+   checksum="30ce4899676040c2d3bd0802c4448da5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="8957"
+   name="crt0.S"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2004-07-16T11:09:34.000000Z"
+   checksum="2c35154847d8533af85fab524407a391"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="8957"
+   name="bsd-setjmp.S"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2004-07-16T11:09:34.000000Z"
+   checksum="24877dcdba32c26d1f3099422d081eef"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="8957"
+   name="NR_Math1.S"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2004-07-16T11:09:34.000000Z"
+   checksum="f7f2322b51ae0d53a015f9a1c0e3a8ab"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="d0b236dc9c3116dd4fb834bcbe0ed7bd"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   name="sys"
+   kind="dir"/>
+<entry
+   committed-rev="8957"
+   name="crtbegin.c"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2004-07-16T11:09:34.000000Z"
+   checksum="fcfc313c57e8d3fb27e5f183757dfb10"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+</wc-entries>

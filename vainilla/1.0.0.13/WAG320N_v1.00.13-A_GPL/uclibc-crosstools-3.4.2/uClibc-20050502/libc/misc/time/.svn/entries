@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10282"
+   name=""
+   committed-date="2005-05-10T03:02:11.373431Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/misc/time"
+   last-author="mjn3"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="10282"
+   name="time.c"
+   text-time="2005-05-10T09:42:59.000000Z"
+   committed-date="2005-05-10T03:02:11.373431Z"
+   checksum="1c742ce6ab9a16673793d15cf3551574"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-10T09:42:59.000000Z"/>
+<entry
+   committed-rev="9490"
+   name="ftime.c"
+   text-time="2005-05-02T06:10:32.000000Z"
+   committed-date="2004-10-31T20:23:09.000000Z"
+   checksum="c7de71cb32a2ef971cc1ced99d7a0757"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:32.000000Z"/>
+<entry
+   committed-rev="10196"
+   name="Makefile"
+   text-time="2005-05-02T06:10:32.000000Z"
+   committed-date="2005-04-28T13:11:29.477119Z"
+   checksum="99691f0e24d16d8abe325f60aae138f3"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:32.000000Z"/>
+<entry
+   committed-rev="1176"
+   name=".indent.pro"
+   text-time="2005-05-02T06:10:32.000000Z"
+   committed-date="2000-10-09T20:06:30.000000Z"
+   checksum="6bea8d1b7f6cfeb6b6c2a95596c69c6d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:32.000000Z"/>
+<entry
+   committed-rev="4189"
+   name="adjtime.c"
+   text-time="2005-05-02T06:10:32.000000Z"
+   committed-date="2002-02-05T20:30:45.000000Z"
+   checksum="0bd74306520468631edcdf21c26027d6"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:32.000000Z"/>
+</wc-entries>

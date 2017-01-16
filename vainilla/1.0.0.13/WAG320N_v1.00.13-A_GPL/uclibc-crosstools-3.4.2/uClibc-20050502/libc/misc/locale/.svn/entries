@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9862"
+   name=""
+   committed-date="2005-02-12T20:59:08.359318Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/misc/locale"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:33.000000Z"
+   revision="10283"/>
+<entry
+   committed-rev="9238"
+   name="locale.c"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2004-09-10T21:30:26.000000Z"
+   checksum="f68b018ca5649367a814525fbfba5478"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="3a48c715b536340e1f0df31db6a7adc0"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+</wc-entries>

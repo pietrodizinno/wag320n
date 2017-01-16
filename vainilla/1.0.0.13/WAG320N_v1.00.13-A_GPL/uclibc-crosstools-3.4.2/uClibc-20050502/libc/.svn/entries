@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10283"
+   name=""
+   committed-date="2005-05-10T08:22:56.045633Z"
+   url="svn://uclibc.org/trunk/uClibc/libc"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:34.000000Z"
+   revision="10283"/>
+<entry
+   name="inet"
+   kind="dir"/>
+<entry
+   name="stdlib"
+   kind="dir"/>
+<entry
+   name="pwd_grp"
+   kind="dir"/>
+<entry
+   name="stdio"
+   kind="dir"/>
+<entry
+   name="termios"
+   kind="dir"/>
+<entry
+   name="string"
+   kind="dir"/>
+<entry
+   name="unistd"
+   kind="dir"/>
+<entry
+   name="sysdeps"
+   kind="dir"/>
+<entry
+   name="misc"
+   kind="dir"/>
+<entry
+   name="signal"
+   kind="dir"/>
+<entry
+   committed-rev="9864"
+   name="Makefile"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2005-02-13T06:51:15.234262Z"
+   checksum="319bc0225969bc9c8626649b32a96a18"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+</wc-entries>

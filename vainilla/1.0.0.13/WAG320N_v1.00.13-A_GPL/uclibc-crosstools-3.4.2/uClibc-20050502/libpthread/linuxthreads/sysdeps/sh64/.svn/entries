@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9584"
+   name=""
+   committed-date="2004-12-22T18:52:12.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libpthread/linuxthreads/sysdeps/sh64"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10221"/>
+<entry
+   committed-rev="8055"
+   name="pt-machine.c"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2003-12-05T20:39:51.000000Z"
+   checksum="5db9fca1824d4f98c04b0f39eb947105"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="8055"
+   name="pt-machine.h"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2003-12-05T20:39:51.000000Z"
+   checksum="3be754219f886e442108eec8e2431af8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="9584"
+   name="Makefile"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2004-12-22T18:52:12.000000Z"
+   checksum="a6f0eea6b7c0c7828e7db1041a1d859a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+</wc-entries>

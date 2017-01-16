@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10192"
+   name=""
+   committed-date="2005-04-27T21:35:24.525702Z"
+   url="svn://uclibc.org/trunk/uClibc/ldso/include"
+   last-author="sjhill"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:15.000000Z"
+   revision="10283"/>
+<entry
+   committed-rev="9575"
+   name="unsecvars.h"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2004-12-20T18:23:24.000000Z"
+   checksum="e40be35d0ca9f13620313fd1070359a9"
+   last-author="solar"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="9594"
+   name="dl-defs.h"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2004-12-22T21:55:56.000000Z"
+   checksum="f2c25f15b4ae5218a6a9d614897b3756"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="10095"
+   name="dl-hash.h"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-04-13T11:29:04.997322Z"
+   checksum="0e11b3fc7989dbd3e1e7ad068e36001c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="10192"
+   name="ldso.h"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-04-27T21:35:24.525702Z"
+   checksum="ef87964ce219509386ecd80fa8551b20"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="10060"
+   name="dl-elf.h"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-03-29T13:47:21.689829Z"
+   checksum="75eb649ae3fbc7df9192ca0c599d1427"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="10091"
+   name="dl-string.h"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-04-13T10:54:39.218065Z"
+   checksum="bb01af903cd3b4b1be4b94dfa646bdf9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="7224"
+   name="dlfcn.h"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2003-08-19T06:05:34.000000Z"
+   checksum="1238d0d0b5916a5148bfc9e6e89fb2a0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="8893"
+   name="dl-syscall.h"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2004-06-12T08:38:39.000000Z"
+   checksum="d4101357941b5a6d060657fed90e360f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+</wc-entries>

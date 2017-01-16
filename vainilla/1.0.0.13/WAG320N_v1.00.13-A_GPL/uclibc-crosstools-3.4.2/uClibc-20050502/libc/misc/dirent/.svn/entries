@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/misc/dirent"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="4752"
+   name="telldir.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2002-05-11T00:26:15.000000Z"
+   checksum="3ae88e95607e76e191732224680b951d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="6637"
+   name="dirstream.h"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2003-02-24T12:54:11.000000Z"
+   checksum="00b9fed5fcbabbfe3c0810ed6d4dbf05"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="8185"
+   name="opendir.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2003-12-27T23:30:50.000000Z"
+   checksum="5a313c7055fc5f1a6a50ec36be1a3e5d"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="8185"
+   name="closedir.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2003-12-27T23:30:50.000000Z"
+   checksum="4e7323e259296ec430d82e80c0d32faf"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="8185"
+   name="readdir64_r.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2003-12-27T23:30:50.000000Z"
+   checksum="b2cf71a6d51c1ca9f569c937ad492e03"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="5747"
+   name="alphasort64.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2002-10-31T18:20:21.000000Z"
+   checksum="ca225468281630c1b7b83d74f05da975"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="8185"
+   name="readdir.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2003-12-27T23:30:50.000000Z"
+   checksum="95eaa4bb7a43d2aed22a50f2eab449cf"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="4367"
+   name="scandir.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2002-03-12T08:24:24.000000Z"
+   checksum="8f8fe1ddb1175c803858f784ed58690f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="8185"
+   name="readdir64.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2003-12-27T23:30:50.000000Z"
+   checksum="717544bcc4cf0689fa392348006081cf"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="8185"
+   name="seekdir.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2003-12-27T23:30:50.000000Z"
+   checksum="6311df8fcee1cafaee66b96366538f99"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="8185"
+   name="rewinddir.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2003-12-27T23:30:50.000000Z"
+   checksum="5b1dc9dd000f094a60b1d1a54fdbe54f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="3678"
+   name="dirfd.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2001-11-14T11:09:46.000000Z"
+   checksum="2a89ab8fd45e21bbb032b60d62ed70fb"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="8185"
+   name="readdir_r.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2003-12-27T23:30:50.000000Z"
+   checksum="19c4441e19f10eedc70343941b434291"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="5d9826129b543e9456b471953bd25ce8"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="6492"
+   name="scandir64.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2003-01-28T11:06:03.000000Z"
+   checksum="b1929104221c97715a927150282880d7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="3678"
+   name="alphasort.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2001-11-14T11:09:46.000000Z"
+   checksum="114cd4ab90be04c2848a34e8a5566c3d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+</wc-entries>

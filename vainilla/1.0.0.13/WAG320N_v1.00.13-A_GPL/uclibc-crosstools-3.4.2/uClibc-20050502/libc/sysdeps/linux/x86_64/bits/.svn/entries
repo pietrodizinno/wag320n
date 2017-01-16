@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10271"
+   name=""
+   committed-date="2005-05-07T22:20:37.168644Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/x86_64/bits"
+   last-author="jocke"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="9875"
+   name="syscalls.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="463e8422d23735d627ce07881a97532b"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="fenv.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="e53525659e7157aa5f20279eea2e9059"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="endian.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="93f54525ca894fe9c4f79236cd9b8bf3"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="byteswap.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="9655c297f16bbc086789c4d58d60cfdb"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="10176"
+   name="msq.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-04-24T19:29:39.227826Z"
+   checksum="250a15fa32cbae1d0f4cdd0d6caa103e"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="setjmp.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="7d711e922c8c8ab53bc43d3ace20f69b"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="atomicity.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="b9c13e70b0b08871b903ebf4b3fe58d6"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="sigcontextinfo.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="38be8b9d0149de4d75a454d6c5550f23"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="kernel_types.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="af027a230210fac95013576c37719038"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="fcntl.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="27f3e3870366a6a1339a771de83d7ad7"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="wordsize.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="30529eb770bdf401a7dc82c1659f4364"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="profil-counter.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="8f827e42f3ffde97876414027223f015"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="mathdef.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="89497270690e43042d547cd8e47f34ff"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="kernel_stat.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="dd290e83600fc0659af3f72ef6cace72"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="stackinfo.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="189c1c984685bae761b27c437047180f"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="10271"
+   name="shm.h"
+   text-time="2005-05-10T09:42:58.000000Z"
+   committed-date="2005-05-07T22:20:37.168644Z"
+   checksum="958a1e058119a6ce560733a71165657e"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-10T09:42:58.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="mman.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="21b2bea468aed020fa69afa8e5472b6c"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9875"
+   name="mathinline.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2005-02-15T01:27:10.880182Z"
+   checksum="5fc1b23dc40b4bf67380b7b9b62d42a8"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+</wc-entries>

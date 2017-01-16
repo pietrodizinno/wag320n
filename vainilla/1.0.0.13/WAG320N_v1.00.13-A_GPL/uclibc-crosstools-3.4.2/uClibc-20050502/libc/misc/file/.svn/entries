@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/misc/file"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="3419"
+   name="lockf.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2001-09-15T08:49:46.000000Z"
+   checksum="05e09497d269d32ecaffa735fd1cd028"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="6366"
+   name="lockf64.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2003-01-18T19:46:17.000000Z"
+   checksum="619c5ec747573b76a3f9516c6615f5ec"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="c9382dda7c8df1cf2170d57949b5996f"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+</wc-entries>

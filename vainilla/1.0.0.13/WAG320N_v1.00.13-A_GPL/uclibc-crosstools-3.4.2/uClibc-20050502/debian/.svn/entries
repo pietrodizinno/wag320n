@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9862"
+   name=""
+   committed-date="2005-02-12T20:59:08.359318Z"
+   url="svn://uclibc.org/trunk/uClibc/debian"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:03.000000Z"
+   revision="10221"/>
+<entry
+   committed-rev="8231"
+   name="control"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2004-01-02T23:24:17.000000Z"
+   checksum="c26904dc2a769dcadc648aa6db683259"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="8331"
+   name="uclibc.postinst"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2004-01-22T01:44:25.000000Z"
+   checksum="6a6f10f8c99c2b718d4f9cd9458e7830"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="7894"
+   name="ldconfig.1"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2003-11-13T10:19:01.000000Z"
+   checksum="dfb1407fc5584f711326ff4b4abeaa8e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="8331"
+   name="uclibc.shlibs"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2004-01-22T01:44:25.000000Z"
+   checksum="988430800121364fa095279742550b58"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="8331"
+   name="uclibc.prerm"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2004-01-22T01:44:25.000000Z"
+   checksum="62581ed7aa724768a7f94dc26957f02e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="8952"
+   name="changelog"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2004-07-15T09:21:07.000000Z"
+   checksum="eb3ee4ff2bc093d14985afdc6fd64720"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="7894"
+   name="docs"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2003-11-13T10:19:01.000000Z"
+   checksum="462aa147f083bf78e04f45af75a8dcd2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="8952"
+   name="rules"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2004-07-15T09:21:07.000000Z"
+   checksum="122a0e8aa4e22339ab96c003a0a77bf7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="8331"
+   name="uclibc-dev.postinst"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2004-01-22T01:44:25.000000Z"
+   checksum="3584f426c866530b25af2c3e08ade6e4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="2975"
+   name="dirs"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2001-07-03T02:03:16.000000Z"
+   checksum="c3e193e93c774f2ede3a16e79d9ea3a0"
+   last-author="ds"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="8331"
+   name="uclibc-dev.prerm"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2004-01-22T01:44:25.000000Z"
+   checksum="bab9b89958a68eb4c09be0d7dddf308b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="7894"
+   name="ldd.1"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2003-11-13T10:19:01.000000Z"
+   checksum="d604677e6161125ae93ec86458896b5c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="7894"
+   name="uclibc.files"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2003-11-13T10:19:01.000000Z"
+   checksum="9b8aa0e6ecf0bec89e1c4fec7dc96832"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="9590"
+   name="config"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2004-12-22T21:14:23.000000Z"
+   checksum="58f27e719ba788c403af5f369b41b28a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="7894"
+   name="copyright"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2003-11-13T10:19:01.000000Z"
+   checksum="1231e2e99464b5192f3af3df92b7f1a9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="7894"
+   name="uclibc-dev.files"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2003-11-13T10:19:01.000000Z"
+   checksum="8a4194dfb8a8b55b54f9e9369e4a74fb"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+</wc-entries>

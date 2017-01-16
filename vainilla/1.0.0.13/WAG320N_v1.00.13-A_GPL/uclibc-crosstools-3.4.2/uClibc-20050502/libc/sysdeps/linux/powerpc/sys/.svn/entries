@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5846"
+   name=""
+   committed-date="2002-11-07T18:33:49.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/powerpc/sys"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="4309"
+   name="ucontext.h"
+   text-time="2005-05-02T06:10:22.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="2ec8216d0496512d7a567b764b64adb1"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:22.000000Z"/>
+<entry
+   committed-rev="5846"
+   name="procfs.h"
+   text-time="2005-05-02T06:10:22.000000Z"
+   committed-date="2002-11-07T18:33:49.000000Z"
+   checksum="b1931ca5a7012123df17b2ba60fba04a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:22.000000Z"/>
+<entry
+   committed-rev="4309"
+   name="ptrace.h"
+   text-time="2005-05-02T06:10:22.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="77386735306ceb8c8337fffd91cad76e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:22.000000Z"/>
+<entry
+   committed-rev="4309"
+   name="user.h"
+   text-time="2005-05-02T06:10:22.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="1593fa62cf657d1b6a61a4096f1553c2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:22.000000Z"/>
+</wc-entries>

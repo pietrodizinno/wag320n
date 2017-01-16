@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 106
+string
+string.o
+string_glibc
+string_glibc.o
+testcopy.out
+testcopy.gnu.out
+testcopy
+testcopy_glibc
+strerror
+END

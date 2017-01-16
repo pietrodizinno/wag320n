@@ -1,0 +1,346 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.6	//
+ABSOLUTE	dumpleases.c	21;"	d	file:
+ARPPING_H	arpping.h	6;"	d
+BOOTREPLY	dhcpd.h	70;"	d
+BOOTREQUEST	dhcpd.h	69;"	d
+BOOT_PROGRAMS	Makefile	/^BOOT_PROGRAMS = udhcpc$/;"	m
+BOUND	dhcpc.h	8;"	d
+BROADCAST_FLAG	dhcpd.h	84;"	d
+CLIENT_PORT	dhcpd.h	28;"	d
+CLOSE_LOG	debug.h	18;"	d
+CLOSE_LOG	debug.h	31;"	d
+COMBINED_BINARY	Makefile	/^COMBINED_BINARY=1$/;"	m
+COMMANDS	Makefile	/^COMMANDS = dumpleases$/;"	m
+DAEMONS	Makefile	/^DAEMONS = udhcpd$/;"	m
+DEBUG	debug.h	35;"	d
+DEBUG	debug.h	36;"	d
+DEBUG	debug.h	39;"	d
+DEBUG	debug.h	5;"	d
+DEBUGGING	debug.h	37;"	d
+DEFAULT_SCRIPT	dhcpc.c	65;"	d	file:
+DEFAULT_VID	dhcpd.h	21;"	d
+DHCPACK	dhcpd.h	79;"	d
+DHCPC_OBJS	Makefile	/^DHCPC_OBJS = dhcpc.o clientpacket.o script.o$/;"	m
+DHCPDECLINE	dhcpd.h	78;"	d
+DHCPDISCOVER	dhcpd.h	75;"	d
+DHCPD_CONF_FILE	dhcpd.h	18;"	d
+DHCPD_OBJS	Makefile	/^DHCPD_OBJS = dhcpd.o arpping.o files.o leases.o serverpacket.o$/;"	m
+DHCPINFORM	dhcpd.h	82;"	d
+DHCPNAK	dhcpd.h	80;"	d
+DHCPOFFER	dhcpd.h	76;"	d
+DHCPRELEASE	dhcpd.h	81;"	d
+DHCPREQUEST	dhcpd.h	77;"	d
+DHCP_BOOT_SIZE	dhcpd.h	44;"	d
+DHCP_BROADCAST	dhcpd.h	50;"	d
+DHCP_CLIENT_ID	dhcpd.h	64;"	d
+DHCP_COOKIE_SERVER	dhcpd.h	41;"	d
+DHCP_DNS_SERVER	dhcpd.h	39;"	d
+DHCP_DOMAIN_NAME	dhcpd.h	45;"	d
+DHCP_END	dhcpd.h	66;"	d
+DHCP_HOST_NAME	dhcpd.h	43;"	d
+DHCP_IP_TTL	dhcpd.h	48;"	d
+DHCP_LEASE_TIME	dhcpd.h	54;"	d
+DHCP_LOG_SERVER	dhcpd.h	40;"	d
+DHCP_LPR_SERVER	dhcpd.h	42;"	d
+DHCP_MAGIC	dhcpd.h	30;"	d
+DHCP_MAX_SIZE	dhcpd.h	60;"	d
+DHCP_MESSAGE	dhcpd.h	59;"	d
+DHCP_MESSAGE_TYPE	dhcpd.h	56;"	d
+DHCP_MTU	dhcpd.h	49;"	d
+DHCP_NAME_SERVER	dhcpd.h	38;"	d
+DHCP_NTP_SERVER	dhcpd.h	51;"	d
+DHCP_OPTION_OVER	dhcpd.h	55;"	d
+DHCP_PADDING	dhcpd.h	33;"	d
+DHCP_PARAM_REQ	dhcpd.h	58;"	d
+DHCP_REQUESTED_IP	dhcpd.h	53;"	d
+DHCP_ROOT_PATH	dhcpd.h	47;"	d
+DHCP_ROUTER	dhcpd.h	36;"	d
+DHCP_SERVER_ID	dhcpd.h	57;"	d
+DHCP_SUBNET	dhcpd.h	34;"	d
+DHCP_SWAP_SERVER	dhcpd.h	46;"	d
+DHCP_T1	dhcpd.h	61;"	d
+DHCP_T2	dhcpd.h	62;"	d
+DHCP_TIME_OFFSET	dhcpd.h	35;"	d
+DHCP_TIME_SERVER	dhcpd.h	37;"	d
+DHCP_VENDOR	dhcpd.h	63;"	d
+DHCP_WINS_SERVER	dhcpd.h	52;"	d
+ETH_10MB	dhcpd.h	72;"	d
+ETH_10MB_LEN	dhcpd.h	73;"	d
+EXEC1	Makefile	/^EXEC1 = udhcpd$/;"	m
+EXEC2	Makefile	/^EXEC2 = udhcpc$/;"	m
+EXEC3	Makefile	/^EXEC3 = dumpleases$/;"	m
+FALSE	dhcpd.h	92;"	d
+FILE_FIELD	dhcpd.h	87;"	d
+INIT_REBOOT	dhcpc.h	11;"	d
+INIT_SELECTING	dhcpc.h	6;"	d
+INSTALL	Makefile	/^INSTALL = install$/;"	m
+K_APPS_PATH	Makefile	/^	export TK_APPS_PATH := $(shell pwd)\/..$/;"	m
+LAN_INTERFACE	packet.h	41;"	d
+LAN_INTERFACE	packet.h	43;"	d
+LEASE_STATIC	leases.h	6;"	d
+LEASE_TIME	dhcpd.h	15;"	d
+LISTEN_KERNEL	dhcpc.c	61;"	d	file:
+LISTEN_NONE	dhcpc.c	60;"	d	file:
+LISTEN_RAW	dhcpc.c	62;"	d	file:
+LOG	debug.h	14;"	d
+LOG	debug.h	30;"	d
+LOG_ALERT	debug.h	21;"	d
+LOG_CRIT	debug.h	22;"	d
+LOG_DEBUG	debug.h	26;"	d
+LOG_EMERG	debug.h	20;"	d
+LOG_ERR	debug.h	24;"	d
+LOG_INFO	debug.h	25;"	d
+LOG_WARNING	debug.h	23;"	d
+MAC_BCAST_ADDR	dhcpd.h	93;"	d
+MAX_INTERFACES	files.h	5;"	d
+MAX_KEYWORDS	files.h	10;"	d
+MAX_SERVERS_PER_IF	files.h	6;"	d
+NewGW	dhcpc.c	/^u_int32_t NewGW = 0;$/;"	v
+OBJS1	Makefile	/^OBJS1 = $(DHCPD_OBJS) $(DHCPC_OBJS) $(OBJS_SHARED) frontend.o$/;"	m
+OBJS1	Makefile	/^OBJS1 = $(DHCPD_OBJS) $(OBJS_SHARED)$/;"	m
+OBJS2	Makefile	/^OBJS2 = $(DHCPC_OBJS) $(OBJS_SHARED)$/;"	m
+OBJS3	Makefile	/^OBJS3 = dumpleases.o$/;"	m
+OBJS_SHARED	Makefile	/^OBJS_SHARED = options.o socket.o packet.o pidfile.o$/;"	m
+OPEN_LOG	debug.h	17;"	d
+OPEN_LOG	debug.h	29;"	d
+OPTION_BOOLEAN	options.h	/^	OPTION_BOOLEAN,$/;"	e	enum:__anon1
+OPTION_FIELD	dhcpd.h	86;"	d
+OPTION_IP	options.h	/^	OPTION_IP=1,$/;"	e	enum:__anon1
+OPTION_IP_PAIR	options.h	/^	OPTION_IP_PAIR,$/;"	e	enum:__anon1
+OPTION_LIST	options.h	22;"	d
+OPTION_REQ	options.h	21;"	d
+OPTION_S16	options.h	/^	OPTION_S16,$/;"	e	enum:__anon1
+OPTION_S32	options.h	/^	OPTION_S32$/;"	e	enum:__anon1
+OPTION_STRING	options.h	/^	OPTION_STRING,$/;"	e	enum:__anon1
+OPTION_U16	options.h	/^	OPTION_U16,$/;"	e	enum:__anon1
+OPTION_U32	options.h	/^	OPTION_U32,$/;"	e	enum:__anon1
+OPTION_U8	options.h	/^	OPTION_U8,$/;"	e	enum:__anon1
+OPT_CODE	dhcpd.h	94;"	d
+OPT_DATA	dhcpd.h	96;"	d
+OPT_LEN	dhcpd.h	95;"	d
+OldGW	dhcpc.c	/^u_int32_t OldGW = 0;$/;"	v
+OldIP	dhcpc.c	/^u_int32_t OldIP = 0;$/;"	v
+REBINDING	dhcpc.h	10;"	d
+RELEASED	dhcpc.h	13;"	d
+REMAINING	dumpleases.c	20;"	d	file:
+RENEWING	dhcpc.h	9;"	d
+RENEW_REQUESTED	dhcpc.h	12;"	d
+REQUESTING	dhcpc.h	7;"	d
+SBINDIR	Makefile	/^SBINDIR=\/sbin$/;"	m
+SERVER_PORT	dhcpd.h	27;"	d
+SERVER_VID_DIR	packet.h	45;"	d
+SNAME_FIELD	dhcpd.h	88;"	d
+STRIP	Makefile	/^STRIP=-s$/;"	m
+SYSLOG	debug.h	4;"	d
+TRUE	dhcpd.h	91;"	d
+TYPE_MASK	options.h	7;"	d
+USRBINDIR	Makefile	/^USRBINDIR=${prefix}\/bin$/;"	m
+USRSBINDIR	Makefile	/^USRSBINDIR=${prefix}\/sbin$/;"	m
+USRSHAREDIR	Makefile	/^USRSHAREDIR=${prefix}\/share$/;"	m
+VER	Makefile	/^VER := 0.9.7$/;"	m
+_CLIENTPACKET_H	clientpacket.h	2;"	d
+_DEBUG_H	debug.h	2;"	d
+_DHCPC_H	dhcpc.h	3;"	d
+_DHCPD_H	dhcpd.h	3;"	d
+_FILES_H	files.h	3;"	d
+_LEASES_H	leases.h	3;"	d
+_OPTIONS_H	options.h	3;"	d
+_PACKET_H	packet.h	2;"	d
+_SCRIPT_H	script.h	2;"	d
+_SERVERPACKET_H	serverpacket.h	2;"	d
+_SOCKET_H	socket.h	3;"	d
+abort_if_no_lease	dhcpc.h	/^	char abort_if_no_lease;		\/* Abort if no lease *\/$/;"	m	struct:client_config_t
+active	dhcpd.h	/^	int  active;$/;"	m	struct:server_config_t
+add_bootp_options	serverpacket.c	/^static void add_bootp_options(struct dhcpMessage *packet, int ifid, int serverid)$/;"	f	file:
+add_lease	leases.c	/^struct dhcpOfferedAddr *add_lease(u_int8_t *chaddr, u_int32_t yiaddr, u_int32_t lease, int ifid,int serverid, char *hostname)$/;"	f
+add_option_string	options.c	/^int add_option_string(unsigned char *optionptr, unsigned char *string)$/;"	f
+add_requests	clientpacket.c	/^static void add_requests(struct dhcpMessage *packet)$/;"	f	file:
+add_simple_option	options.c	/^int add_simple_option(unsigned char *optionptr, unsigned char code, u_int32_t data)$/;"	f
+arp	dhcpc.h	/^	unsigned char arp[6];		\/* Our arp address *\/$/;"	m	struct:client_config_t
+arp	dhcpd.h	/^	unsigned char arp[6];		\/* Our arp address *\/$/;"	m	struct:server_config_t
+arpMsg	arpping.h	/^struct arpMsg {$/;"	s
+arpping	arpping.c	/^int arpping(u_int32_t yiaddr, u_int32_t ip, unsigned char *mac, char *interface, char *sender_mac)$/;"	f
+attach_option	options.c	/^void attach_option(struct option_set **opt_list, struct dhcp_option *option, char *buffer, int length)$/;"	f
+auto_time	dhcpd.h	/^	u_int32_t auto_time; 	\/* how long should udhcpd wait before writing a config file.$/;"	m	struct:server_config_t
+blank_chaddr	leases.c	/^unsigned char blank_chaddr[] = {[0 ... 15] = 0};$/;"	v
+boot_file	dhcpd.h	/^	char *boot_file;		\/* bootp boot file option *\/$/;"	m	struct:server_config_t
+chaddr	dumpleases.c	/^	unsigned char chaddr[16];$/;"	m	struct:lease_t	file:
+chaddr	leases.h	/^	u_int8_t chaddr[16];$/;"	m	struct:dhcpOfferedAddr
+chaddr	packet.h	/^	u_int8_t chaddr[16];$/;"	m	struct:dhcpMessage
+change_mode	dhcpc.c	/^static void change_mode(int new_mode)$/;"	f	file:
+check_ip	leases.c	/^int check_ip(u_int32_t addr, int ifid, int serverid)$/;"	f
+checksum	packet.c	/^u_int16_t checksum(void *addr, int count)$/;"	f
+ciaddr	packet.h	/^	u_int32_t ciaddr;$/;"	m	struct:dhcpMessage
+clear_lease	leases.c	/^void clear_lease(u_int8_t *chaddr, u_int32_t yiaddr, int ifid, int serverid)$/;"	f
+client_config	dhcpc.c	/^struct client_config_t client_config = {$/;"	v	typeref:struct:client_config_t
+client_config_t	dhcpc.h	/^struct client_config_t {$/;"	s
+clientid	dhcpc.h	/^	unsigned char *clientid;	\/* Optional client id to use *\/$/;"	m	struct:client_config_t
+code	options.h	/^	unsigned char code;$/;"	m	struct:dhcp_option
+config_keyword	files.h	/^struct config_keyword {$/;"	s
+config_kw_arr	files.h	/^struct config_kw_arr {$/;"	s
+conflict_time	dhcpd.h	/^	u_int32_t conflict_time; 	\/* how long an arp conflict offender is leased for *\/$/;"	m	struct:server_config_t
+cookie	packet.h	/^	u_int32_t cookie;$/;"	m	struct:dhcpMessage
+data	dhcpd.h	/^	unsigned char *data;$/;"	m	struct:option_set
+data	packet.h	/^	struct dhcpMessage data;$/;"	m	struct:udp_dhcp_packet	typeref:struct:udp_dhcp_packet::dhcpMessage
+decline_time	dhcpd.h	/^	u_int32_t decline_time; 	\/* how long an address is reserved if a client returns a$/;"	m	struct:server_config_t
+def	files.h	/^	char def[30];$/;"	m	struct:config_keyword
+dhcpMessage	packet.h	/^struct dhcpMessage {$/;"	s
+dhcpOfferedAddr	leases.h	/^struct dhcpOfferedAddr {$/;"	s
+dhcp_option	options.h	/^struct dhcp_option {$/;"	s
+do_expire	dhcpd.c	/^static void do_expire(int sig)$/;"	f	file:
+enable	dhcpd.h	/^	u_int32_t enable; 		\/*server enable*\/$/;"	m	struct:server_config_t
+end	dhcpd.h	/^	u_int32_t end;			\/* End of leases, network order *\/$/;"	m	struct:server_config_t
+end_option	options.c	/^int end_option(unsigned char *optionptr)$/;"	f
+ethhdr	arpping.h	/^	struct ethhdr ethhdr;	 		\/* Ethernet header *\/$/;"	m	struct:arpMsg	typeref:struct:arpMsg::ethhdr
+exit_client	dhcpc.c	/^static void exit_client(int retval)$/;"	f	file:
+exit_server	dhcpd.c	/^static void exit_server(int retval, int ifid)$/;"	f	file:
+expire_action	dhcpd.c	/^static void expire_action(u_int32_t ipaddr)$/;"	f	file:
+expires	dumpleases.c	/^	u_int32_t expires;$/;"	m	struct:lease_t	file:
+expires	leases.h	/^	u_int32_t expires;	\/* host order *\/$/;"	m	struct:dhcpOfferedAddr
+fd	dhcpc.c	/^static int fd;$/;"	v	file:
+file	packet.h	/^	u_int8_t file[128];$/;"	m	struct:dhcpMessage
+fill_envp	script.c	/^static char **fill_envp(struct dhcpMessage *packet)$/;"	f	file:
+fill_options	script.c	/^static void fill_options(char *dest, unsigned char *option, struct dhcp_option *type_p)$/;"	f	file:
+find_address	leases.c	/^u_int32_t find_address(int check_expired, int ifid, int serverid)$/;"	f
+find_env	script.c	/^static char *find_env(const char *prefix, char *defaultstr)$/;"	f	file:
+find_lease_by_chaddr	leases.c	/^struct dhcpOfferedAddr *find_lease_by_chaddr(u_int8_t *chaddr, int ifid, int serverid)$/;"	f
+find_lease_by_yiaddr	leases.c	/^struct dhcpOfferedAddr *find_lease_by_yiaddr(u_int32_t yiaddr, int ifid, int serverid)$/;"	f
+find_option	options.c	/^struct option_set *find_option(struct option_set *opt_list, char code)$/;"	f
+find_server_vid_by_chaddr	dhcpd.c	/^u_int32_t find_server_vid_by_chaddr(u_int8_t *chaddr)$/;"	f
+flags	options.h	/^	char flags;$/;"	m	struct:dhcp_option
+flags	packet.h	/^	u_int16_t flags;$/;"	m	struct:dhcpMessage
+foreground	dhcpc.h	/^	char foreground;		\/* Do not fork *\/$/;"	m	struct:client_config_t
+get_option	options.c	/^unsigned char *get_option(struct dhcpMessage *packet, int code)$/;"	f
+get_packet	packet.c	/^int get_packet(struct dhcpMessage *packet, int fd)$/;"	f
+get_raw_packet	clientpacket.c	/^int get_raw_packet(struct dhcpMessage *payload, int fd)$/;"	f
+get_sockfd	script.c	/^int get_sockfd(void)$/;"	f
+giaddr	packet.h	/^	u_int32_t giaddr;$/;"	m	struct:dhcpMessage
+handler	files.h	/^	int (*handler)(char *line, void *var);$/;"	m	struct:config_keyword
+hlen	arpping.h	/^	u_char  hlen;				\/* hardware address length (must be 6) *\/$/;"	m	struct:arpMsg
+hlen	packet.h	/^	u_int8_t hlen;$/;"	m	struct:dhcpMessage
+hops	packet.h	/^	u_int8_t hops;$/;"	m	struct:dhcpMessage
+hostname	dhcpc.h	/^	unsigned char *hostname;	\/* Optional hostname to use *\/$/;"	m	struct:client_config_t
+hostname	dumpleases.c	/^	u_int8_t hostname[256];$/;"	m	struct:lease_t	file:
+hostname	leases.h	/^	u_int8_t hostname[256];$/;"	m	struct:dhcpOfferedAddr
+htype	arpping.h	/^	u_short htype;				\/* hardware type (must be ARPHRD_ETHER) *\/$/;"	m	struct:arpMsg
+htype	packet.h	/^	u_int8_t htype;$/;"	m	struct:dhcpMessage
+ifindex	dhcpc.h	/^	int ifindex;			\/* Index number of the interface to use *\/$/;"	m	struct:client_config_t
+ifindex	dhcpd.h	/^	int ifindex;			\/* Index number of the interface to use *\/$/;"	m	struct:server_config_t
+init_header	packet.c	/^void init_header(struct dhcpMessage *packet, char type)$/;"	f
+init_packet	clientpacket.c	/^static void init_packet(struct dhcpMessage *packet, char type)$/;"	f	file:
+init_packet	serverpacket.c	/^static void init_packet(struct dhcpMessage *packet, struct dhcpMessage *oldpacket, char type, int ifid, int serverid)$/;"	f	file:
+interface	dhcpc.h	/^	char *interface;		\/* The name of the interface to use *\/$/;"	m	struct:client_config_t
+interface	dhcpd.h	/^	char *interface;		\/* The name of the interface to use *\/$/;"	m	struct:server_config_t
+ip	packet.h	/^	struct iphdr ip;$/;"	m	struct:udp_dhcp_packet	typeref:struct:udp_dhcp_packet::iphdr
+k_arr	files.c	/^static struct config_kw_arr k_arr[MAX_INTERFACES][MAX_SERVERS_PER_IF] = {$/;"	v	typeref:struct:config_kw_arr	file:
+kernel_packet	packet.c	/^int kernel_packet(struct dhcpMessage *payload, u_int32_t source_ip, int source_port,$/;"	f
+keyword	files.h	/^	char keyword[14];$/;"	m	struct:config_keyword
+keywords	files.h	/^	struct config_keyword keywords[MAX_KEYWORDS];$/;"	m	struct:config_kw_arr	typeref:struct:config_kw_arr::config_keyword
+lease	dhcpd.h	/^	u_int32_t lease;		\/* lease time in seconds (host order) *\/$/;"	m	struct:server_config_t
+lease_expired	leases.c	/^int lease_expired(struct dhcpOfferedAddr *lease)$/;"	f
+lease_file	dhcpd.h	/^	char *lease_file;$/;"	m	struct:server_config_t
+lease_t	dumpleases.c	/^struct lease_t {$/;"	s	file:
+leases	dhcpd.c	/^struct dhcpOfferedAddr *leases[MAX_INTERFACES][MAX_SERVERS_PER_IF];$/;"	v	typeref:struct:dhcpOfferedAddr
+listen_mode	dhcpc.c	/^static int listen_mode;$/;"	v	file:
+listen_socket	socket.c	/^int listen_socket(unsigned int ip, int port, char *inf)$/;"	f
+main	dumpleases.c	/^int main (int argc, char *argv[]) {$/;"	f
+main	frontend.c	/^int main(int argc, char *argv[])$/;"	f
+max_leases	dhcpd.h	/^	u_int32_t max_leases; 	\/* maximum number of leases (including reserved address) *\/$/;"	m	struct:server_config_t
+max_option_length	script.c	/^static int max_option_length[] = {$/;"	v	file:
+min_lease	dhcpd.h	/^	u_int32_t min_lease; 	\/* minimum lease a client can request*\/$/;"	m	struct:server_config_t
+name	options.h	/^	char name[10];$/;"	m	struct:dhcp_option
+next	dhcpd.h	/^	struct option_set *next;$/;"	m	struct:option_set	typeref:struct:option_set::option_set
+no_of_ifaces	dhcpd.c	/^int no_of_ifaces = 0;$/;"	v
+no_of_servers	dhcpd.c	/^int no_of_servers[MAX_INTERFACES];$/;"	v
+notify_file	dhcpd.h	/^	char *notify_file;		\/* What to run whenever leases are written *\/$/;"	m	struct:server_config_t
+nvram_data	dhcpd.c	/^char *nvram_data;$/;"	v
+offer_time	dhcpd.h	/^	u_int32_t offer_time; 	\/* how long an offered address is reserved *\/$/;"	m	struct:server_config_t
+oldest_expired_lease	leases.c	/^struct dhcpOfferedAddr *oldest_expired_lease(int ifid, int serverid)$/;"	f
+op	packet.h	/^	u_int8_t op;$/;"	m	struct:dhcpMessage
+operation	arpping.h	/^	u_short operation;			\/* ARP opcode *\/$/;"	m	struct:arpMsg
+option_lengths	options.c	/^int option_lengths[] = {$/;"	v
+option_set	dhcpd.h	/^struct option_set {$/;"	s
+options	dhcpd.h	/^	struct option_set *options;	\/* List of DHCP options loaded from the config file *\/$/;"	m	struct:server_config_t	typeref:struct:server_config_t::option_set
+options	options.c	/^struct dhcp_option options[] = {$/;"	v	typeref:struct:dhcp_option
+options	packet.h	/^	u_int8_t options[308]; \/* 312 - cookie *\/$/;"	m	struct:dhcpMessage
+packet_num	dhcpc.c	/^static int packet_num; \/* = 0 *\/$/;"	v	file:
+pad	arpping.h	/^	u_char  pad[18];			\/* pad for min. Ethernet payload (60 bytes) *\/$/;"	m	struct:arpMsg
+pidfile	dhcpc.h	/^	char *pidfile;			\/* Optionally store the process ID *\/$/;"	m	struct:client_config_t
+pidfile	dhcpd.h	/^	char *pidfile;$/;"	m	struct:server_config_t
+pidfile_acquire	pidfile.c	/^int pidfile_acquire(char *pidfile)$/;"	f
+pidfile_delete	pidfile.c	/^void pidfile_delete(char *pidfile)$/;"	f
+pidfile_write_release	pidfile.c	/^void pidfile_write_release(int pid_fd)$/;"	f
+plen	arpping.h	/^	u_char  plen;				\/* protocol address length (must be 4) *\/$/;"	m	struct:arpMsg
+prefix	Makefile	/^prefix=$(TI_FILESYSTEM)$/;"	m
+print_usage	dhcpc.c	/^static void print_usage(void)$/;"	f	file:
+prop	dumpleases.c	/^    int prop;$/;"	m	struct:lease_t	file:
+prop	leases.h	/^    int prop;$/;"	m	struct:dhcpOfferedAddr
+ptype	arpping.h	/^	u_short ptype;				\/* protocol type (must be ETH_P_IP) *\/$/;"	m	struct:arpMsg
+quit_after_lease	dhcpc.h	/^	char quit_after_lease;		\/* Quit after obtaining lease *\/$/;"	m	struct:client_config_t
+random_xid	clientpacket.c	/^u_int32_t random_xid(void)$/;"	f
+raw_packet	packet.c	/^int raw_packet(struct dhcpMessage *payload, u_int32_t source_ip, int source_port,$/;"	f
+raw_socket	socket.c	/^int raw_socket(int ifindex)$/;"	f
+read_config	files.c	/^int read_config(char *file)$/;"	f
+read_interface	socket.c	/^int read_interface(char *interface, int *ifindex, u_int32_t *addr, unsigned char *arp)$/;"	f
+read_ip	files.c	/^static int read_ip(char *line, void *arg)$/;"	f	file:
+read_leases	files.c	/^void read_leases(char *file, int ifid, int serverid)$/;"	f
+read_opt	files.c	/^static int read_opt(char *line, void *arg)$/;"	f	file:
+read_str	files.c	/^static int read_str(char *line, void *arg)$/;"	f	file:
+read_u32	files.c	/^static int read_u32(char *line, void *arg)$/;"	f	file:
+read_yn	files.c	/^static int read_yn(char *line, void *arg)$/;"	f	file:
+reconfig_dhcpd	files.c	/^void reconfig_dhcpd(int ifid)$/;"	f
+release_requested	dhcpc.c	/^static void release_requested(int sig)$/;"	f	file:
+remaining	dhcpd.h	/^	char remaining; 		\/* should the lease file be interpreted as lease time remaining, or$/;"	m	struct:server_config_t
+renew_requested	dhcpc.c	/^static void renew_requested(int sig)$/;"	f	file:
+requested_ip	dhcpc.c	/^static u_int32_t requested_ip; \/* = 0 *\/$/;"	v	file:
+run_script	script.c	/^void run_script(struct dhcpMessage *packet, const char *name)$/;"	f
+sHaddr	arpping.h	/^	u_char  sHaddr[6];			\/* sender's hardware address *\/$/;"	m	struct:arpMsg
+sInaddr	arpping.h	/^	u_char  sInaddr[4];			\/* sender's IP address *\/$/;"	m	struct:arpMsg
+script	dhcpc.h	/^	char *script;			\/* User script to run at dhcp events *\/$/;"	m	struct:client_config_t
+secs	packet.h	/^	u_int16_t secs;$/;"	m	struct:dhcpMessage
+sendACK	serverpacket.c	/^int sendACK(struct dhcpMessage *oldpacket, u_int32_t yiaddr, int ifid, int serverid)$/;"	f
+sendNAK	serverpacket.c	/^int sendNAK(struct dhcpMessage *oldpacket, int ifid, int serverid)$/;"	f
+sendOffer	serverpacket.c	/^int sendOffer(struct dhcpMessage *oldpacket, int ifid, int serverid)$/;"	f
+send_discover	clientpacket.c	/^int send_discover(u_int32_t xid, u_int32_t requested)$/;"	f
+send_inform	serverpacket.c	/^int send_inform(struct dhcpMessage *oldpacket, int ifid, int serverid)$/;"	f
+send_packet	serverpacket.c	/^static int send_packet(struct dhcpMessage *payload, int force_broadcast, int ifid, int serverid)$/;"	f	file:
+send_packet_to_client	serverpacket.c	/^static int send_packet_to_client(struct dhcpMessage *payload, int force_broadcast, int ifid, int serverid)$/;"	f	file:
+send_packet_to_relay	serverpacket.c	/^static int send_packet_to_relay(struct dhcpMessage *payload, int ifid, int serverid)$/;"	f	file:
+send_release	clientpacket.c	/^int send_release(u_int32_t server, u_int32_t ciaddr)$/;"	f
+send_renew	clientpacket.c	/^int send_renew(u_int32_t xid, u_int32_t server, u_int32_t ciaddr)$/;"	f
+send_selecting	clientpacket.c	/^int send_selecting(u_int32_t xid, u_int32_t server, u_int32_t requested)$/;"	f
+server	dhcpd.h	/^	u_int32_t server;		\/* Our IP, in network order *\/$/;"	m	struct:server_config_t
+server_addr	dhcpc.c	/^static u_int32_t server_addr;$/;"	v	file:
+server_config	dhcpd.c	/^struct server_config_t server_config[MAX_INTERFACES][MAX_SERVERS_PER_IF];$/;"	v	typeref:struct:server_config_t
+server_config_t	dhcpd.h	/^struct server_config_t {$/;"	s
+server_vid_to_index	dhcpd.c	/^int server_vid_to_index(int ifid, int vid)$/;"	f
+siaddr	dhcpd.h	/^	u_int32_t siaddr;		\/* next server bootp option *\/$/;"	m	struct:server_config_t
+siaddr	packet.h	/^	u_int32_t siaddr;$/;"	m	struct:dhcpMessage
+sname	dhcpd.h	/^	char *sname;			\/* bootp server name *\/$/;"	m	struct:server_config_t
+sname	packet.h	/^	u_int8_t sname[64];$/;"	m	struct:dhcpMessage
+sprintip	script.c	/^static int sprintip(char *dest, char *pre, unsigned char *ip) {$/;"	f	file:
+start	dhcpd.h	/^	u_int32_t start;		\/* Start address of leases, network order *\/$/;"	m	struct:server_config_t
+state	dhcpc.c	/^static int state;$/;"	v	file:
+tHaddr	arpping.h	/^	u_char  tHaddr[6];			\/* target's hardware address *\/$/;"	m	struct:arpMsg
+tInaddr	arpping.h	/^	u_char  tInaddr[4];			\/* target's IP address *\/$/;"	m	struct:arpMsg
+terminate	dhcpc.c	/^static void terminate(int sig)$/;"	f	file:
+time_bef_NTP	leases.c	/^static	time_t time_bef_NTP=0;\/* record the old time,use for currect time after ntp get new time *\/$/;"	v	file:
+timeout	dhcpc.c	/^static u_int32_t timeout;$/;"	v	file:
+udhcpc	dhcpc.c	/^int udhcpc(int argc, char *argv[])$/;"	f
+udhcpd	dhcpd.c	/^int udhcpd(int argc, char *argv[])$/;"	f
+udhcpd_killed	dhcpd.c	/^static void udhcpd_killed(int sig)$/;"	f	file:
+udp	packet.h	/^	struct udphdr udp;$/;"	m	struct:udp_dhcp_packet	typeref:struct:udp_dhcp_packet::udphdr
+udp_dhcp_packet	packet.h	/^struct udp_dhcp_packet {$/;"	s
+upper_length	script.c	/^static int upper_length(int length, struct dhcp_option *option)$/;"	f	file:
+var	files.h	/^	void *var;$/;"	m	struct:config_keyword
+vid	dhcpd.h	/^	u_int32_t vid; 	\/* virtual server id*\/$/;"	m	struct:server_config_t
+write_leases	files.c	/^void write_leases(int ifid, int serverid)$/;"	f
+xid	packet.h	/^	u_int32_t xid;$/;"	m	struct:dhcpMessage
+yiaddr	dumpleases.c	/^	u_int32_t yiaddr;$/;"	m	struct:lease_t	file:
+yiaddr	leases.h	/^	u_int32_t yiaddr;	\/* network order *\/$/;"	m	struct:dhcpOfferedAddr
+yiaddr	packet.h	/^	u_int32_t yiaddr;$/;"	m	struct:dhcpMessage

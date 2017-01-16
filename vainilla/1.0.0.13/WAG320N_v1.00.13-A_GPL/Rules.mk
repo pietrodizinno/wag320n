@@ -1,0 +1,12 @@
+export ANNEX=A
+export FW_VER=1.00.13
+export SUB_VER=00
+export BOOT_VER=1.06
+export HW_VER=0.01
+export WIFI_VER=5.10.85.0.cpe4.402.4
+export WIFI_TEST=0
+export MODULE=Linksys
+export MODULE_NAME=WAG320N
+export MODULE_DESC="Dual-Band Wireless-N ADSL2+ Modem Router with Gigabit"
+export VERDOR_NAME="Linksys by Cisco"
+export BCMBSP_DIR=bcm963xx_4.02L.01

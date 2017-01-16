@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 108
+dltest
+libhowdy.so
+dltest2
+dlttest
+dlttest2
+test1
+test2
+test3
+dltest
+dltest2
+libtest.so
+libtest3.so
+.gdbinit
+END

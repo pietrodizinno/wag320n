@@ -1,0 +1,1058 @@
+/home/fred/works/wag320n/tk_apps/busybox/libbb/herror_msg_and_die.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/herror_msg_and_die.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/make_directory.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/make_directory.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/my_getgrnam.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/my_getgrnam.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/grp_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/grp_.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/correct_password.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/correct_password.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/shadowpasswds.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/perror_msg.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/perror_msg.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/pw_encrypt.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/pw_encrypt.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/sha1/passwords.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/ask_confirmation.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/ask_confirmation.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/fgets_str.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/fgets_str.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/find_root_device.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/find_root_device.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/devfs.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/getopt_ulflags.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/getopt_ulflags.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/xreadlink.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/xreadlink.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/safe_strncpy.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/safe_strncpy.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/xconnect.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/xconnect.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/my_getgrgid.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/my_getgrgid.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/grp_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/grp_.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/trim.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/trim.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/speed_table.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/speed_table.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/perror_nomsg_and_die.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/perror_nomsg_and_die.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/perror_nomsg.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/perror_nomsg.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/get_terminal_width_height.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/get_terminal_width_height.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/autowidth.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/setup_environment.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/setup_environment.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/inet_common.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/inet_common.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/inet_common.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/inet_common.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ipv6.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/xregcomp.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/xregcomp.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/login.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/login.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/error_msg.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/error_msg.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/wfopen_input.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/wfopen_input.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/get_line_from_file.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/get_line_from_file.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/fclose_nonstdin.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/fclose_nonstdin.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/human_readable.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/human_readable.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/xgetularg.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/xgetularg.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/restricted_shell.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/restricted_shell.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/copyfd.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/copyfd.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/safe_read.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/safe_read.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/herror_msg.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/herror_msg.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/default_error_retval.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/default_error_retval.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/run_parts.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/run_parts.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/device_open.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/device_open.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/perror_msg_and_die.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/perror_msg_and_die.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/xfuncs.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/xfuncs.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/safe_write.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/safe_write.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/mtab.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/mtab.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/syscalls.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/syscalls.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/read_package_field.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/read_package_field.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/change_identity.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/change_identity.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/safe_strtol.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/safe_strtol.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/last_char_is.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/last_char_is.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/xgethostbyname2.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/xgethostbyname2.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ipv6.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/bb_asprintf.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/bb_asprintf.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/vdprintf.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/vdprintf.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/simplify_path.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/simplify_path.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/parse_number.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/parse_number.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/skip_whitespace.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/skip_whitespace.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/create_icmp_socket.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/create_icmp_socket.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/hash_fd.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/hash_fd.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/sha1sum.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/md5sum.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/messages.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/messages.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/inode_hash.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/inode_hash.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/verror_msg.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/verror_msg.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/isdirectory.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/isdirectory.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/create_icmp6_socket.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/create_icmp6_socket.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ipv6.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/mtab_file.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/mtab_file.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/mtab/support.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/mtab/filename.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/process_escape_sequence.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/process_escape_sequence.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/full_write.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/full_write.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/my_getpwnam.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/my_getpwnam.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/grp_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/grp_.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/get_console.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/get_console.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/obscure.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/obscure.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/wfopen.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/wfopen.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/my_getpwuid.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/my_getpwuid.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/print_file.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/print_file.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/concat_path_file.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/concat_path_file.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/interface.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/interface.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/inet_common.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/inet_common.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ipv6.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/xgetlarg.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/xgetlarg.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/xgetcwd.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/xgetcwd.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/vherror_msg.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/vherror_msg.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/find_mount_point.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/find_mount_point.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/concat_subpath_file.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/concat_subpath_file.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/error_msg_and_die.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/error_msg_and_die.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/loop.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/loop.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/my_getug.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/my_getug.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/recursive_action.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/recursive_action.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/procps.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/procps.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/selinux.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/pwd2spwd.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/pwd2spwd.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/shadow_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/shadow_.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/dump.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/dump.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/dump.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/dump.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/xgethostbyname.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/xgethostbyname.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/run_shell.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/run_shell.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/selinux.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/qmodule.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/qmodule.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/vfork_daemon_rexec.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/vfork_daemon_rexec.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/copy_file.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/copy_file.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/preserve/hardlinks.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/parse_mode.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/parse_mode.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/module_syscalls.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/module_syscalls.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/vperror_msg.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/vperror_msg.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/kernel_version.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/kernel_version.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/full_read.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/full_read.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/llist_add_to.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/llist_add_to.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/warn_ignoring_args.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/warn_ignoring_args.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/chomp.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/chomp.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/remove_file.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/remove_file.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/fflush_stdout_and_exit.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/fflush_stdout_and_exit.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/printf.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/printf.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/libbb/find_pid_by_name.o: /home/fred/works/wag320n/tk_apps/busybox/libbb/find_pid_by_name.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/selinux.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/telnetd.o: /home/fred/works/wag320n/tk_apps/busybox/networking/telnetd.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/login.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/telnetd/inetd.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/devpts.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/ip.o: /home/fred/works/wag320n/tk_apps/busybox/networking/ip.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ip/address.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ip/route.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ip/link.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ip/tunnel.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/route.o: /home/fred/works/wag320n/tk_apps/busybox/networking/route.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/inet_common.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/inet_common.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ipv6.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/ping2file.o: /home/fred/works/wag320n/tk_apps/busybox/networking/ping2file.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/fancy/ping.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/nameif.o: /home/fred/works/wag320n/tk_apps/busybox/networking/nameif.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/wget.o: /home/fred/works/wag320n/tk_apps/busybox/networking/wget.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/wget/statusbar.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/wget/authentication.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/wget/ip6/literal.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/ipaddr.o: /home/fred/works/wag320n/tk_apps/busybox/networking/ipaddr.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/iplink.o: /home/fred/works/wag320n/tk_apps/busybox/networking/iplink.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/ipcalc.o: /home/fred/works/wag320n/tk_apps/busybox/networking/ipcalc.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ipcalc/fancy.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/httpd.o: /home/fred/works/wag320n/tk_apps/busybox/networking/httpd.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/lfs.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/httpd/usage/from/inetd/only.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/httpd/basic/auth.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/httpd/cgi.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/httpd/config/with/mime/types.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/httpd/encode/url/str.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/httpd/set/remote/port/to/env.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/httpd/auth/md5.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/httpd/reload/config/sighup.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/httpd/setuid.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/traceroute.o: /home/fred/works/wag320n/tk_apps/busybox/networking/traceroute.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/inet_common.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/inet_common.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/traceroute/verbose.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/traceroute.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/traceroute/so/debug.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/inetd.o: /home/fred/works/wag320n/tk_apps/busybox/networking/inetd.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/inetd/support/biltin/echo.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/inetd/support/biltin/discard.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/inetd/support/biltin/time.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/inetd/support/biltin/daytime.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/inetd/support/biltin/chargen.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/ping6.o: /home/fred/works/wag320n/tk_apps/busybox/networking/ping6.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/fancy/ping6.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/fancy/ping.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/ping.o: /home/fred/works/wag320n/tk_apps/busybox/networking/ping.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/fancy/ping.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/arping.o: /home/fred/works/wag320n/tk_apps/busybox/networking/arping.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/telnet.o: /home/fred/works/wag320n/tk_apps/busybox/networking/telnet.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/telnet/ttype.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/telnet/autologin.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/autowidth.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/ftpgetput.o: /home/fred/works/wag320n/tk_apps/busybox/networking/ftpgetput.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/ftpget.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/ftpput.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/tftpd.o: /home/fred/works/wag320n/tk_apps/busybox/networking/tftpd.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/tftpd/get.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/tftpd/put.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/brctl.o: /home/fred/works/wag320n/tk_apps/busybox/networking/brctl.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/iptunnel.o: /home/fred/works/wag320n/tk_apps/busybox/networking/iptunnel.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/nslookup.o: /home/fred/works/wag320n/tk_apps/busybox/networking/nslookup.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/sendarp.o: /home/fred/works/wag320n/tk_apps/busybox/networking/sendarp.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/tftp.o: /home/fred/works/wag320n/tk_apps/busybox/networking/tftp.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/tftp/blocksize.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/tftp/debug.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/tftp/get.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/tftp/put.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/netstat.o: /home/fred/works/wag320n/tk_apps/busybox/networking/netstat.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/inet_common.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/inet_common.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/route.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ipv6.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/hostname.o: /home/fred/works/wag320n/tk_apps/busybox/networking/hostname.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/vconfig.o: /home/fred/works/wag320n/tk_apps/busybox/networking/vconfig.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/iproute.o: /home/fred/works/wag320n/tk_apps/busybox/networking/iproute.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/libiproute/iplink.o: /home/fred/works/wag320n/tk_apps/busybox/networking/libiproute/iplink.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/libiproute/libnetlink.o: /home/fred/works/wag320n/tk_apps/busybox/networking/libiproute/libnetlink.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/libiproute/ll_addr.o: /home/fred/works/wag320n/tk_apps/busybox/networking/libiproute/ll_addr.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/libiproute/ipaddress.o: /home/fred/works/wag320n/tk_apps/busybox/networking/libiproute/ipaddress.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/libiproute/ip_parse_common_args.o: /home/fred/works/wag320n/tk_apps/busybox/networking/libiproute/ip_parse_common_args.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/libiproute/iptunnel.o: /home/fred/works/wag320n/tk_apps/busybox/networking/libiproute/iptunnel.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/libiproute/iproute.o: /home/fred/works/wag320n/tk_apps/busybox/networking/libiproute/iproute.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/libiproute/utils.o: /home/fred/works/wag320n/tk_apps/busybox/networking/libiproute/utils.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/ifupdown.o: /home/fred/works/wag320n/tk_apps/busybox/networking/ifupdown.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ifupdown/mapping.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ifupdown/ip.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ifupdown/ipx.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ifupdown/ipv6.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ifupdown/ipv4.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/ifconfig.o: /home/fred/works/wag320n/tk_apps/busybox/networking/ifconfig.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/inet_common.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/inet_common.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ifconfig/slip.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ipv6.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ifconfig/broadcast/plus.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ifconfig/hw.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ifconfig/memstart/ioaddr/irq.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ifconfig/status.h)
+/home/fred/works/wag320n/tk_apps/busybox/networking/nc.o: /home/fred/works/wag320n/tk_apps/busybox/networking/nc.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/ledctrl.o: /home/fred/works/wag320n/tk_apps/busybox/ledctrl.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/miscutils/time.o: /home/fred/works/wag320n/tk_apps/busybox/miscutils/time.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/miscutils/sysinfo.o: /home/fred/works/wag320n/tk_apps/busybox/miscutils/sysinfo.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/miscutils/crontab.o: /home/fred/works/wag320n/tk_apps/busybox/miscutils/crontab.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/miscutils/crond.o: /home/fred/works/wag320n/tk_apps/busybox/miscutils/crond.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/crond/call/sendmail.h)
+/home/fred/works/wag320n/tk_apps/busybox/miscutils/makedevs.o: /home/fred/works/wag320n/tk_apps/busybox/miscutils/makedevs.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/miscutils/last.o: /home/fred/works/wag320n/tk_apps/busybox/miscutils/last.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/miscutils/dc.o: /home/fred/works/wag320n/tk_apps/busybox/miscutils/dc.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/miscutils/mt.o: /home/fred/works/wag320n/tk_apps/busybox/miscutils/mt.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/miscutils/watchdog.o: /home/fred/works/wag320n/tk_apps/busybox/miscutils/watchdog.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/miscutils/devfsd.o: /home/fred/works/wag320n/tk_apps/busybox/miscutils/devfsd.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/devfsd/modload.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/devfsd/verbose.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/debug.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/devfsd/fg/np.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/file.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/modules/devfs.h)
+/home/fred/works/wag320n/tk_apps/busybox/miscutils/strings.o: /home/fred/works/wag320n/tk_apps/busybox/miscutils/strings.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/miscutils/rx.o: /home/fred/works/wag320n/tk_apps/busybox/miscutils/rx.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/miscutils/adjtimex.o: /home/fred/works/wag320n/tk_apps/busybox/miscutils/adjtimex.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/miscutils/hdparm.o: /home/fred/works/wag320n/tk_apps/busybox/miscutils/hdparm.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/hdparm/get/identity.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/hdparm/hdio/getset/dma.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/hdparm/hdio/unregister/hwif.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/hdparm/hdio/scan/hwif.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/hdparm/hdio/tristate/hwif.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/hdparm/hdio/drive/reset.h)
+/home/fred/works/wag320n/tk_apps/busybox/procps/kill.o: /home/fred/works/wag320n/tk_apps/busybox/procps/kill.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/killall.h)
+/home/fred/works/wag320n/tk_apps/busybox/procps/pidof.o: /home/fred/works/wag320n/tk_apps/busybox/procps/pidof.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/procps/top.o: /home/fred/works/wag320n/tk_apps/busybox/procps/top.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/use/termios.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/selinux.h)
+/home/fred/works/wag320n/tk_apps/busybox/procps/ps.o: /home/fred/works/wag320n/tk_apps/busybox/procps/ps.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/selinux.h)
+/home/fred/works/wag320n/tk_apps/busybox/procps/sysctl.o: /home/fred/works/wag320n/tk_apps/busybox/procps/sysctl.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/procps/uptime.o: /home/fred/works/wag320n/tk_apps/busybox/procps/uptime.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/procps/renice.o: /home/fred/works/wag320n/tk_apps/busybox/procps/renice.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/procps/free.o: /home/fred/works/wag320n/tk_apps/busybox/procps/free.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/login.o: /home/fred/works/wag320n/tk_apps/busybox/login.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/cpio.o: /home/fred/works/wag320n/tk_apps/busybox/archival/cpio.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/dpkg_deb.o: /home/fred/works/wag320n/tk_apps/busybox/archival/dpkg_deb.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/deb/tar/gz.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/deb/tar/bz2.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/ar.o: /home/fred/works/wag320n/tk_apps/busybox/archival/ar.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/gzip.o: /home/fred/works/wag320n/tk_apps/busybox/archival/gzip.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/gunzip.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/gunzip.o: /home/fred/works/wag320n/tk_apps/busybox/archival/gunzip.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/gunzip/uncompress.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/bunzip2.o: /home/fred/works/wag320n/tk_apps/busybox/archival/bunzip2.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/tar.o: /home/fred/works/wag320n/tk_apps/busybox/archival/tar.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/tar/create.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/tar/from.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/tar/gzip.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/tar/compress.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/tar/bzip2.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/tar/long/options.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/rpm2cpio.o: /home/fred/works/wag320n/tk_apps/busybox/archival/rpm2cpio.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/unzip.o: /home/fred/works/wag320n/tk_apps/busybox/archival/unzip.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/dpkg.o: /home/fred/works/wag320n/tk_apps/busybox/archival/dpkg.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/deb/tar/gz.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/deb/tar/bz2.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/uncompress.o: /home/fred/works/wag320n/tk_apps/busybox/archival/uncompress.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/get_header_cpio.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/get_header_cpio.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/filter_accept_list_reassign.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/filter_accept_list_reassign.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/deb/tar/gz.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/deb/tar/bz2.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/decompress_uncompress.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/decompress_uncompress.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/get_header_tar.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/get_header_tar.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/tar/gnu/extensions.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/tar/oldgnu/compatability.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/seek_by_char.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/seek_by_char.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/decompress_bunzip2.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/decompress_bunzip2.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/unpack_ar_archive.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/unpack_ar_archive.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/decompress_unzip.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/decompress_unzip.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/archive_xread_all.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/archive_xread_all.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/filter_accept_list.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/filter_accept_list.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/check_header_gzip.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/check_header_gzip.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/get_header_tar_gz.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/get_header_tar_gz.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/filter_accept_all.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/filter_accept_all.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/header_verbose_list.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/header_verbose_list.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/open_transformer.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/open_transformer.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/find_list_entry.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/find_list_entry.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/get_header_tar_bz2.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/get_header_tar_bz2.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/data_align.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/data_align.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/data_extract_to_stdout.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/data_extract_to_stdout.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/filter_accept_reject_list.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/filter_accept_reject_list.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/data_extract_to_buffer.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/data_extract_to_buffer.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/init_handle.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/init_handle.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/header_skip.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/header_skip.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/data_skip.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/data_skip.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/archive_xread_all_eof.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/archive_xread_all_eof.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/get_header_ar.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/get_header_ar.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ar/long/filenames.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/data_extract_all.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/data_extract_all.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/header_list.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/header_list.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/seek_by_jump.o: /home/fred/works/wag320n/tk_apps/busybox/archival/libunarchive/seek_by_jump.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/unarchive/tape.h)
+/home/fred/works/wag320n/tk_apps/busybox/archival/rpm.o: /home/fred/works/wag320n/tk_apps/busybox/archival/rpm.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/unarchive.h)
+/home/fred/works/wag320n/tk_apps/busybox/shell/hush.o: /home/fred/works/wag320n/tk_apps/busybox/shell/hush.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/sh/fancy/prompt.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/command/editing.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/sh/standalone/shell.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/sh/extra/quiet.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/shell/ash.o: /home/fred/works/wag320n/tk_apps/busybox/shell/ash.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/ash/job/control.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/ash/alias.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/ash/optimize/for/size.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/ash/math/support.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/ash/cmdcmd.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/ash/getopts.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/sh/extra/quiet.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/ash/mail.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/ash/math/support/64.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/ash/random/support.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/locale/support.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/command/savehistory.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/command/editing.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/sh/fancy/prompt.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/sh/standalone/shell.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/command/tab/completion.h)
+/home/fred/works/wag320n/tk_apps/busybox/shell/msh.o: /home/fred/works/wag320n/tk_apps/busybox/shell/msh.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/command/editing.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/sh/fancy/prompt.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/sh/extra/quiet.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/sh/standalone/shell.h)
+/home/fred/works/wag320n/tk_apps/busybox/shell/lash.o: /home/fred/works/wag320n/tk_apps/busybox/shell/lash.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/locale/support.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/lash/pipe/n/redirects.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/sh/fancy/prompt.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/lash/job/control.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/command/editing.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/sh/standalone/shell.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/sh/extra/quiet.h)
+/home/fred/works/wag320n/tk_apps/busybox/shell/cmdedit.o: /home/fred/works/wag320n/tk_apps/busybox/shell/cmdedit.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/../shell/cmdedit.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/../shell/cmdedit.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/locale/support.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/command/tab/completion.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/command/editing.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/command/username/completion.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/sh/fancy/prompt.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/getusername/and/homedir.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/command/history.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/nonprintable/inverse/put.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/ash.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/command/savehistory.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/editors/vi.o: /home/fred/works/wag320n/tk_apps/busybox/editors/vi.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/locale/support.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/vi/optimize/cursor.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/vi/use/signals.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/vi/crashme.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/vi/dot/cmd.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/vi/yankmark.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/vi/readonly.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/vi/search.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/vi/colon.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/vi/win/resize.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/vi/setopts.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/vi/set.h)
+/home/fred/works/wag320n/tk_apps/busybox/editors/patch.o: /home/fred/works/wag320n/tk_apps/busybox/editors/patch.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/editors/sed.o: /home/fred/works/wag320n/tk_apps/busybox/editors/sed.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/editors/awk.o: /home/fred/works/wag320n/tk_apps/busybox/editors/awk.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/awk/math.h)
+/home/fred/works/wag320n/tk_apps/busybox/ping.o: /home/fred/works/wag320n/tk_apps/busybox/ping.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/console-tools/reset.o: /home/fred/works/wag320n/tk_apps/busybox/console-tools/reset.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/console-tools/deallocvt.o: /home/fred/works/wag320n/tk_apps/busybox/console-tools/deallocvt.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/console-tools/setkeycodes.o: /home/fred/works/wag320n/tk_apps/busybox/console-tools/setkeycodes.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/console-tools/chvt.o: /home/fred/works/wag320n/tk_apps/busybox/console-tools/chvt.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/console-tools/clear.o: /home/fred/works/wag320n/tk_apps/busybox/console-tools/clear.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/console-tools/loadfont.o: /home/fred/works/wag320n/tk_apps/busybox/console-tools/loadfont.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/console-tools/openvt.o: /home/fred/works/wag320n/tk_apps/busybox/console-tools/openvt.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/console-tools/dumpkmap.o: /home/fred/works/wag320n/tk_apps/busybox/console-tools/dumpkmap.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/console-tools/loadkmap.o: /home/fred/works/wag320n/tk_apps/busybox/console-tools/loadkmap.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/modutils/modprobe.o: /home/fred/works/wag320n/tk_apps/busybox/modutils/modprobe.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/2/6/modules.h)
+/home/fred/works/wag320n/tk_apps/busybox/modutils/rmmod.o: /home/fred/works/wag320n/tk_apps/busybox/modutils/rmmod.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/2/6/modules.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/query/module/interface.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/modutils/insmod.o: /home/fred/works/wag320n/tk_apps/busybox/modutils/insmod.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/2/4/modules.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/2/6/modules.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/insmod/loadinkmem.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/insmod/version/checking.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/use/list.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/list/archtype.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/use/single.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/use/plt/entries.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/use/got/entries.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/use/plt/list.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/got/entry/size.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/plt/entry/size.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/check/tainted/module.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/insmod/ksymoops/symbols.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/insmod/load/map.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/insmod/load/map/full.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/modutils/lsmod.o: /home/fred/works/wag320n/tk_apps/busybox/modutils/lsmod.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/check/tainted/module.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/query/module/interface.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/sysklogd/logread.o: /home/fred/works/wag320n/tk_apps/busybox/sysklogd/logread.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/logread/reduced/locking.h)
+/home/fred/works/wag320n/tk_apps/busybox/sysklogd/klogd.o: /home/fred/works/wag320n/tk_apps/busybox/sysklogd/klogd.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/sysklogd/logger.o: /home/fred/works/wag320n/tk_apps/busybox/sysklogd/logger.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/syslogd.h)
+/home/fred/works/wag320n/tk_apps/busybox/loginutils/vlock.o: /home/fred/works/wag320n/tk_apps/busybox/loginutils/vlock.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/shadowpasswds.h)
+/home/fred/works/wag320n/tk_apps/busybox/loginutils/sulogin.o: /home/fred/works/wag320n/tk_apps/busybox/loginutils/sulogin.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/shadowpasswds.h)
+/home/fred/works/wag320n/tk_apps/busybox/loginutils/login.o: /home/fred/works/wag320n/tk_apps/busybox/loginutils/login.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/selinux.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/u/w/tmp.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/securetty.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/wheel/group.h)
+/home/fred/works/wag320n/tk_apps/busybox/loginutils/delline.o: /home/fred/works/wag320n/tk_apps/busybox/loginutils/delline.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/loginutils/adduser.o: /home/fred/works/wag320n/tk_apps/busybox/loginutils/adduser.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/shadowpasswds.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/addgroup.h)
+/home/fred/works/wag320n/tk_apps/busybox/loginutils/deluser.o: /home/fred/works/wag320n/tk_apps/busybox/loginutils/deluser.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/shadowpasswds.h)
+/home/fred/works/wag320n/tk_apps/busybox/loginutils/addgroup.o: /home/fred/works/wag320n/tk_apps/busybox/loginutils/addgroup.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/grp_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/grp_.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/shadowpasswds.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/adduser.h)
+/home/fred/works/wag320n/tk_apps/busybox/loginutils/su.o: /home/fred/works/wag320n/tk_apps/busybox/loginutils/su.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/u/w/tmp.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/selinux.h)
+/home/fred/works/wag320n/tk_apps/busybox/loginutils/getty.o: /home/fred/works/wag320n/tk_apps/busybox/loginutils/getty.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/syslogd.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/u/w/tmp.h)
+/home/fred/works/wag320n/tk_apps/busybox/loginutils/passwd.o: /home/fred/works/wag320n/tk_apps/busybox/loginutils/passwd.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/shadowpasswds.h)
+/home/fred/works/wag320n/tk_apps/busybox/loginutils/delgroup.o: /home/fred/works/wag320n/tk_apps/busybox/loginutils/delgroup.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/deluser.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/shadowpasswds.h)
+/home/fred/works/wag320n/tk_apps/busybox/libpwdgrp/pwd_grp.o: /home/fred/works/wag320n/tk_apps/busybox/libpwdgrp/pwd_grp.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/grp_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/grp_.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/shadow_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/shadow_.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/wc.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/wc.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/locale/support.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/cp.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/cp.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/uniq.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/uniq.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/expr.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/expr.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/sync.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/sync.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/fold.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/fold.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/tty.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/tty.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/dirname.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/dirname.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/chroot.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/chroot.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/hostid.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/hostid.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/logname.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/logname.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/false.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/false.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/basename.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/basename.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/chgrp.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/chgrp.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/sort.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/sort.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/length.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/length.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/who.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/who.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/watch.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/watch.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/whoami.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/whoami.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/libcoreutils/cp_mv_stat.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/libcoreutils/cp_mv_stat.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/libcoreutils/getopt_mk_fifo_nod.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/libcoreutils/getopt_mk_fifo_nod.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/libcoreutils/xgetoptfile_sort_uniq.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/libcoreutils/xgetoptfile_sort_uniq.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/true.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/true.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/id.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/id.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/selinux.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/dos2unix.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/dos2unix.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/uname.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/uname.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/mkdir.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/mkdir.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/head.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/head.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/fancy/head.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/md5_sha1_sum.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/md5_sha1_sum.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/md5/sha1/sum/check.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/md5sum.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/sha1sum.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/env.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/env.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/cmp.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/cmp.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/install.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/install.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/cut.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/cut.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/rmdir.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/rmdir.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/ln.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/ln.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/mknod.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/mknod.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/tail.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/tail.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/fancy/tail.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/stty.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/stty.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/cat.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/cat.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/rm.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/rm.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/du.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/du.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/human/readable.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/du/defalt/blocksize/1k.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/chown.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/chown.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/df.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/df.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/human/readable.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/test.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/test.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/test/64.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/seq.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/seq.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/date.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/date.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/date/isofmt.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/yes.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/yes.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/pwd.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/pwd.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/mv.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/mv.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/usleep.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/usleep.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/mkfifo.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/mkfifo.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/chmod.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/chmod.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/sleep.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/sleep.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/fancy/sleep.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/touch.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/touch.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/uudecode.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/uudecode.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/od.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/od.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/dump.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/dump.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/cal.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/cal.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/locale/support.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/ls.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/ls.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/selinux.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ls/timestamps.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ls/sortfiles.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ls/followlinks.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/human/readable.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ls/filetypes.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ls/color.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/autowidth.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ls/recursive.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/locale/support.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/ls/username.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/uuencode.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/uuencode.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/tr.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/tr.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/dd.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/dd.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/echo.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/echo.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/fancy/echo.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/tee.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/tee.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/tee/use/block/io.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/printf.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/printf.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/coreutils/realpath.o: /home/fred/works/wag320n/tk_apps/busybox/coreutils/realpath.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/hexdump.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/hexdump.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/dump.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/dump.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/mount.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/mount.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/nfsmount.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/mount/loop.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/mtab/support.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/fdflush.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/fdflush.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/swaponoff.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/swaponoff.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/umount.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/umount.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/mount/force.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/mount/loop.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/mtab/support.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/nfsmount.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/nfsmount.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/hwclock.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/hwclock.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/hwclock/longoptions.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/fdformat.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/fdformat.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/more.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/more.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/use/termios.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/losetup.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/losetup.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/fsck_minix.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/fsck_minix.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/minix2.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/freeramdisk.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/freeramdisk.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/rdate.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/rdate.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/getopt.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/getopt.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/fbset.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/fbset.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/fbset/fancy.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/fbset/readmode.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/pivot_root.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/pivot_root.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/dmesg.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/dmesg.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/mkfs_minix.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/mkfs_minix.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/minix2.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/fdisk.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/fdisk.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/sun/label.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/sgi/label.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/aix/label.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/osf/label.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/fdisk/writable.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/fdisk/advanced.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/weird/partition/types.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/fdisk/blksize.h)
+/home/fred/works/wag320n/tk_apps/busybox/util-linux/mkswap.o: /home/fred/works/wag320n/tk_apps/busybox/util-linux/mkswap.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/insmod.o: /home/fred/works/wag320n/tk_apps/busybox/insmod.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/debianutils/start_stop_daemon.o: /home/fred/works/wag320n/tk_apps/busybox/debianutils/start_stop_daemon.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h)
+/home/fred/works/wag320n/tk_apps/busybox/debianutils/mktemp.o: /home/fred/works/wag320n/tk_apps/busybox/debianutils/mktemp.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/debianutils/run_parts.o: /home/fred/works/wag320n/tk_apps/busybox/debianutils/run_parts.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/debianutils/pipe_progress.o: /home/fred/works/wag320n/tk_apps/busybox/debianutils/pipe_progress.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/debianutils/readlink.o: /home/fred/works/wag320n/tk_apps/busybox/debianutils/readlink.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/debianutils/which.o: /home/fred/works/wag320n/tk_apps/busybox/debianutils/which.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h)
+/home/fred/works/wag320n/tk_apps/busybox/findutils/grep.o: /home/fred/works/wag320n/tk_apps/busybox/findutils/grep.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/grep/context.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/grep/egrep/alias.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/findutils/xargs.o: /home/fred/works/wag320n/tk_apps/busybox/findutils/xargs.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/xargs/support/confirmation.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/xargs/support/quotes.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/xargs/support/termopt.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/xargs/support/zero/term.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/clean/up.h)
+/home/fred/works/wag320n/tk_apps/busybox/findutils/find.o: /home/fred/works/wag320n/tk_apps/busybox/findutils/find.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/find/type.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/find/perm.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/find/mtime.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/find/xdev.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/find/newer.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/find/inum.h)
+/home/fred/works/wag320n/tk_apps/busybox/init/halt.o: /home/fred/works/wag320n/tk_apps/busybox/init/halt.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/init.h)
+/home/fred/works/wag320n/tk_apps/busybox/init/reboot.o: /home/fred/works/wag320n/tk_apps/busybox/init/reboot.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/init.h)
+/home/fred/works/wag320n/tk_apps/busybox/init/mesg.o: /home/fred/works/wag320n/tk_apps/busybox/init/mesg.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/libbb.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/libbb.h)
+/home/fred/works/wag320n/tk_apps/busybox/init/init_shared.o: /home/fred/works/wag320n/tk_apps/busybox/init/init_shared.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/initrd.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/init.h)
+/home/fred/works/wag320n/tk_apps/busybox/init/poweroff.o: /home/fred/works/wag320n/tk_apps/busybox/init/poweroff.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/init.h)
+/home/fred/works/wag320n/tk_apps/busybox/init/init.o: /home/fred/works/wag320n/tk_apps/busybox/init/init.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/syslogd.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/init/coredumps.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/extra/quiet.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/use/inittab.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/initrd.h)
+/home/fred/works/wag320n/tk_apps/busybox/applets/applets.o: /home/fred/works/wag320n/tk_apps/busybox/applets/applets.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/usage.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/usage.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/applets.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/applets.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/applets.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/applets.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/suid.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/suid/config.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/pwd_.h) \
+ /home/fred/works/wag320n/tk_apps/busybox/include/grp_.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/grp_.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/suid/config/quiet.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/file.h)
+/home/fred/works/wag320n/tk_apps/busybox/applets/busybox.o: /home/fred/works/wag320n/tk_apps/busybox/applets/busybox.c \
+ /home/fred/works/wag320n/tk_apps/busybox/include/busybox.h $(dep_/home/fred/works/wag320n/tk_apps/busybox/include/busybox.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/locale/support.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/installer.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/init.h) \
+   $(wildcard /home/fred/works/wag320n/tk_apps/busybox/config/feature/autowidth.h)

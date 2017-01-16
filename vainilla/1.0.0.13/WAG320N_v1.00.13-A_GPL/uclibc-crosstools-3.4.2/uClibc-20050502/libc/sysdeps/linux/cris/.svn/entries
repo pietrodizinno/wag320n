@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9826"
+   name=""
+   committed-date="2005-02-09T08:42:13.651033Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/cris"
+   last-author="pkj"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="9051"
+   name="__init_brk.c"
+   text-time="2005-05-02T06:10:28.000000Z"
+   committed-date="2004-07-30T20:06:01.000000Z"
+   checksum="5ed822ee7ce4f0a773bf04258c707ed5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9051"
+   name="sbrk.c"
+   text-time="2005-05-02T06:10:28.000000Z"
+   committed-date="2004-07-30T20:06:01.000000Z"
+   checksum="7fe72f7f6e193638045747a2ed72588d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="8481"
+   name="fork.c"
+   text-time="2005-05-02T06:10:28.000000Z"
+   committed-date="2004-02-15T09:02:54.000000Z"
+   checksum="5635cc00ad107c9812879c9c968e179d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="5505"
+   name="libc.map"
+   text-time="2005-05-02T06:10:28.000000Z"
+   committed-date="2002-09-16T08:08:37.000000Z"
+   checksum="cf77192983ee4f0dd949086679b83a12"
+   last-author="tobiasa"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9826"
+   name="crt0.c"
+   text-time="2005-05-02T06:10:28.000000Z"
+   committed-date="2005-02-09T08:42:13.651033Z"
+   checksum="082fb61b14356b64bda12b851eedabd9"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9138"
+   name="sysdep.h"
+   text-time="2005-05-02T06:10:28.000000Z"
+   committed-date="2004-08-21T21:19:29.000000Z"
+   checksum="8ba6eeb541d6681937136b723a001312"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9051"
+   name="brk.c"
+   text-time="2005-05-02T06:10:28.000000Z"
+   committed-date="2004-07-30T20:06:01.000000Z"
+   checksum="0300905bfce31a8d6b1022a52b783db9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   name="bits"
+   kind="dir"/>
+<entry
+   committed-rev="5581"
+   name="clone.S"
+   text-time="2005-05-02T06:10:28.000000Z"
+   committed-date="2002-09-20T15:17:16.000000Z"
+   checksum="a943922337f25d4a4e85a0e656cd49dd"
+   last-author="tobiasa"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="7794"
+   name="crti.S"
+   text-time="2005-05-02T06:10:28.000000Z"
+   committed-date="2003-11-05T02:21:28.000000Z"
+   checksum="764a047efc6d3b707ecd5b07bfcafddf"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="5505"
+   name="setjmp.S"
+   text-time="2005-05-02T06:10:28.000000Z"
+   committed-date="2002-09-16T08:08:37.000000Z"
+   checksum="ad5108df208b8eeb9d3942784eba488e"
+   last-author="tobiasa"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="5505"
+   name="__longjmp.S"
+   text-time="2005-05-02T06:10:28.000000Z"
+   committed-date="2002-09-16T08:08:37.000000Z"
+   checksum="848b1cd7b9e5e750d753d85d3d9034af"
+   last-author="tobiasa"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="7794"
+   name="crtn.S"
+   text-time="2005-05-02T06:10:28.000000Z"
+   committed-date="2003-11-05T02:21:28.000000Z"
+   checksum="38141e3add1b12a7c962debf3282ad24"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9825"
+   name="sysdep.S"
+   text-time="2005-05-02T06:10:28.000000Z"
+   committed-date="2005-02-09T08:40:55.183069Z"
+   checksum="3616974ce563c8189e329cb8050927e8"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:28.000000Z"/>
+<entry
+   committed-rev="9488"
+   name="syscall.S"
+   text-time="2005-05-02T06:10:28.000000Z"
+   committed-date="2004-10-30T17:32:52.000000Z"
+   checksum="2d29025f7d5bcc286cf15ef59858ed1d"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:28.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:28.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="72f6cc7a3e3f630dc19dbf36764666b2"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:28.000000Z"/>
+<entry
+   name="sys"
+   kind="dir"/>
+</wc-entries>

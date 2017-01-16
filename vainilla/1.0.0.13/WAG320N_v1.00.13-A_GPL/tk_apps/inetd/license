@@ -1,0 +1,20 @@
+/* inetd.c: Start up network services
+ *
+ * Copyright (C) 1998  Kenneth Albanowski <kjahds@kjahds.com>
+ * Copyright (C) 1999  D. Jeff Dionne     <jeff@lineo.ca>
+ * Copyright (C) 2000  Lineo, Inc.  (www.lineo.com)
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ */
+
+/* Reworked code to allocate service structures dynamically.
+ * Also compacted this structure a little and inlined functions
+ * which are only called in one place.
+ */
+/* Fixed Null Pointer references caused by code in read_config()
+ *                    - Rajiv Dhinakaran, 1 June 2000.
+ */
+

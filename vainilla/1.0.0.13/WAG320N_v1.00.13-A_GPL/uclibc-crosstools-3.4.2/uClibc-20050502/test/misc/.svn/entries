@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9862"
+   name=""
+   committed-date="2005-02-12T20:59:08.359318Z"
+   url="svn://uclibc.org/trunk/uClibc/test/misc"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:02.000000Z"
+   revision="10221"/>
+<entry
+   committed-rev="5379"
+   name="sem.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2002-08-24T21:23:58.000000Z"
+   checksum="5a32e787bcf26b3ca04580396c45990e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="6491"
+   name="dirent.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2003-01-28T10:59:43.000000Z"
+   checksum="92e6c0bd9c03076009c4d02e401fb7cd"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="2805"
+   name="outb.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2001-06-07T19:44:37.000000Z"
+   checksum="ea7fdb8280301a0a72add81e3653a735"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="6491"
+   name="fdopen.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2003-01-28T10:59:43.000000Z"
+   checksum="49ba7526c153b2858980bb8976c7e87c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="8229"
+   name="Makefile"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2004-01-02T23:07:57.000000Z"
+   checksum="1baa762bb5da8751e3b157a196883da3"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+</wc-entries>

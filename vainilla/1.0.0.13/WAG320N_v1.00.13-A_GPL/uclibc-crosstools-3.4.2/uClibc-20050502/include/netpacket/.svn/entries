@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5197"
+   name=""
+   committed-date="2002-08-08T13:23:59.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/include/netpacket"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10284"/>
+<entry
+   committed-rev="5197"
+   name="packet.h"
+   text-time="2005-05-02T06:10:05.000000Z"
+   committed-date="2002-08-08T13:23:59.000000Z"
+   checksum="36c7178204743ac2afce0198127ca5d0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:05.000000Z"/>
+</wc-entries>

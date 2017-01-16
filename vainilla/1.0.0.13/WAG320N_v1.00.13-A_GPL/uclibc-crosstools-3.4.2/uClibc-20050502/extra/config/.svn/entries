@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10132"
+   name=""
+   committed-date="2005-04-18T15:59:49.023995Z"
+   url="svn://uclibc.org/trunk/uClibc/extra/config"
+   last-author="pkj"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:10.000000Z"
+   revision="10221"/>
+<entry
+   committed-rev="8295"
+   name="Kconfig-language.txt"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-01-16T12:49:06.000000Z"
+   checksum="6bc1fd09720c06da24a39df70c5a0de3"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="10132"
+   name="zconf.tab.c_shipped"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:59:49.023995Z"
+   checksum="6bf31d3418d04482b83c105400e62ed9"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="10132"
+   name="lkc_proto.h"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:59:49.023995Z"
+   checksum="1549df0d7aeaf864c1efe88deacd63c0"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="10132"
+   name="mconf.c"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:59:49.023995Z"
+   checksum="413a4b50171480ceb678cb22adc2167c"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="10132"
+   name="menu.c"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:59:49.023995Z"
+   checksum="c538a95f0d2debb9b2a5e6a1aa6ed85c"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="10132"
+   name="zconf.y"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:59:49.023995Z"
+   checksum="2af79ddbbda8b84be11d1c5f64c39d9b"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="5853"
+   name="zconf.tab.h_shipped"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2002-11-08T00:47:07.000000Z"
+   checksum="559d297d9cdec16739ca93f10631d1b5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="10132"
+   name="symbol.c"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:59:49.023995Z"
+   checksum="e0c8767bd3497498863ab2a3c7d14c38"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="10132"
+   name="util.c"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:59:49.023995Z"
+   checksum="308697c2945e644f538206712ddd493d"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="10132"
+   name="expr.c"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:59:49.023995Z"
+   checksum="c7ded9bffa5695140490b07e37ba61c6"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="10132"
+   name="lkc.h"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:59:49.023995Z"
+   checksum="1846853b01020242d636addbfea6f5a1"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="10132"
+   name="confdata.c"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:59:49.023995Z"
+   checksum="0d24dd71d4c10e2e6bd1de12693ba925"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="7159"
+   name="lex.zconf.c_shipped"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2003-08-05T01:52:39.000000Z"
+   checksum="57869b20c8fd74277af8c82dd4957968"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   name="lxdialog"
+   kind="dir"/>
+<entry
+   committed-rev="10132"
+   name="expr.h"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:59:49.023995Z"
+   checksum="1dc38867aa79d5dd599abe530da113f2"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="10132"
+   name="conf.c"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:59:49.023995Z"
+   checksum="d83e5ace061eba9fd4e427fdc662f3ed"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="7159"
+   name="zconf.l"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2003-08-05T01:52:39.000000Z"
+   checksum="7974f0cbe4868399eaadb6c1a739e6b7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="10132"
+   name="Makefile"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:59:49.023995Z"
+   checksum="f2f104beca4e334b8d21864fe46f1b54"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+</wc-entries>

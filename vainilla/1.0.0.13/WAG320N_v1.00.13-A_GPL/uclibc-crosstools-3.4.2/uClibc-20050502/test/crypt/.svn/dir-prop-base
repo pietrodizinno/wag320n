@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 53
+crypt
+crypt.out
+crypt_glibc
+crypt_glibc.out
+md5c-test
+END

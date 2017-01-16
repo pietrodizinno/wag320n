@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5581"
+   name=""
+   committed-date="2002-09-20T15:17:16.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/cris/sys"
+   last-author="tobiasa"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="5505"
+   name="ucontext.h"
+   text-time="2005-05-02T06:10:28.000000Z"
+   committed-date="2002-09-16T08:08:37.000000Z"
+   checksum="78be34110c5ef0a9056113a14edea356"
+   last-author="tobiasa"
+   kind="file"
+   prop-time="2005-05-02T06:10:28.000000Z"/>
+<entry
+   committed-rev="5581"
+   name="procfs.h"
+   text-time="2005-05-02T06:10:28.000000Z"
+   committed-date="2002-09-20T15:17:16.000000Z"
+   checksum="7ca07e9f637639f30a7b436ad645767a"
+   last-author="tobiasa"
+   kind="file"
+   prop-time="2005-05-02T06:10:28.000000Z"/>
+</wc-entries>

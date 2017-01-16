@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/string/powerpc"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="8638"
+   name="string.c"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2004-03-18T11:38:02.000000Z"
+   checksum="b22cfb0be5110f1cfa6cc443e354fd93"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="c5b71578c1a7f4061e390f4c30c153a0"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+</wc-entries>

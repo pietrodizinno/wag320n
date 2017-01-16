@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9862"
+   name=""
+   committed-date="2005-02-12T20:59:08.359318Z"
+   url="svn://uclibc.org/trunk/uClibc/test/crypt"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:02.000000Z"
+   revision="10221"/>
+<entry
+   committed-rev="4262"
+   name="crypt.input"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2002-02-23T02:19:37.000000Z"
+   checksum="137d1146e0ef75ed0978edae548be8ff"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="4262"
+   name="crypt.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2002-02-23T02:19:37.000000Z"
+   checksum="18513eb825d4ce794910442869a7b4f5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="4297"
+   name="md5c-test.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2002-02-26T15:29:24.000000Z"
+   checksum="5fcf4eb180691ae1dcdd7315194e77bd"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="8229"
+   name="Makefile"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2004-01-02T23:07:57.000000Z"
+   checksum="5d45778d636fc74a2eb12834339a2ef7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+</wc-entries>

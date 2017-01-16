@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9795"
+   name=""
+   committed-date="2005-02-02T14:18:01.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/extra/scripts"
+   last-author="solar"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10221"/>
+<entry
+   committed-rev="8640"
+   name="relative_path.sh"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-03-18T11:43:18.000000Z"
+   checksum="53190bca8869b429c151faf0a90f024a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="5724"
+   name="gen_bits_syscall_h.sh"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2002-10-28T08:33:08.000000Z"
+   checksum="d2d2a024fc6c378ec6562f65c9cfbac7"
+   last-author="miles"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="9158"
+   name="fix_includes.sh"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2004-08-26T17:03:09.000000Z"
+   checksum="18acdb1f5b0de26421faab5c8fd91acb"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="9795"
+   name="getent"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-02-02T14:18:01.000000Z"
+   checksum="685fd35b1f34a7dd2e5c173d7e388aae"
+   last-author="solar"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+</wc-entries>

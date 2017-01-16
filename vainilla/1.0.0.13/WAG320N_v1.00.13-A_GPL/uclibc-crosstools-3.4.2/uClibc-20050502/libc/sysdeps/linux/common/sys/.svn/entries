@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4309"
+   name=""
+   committed-date="2002-03-01T20:46:26.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/common/sys"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="4309"
+   name="ptrace.h"
+   text-time="2005-05-02T06:10:25.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="da90a2740b45fbe622bf110c9bdea657"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:25.000000Z"/>
+<entry
+   committed-rev="4309"
+   name="user.h"
+   text-time="2005-05-02T06:10:25.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="5d98c888a08946be0129eacd69d5b00d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:25.000000Z"/>
+</wc-entries>

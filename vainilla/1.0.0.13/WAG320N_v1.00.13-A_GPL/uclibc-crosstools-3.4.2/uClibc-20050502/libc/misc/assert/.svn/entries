@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/misc/assert"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="8457"
+   name="__assert.c"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="61f309be6a241444f753a7895b200860"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="358dd5bc5114ba923feefd1bae75308e"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="1180"
+   name=".indent.pro"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2000-10-11T22:08:28.000000Z"
+   checksum="6bea8d1b7f6cfeb6b6c2a95596c69c6d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+</wc-entries>

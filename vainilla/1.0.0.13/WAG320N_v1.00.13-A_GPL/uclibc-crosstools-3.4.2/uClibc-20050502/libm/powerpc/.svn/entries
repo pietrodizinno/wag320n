@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9974"
+   name=""
+   committed-date="2005-03-06T07:11:53.492383Z"
+   url="svn://uclibc.org/trunk/uClibc/libm/powerpc"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10221"/>
+<entry
+   committed-rev="9974"
+   name="s_ceil.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="dd5a36ff2467022e382a378b88f5abf2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_ldexp.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="fb4d9dfefcfafaab667f6284a540f4ee"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_rint.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="cf4b6ba5c2b2a20f504703af2394371c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_floor.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="e895cbed6ed0cea5f58436961dc62198"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_logb.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="7f6aa11d91e6ca796c010c0b96a44b23"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_frexp.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="0562734c41c4c938dc7a06aedec693a6"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_modf.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="742c52a6c25c725d20718e74c0b5bce9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="w_scalb.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="e3be57349a069fcf7015b927ae8b5b9e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="Makefile"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="6b12f3f26343db987216731163370b1b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   committed-rev="9974"
+   name="s_copysign.c"
+   text-time="2005-05-02T06:10:11.000000Z"
+   committed-date="2005-03-06T07:11:53.492383Z"
+   checksum="7e7908ae856a4a646580a0179802587a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+</wc-entries>

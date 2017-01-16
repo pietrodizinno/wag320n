@@ -1,0 +1,6 @@
+K 10
+svn:ignore
+V 27
+locale_data.c
+locale_data.o
+END

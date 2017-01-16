@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4288"
+   name=""
+   committed-date="2002-02-26T10:47:22.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/include/netipx"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10284"/>
+<entry
+   committed-rev="4288"
+   name="ipx.h"
+   text-time="2005-05-02T06:10:04.000000Z"
+   committed-date="2002-02-26T10:47:22.000000Z"
+   checksum="ed6d8e8745fe9d423791c555d45f8d81"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:04.000000Z"/>
+</wc-entries>

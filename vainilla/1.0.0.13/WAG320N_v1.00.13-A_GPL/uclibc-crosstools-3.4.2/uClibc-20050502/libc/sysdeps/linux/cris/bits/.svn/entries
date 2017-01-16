@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9270"
+   name=""
+   committed-date="2004-09-23T07:23:26.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/cris/bits"
+   last-author="jocke"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="5505"
+   name="huge_val.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2002-09-16T08:08:37.000000Z"
+   checksum="53a2ac0d5a3a27217e5003ca5f685933"
+   last-author="tobiasa"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="6465"
+   name="kernel_stat.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2003-01-24T16:10:36.000000Z"
+   checksum="523778a0de43f03b649f606dd0ac4fd1"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="7268"
+   name="syscalls.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2003-08-27T13:13:47.000000Z"
+   checksum="bee35fbf81112d2c3f30a842987d8caf"
+   last-author="tobiasa"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9270"
+   name="uClibc_page.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2004-09-23T07:23:26.000000Z"
+   checksum="8104863b87ff5fee7117244f460d04af"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="9270"
+   name="byteswap.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2004-09-23T07:23:26.000000Z"
+   checksum="d19cf84ce1b786bd52d12b619ffd1646"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="5505"
+   name="endian.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2002-09-16T08:08:37.000000Z"
+   checksum="93fccd506f7fe5d54e90745c244bfc1e"
+   last-author="tobiasa"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="6671"
+   name="stackinfo.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2003-03-03T20:58:42.000000Z"
+   checksum="ec3c91ff8b10c3377e6e0d37e6067118"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="5505"
+   name="setjmp.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2002-09-16T08:08:37.000000Z"
+   checksum="b86b250072c10ef90871c000ca530443"
+   last-author="tobiasa"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="8417"
+   name="kernel_types.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2004-02-06T07:09:46.000000Z"
+   checksum="9a1c3093005f49fc63805e9c33d74101"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="7755"
+   name="fcntl.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2003-11-03T08:43:01.000000Z"
+   checksum="b894d1fb4682bb3836207c7aa473ef18"
+   last-author="tobiasa"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="5505"
+   name="wordsize.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2002-09-16T08:08:37.000000Z"
+   checksum="d0a7b6b47c4fc632e1572d913b6f67a4"
+   last-author="tobiasa"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="5505"
+   name="mathcalls.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2002-09-16T08:08:37.000000Z"
+   checksum="d44436f0aca69f58adf933e24a16fab5"
+   last-author="tobiasa"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="5505"
+   name="mman.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2002-09-16T08:08:37.000000Z"
+   checksum="82b7382d69a849dfa84ad21c378ff6d1"
+   last-author="tobiasa"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+<entry
+   committed-rev="6671"
+   name="profil-counter.h"
+   text-time="2005-05-02T06:10:27.000000Z"
+   committed-date="2003-03-03T20:58:42.000000Z"
+   checksum="68f9a56065c22ad65033f3534073ff32"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:27.000000Z"/>
+</wc-entries>

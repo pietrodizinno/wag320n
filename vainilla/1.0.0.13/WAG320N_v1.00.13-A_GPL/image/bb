@@ -1,0 +1,3 @@
+#!/bin/sh
+./mipsBind wag320n.par wag320n.bin
+./attach_chksum wag320n.bin

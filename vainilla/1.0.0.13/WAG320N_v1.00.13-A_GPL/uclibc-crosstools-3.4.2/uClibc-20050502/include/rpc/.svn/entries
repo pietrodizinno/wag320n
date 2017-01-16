@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10230"
+   name=""
+   committed-date="2005-05-02T13:49:28.105669Z"
+   url="svn://uclibc.org/trunk/uClibc/include/rpc"
+   last-author="mjn3"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10284"/>
+<entry
+   committed-rev="3438"
+   name="rpc_msg.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="fde0f7484f06d4f4c8e33ffb4273826c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="svc.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="c028687022796f7dada5233d2d48d5f7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="auth_des.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="95a0a6e7bd40758ed45aad0f05e4030c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="des_crypt.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="d23cf34ad38d1a8ab22698cc5162675d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="755"
+   name="key_prot.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2000-07-06T19:22:49.000000Z"
+   checksum="7651cce25aaf644b309741dcd4e4b643"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="netdb.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="8c33cc7d5a8ec531788ebfb80eecb1de"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="10230"
+   name="xdr.h"
+   text-time="2005-05-10T10:40:54.000000Z"
+   committed-date="2005-05-02T13:49:28.105669Z"
+   checksum="6dacee7c6175f08cde96df484972c475"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-10T10:40:54.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="clnt.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="dd26f2a29be3a2f846e1e366bebe0eb0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="4911"
+   name="auth.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2002-06-17T21:18:37.000000Z"
+   checksum="16e6faa8033faedcf88f28f8b659def2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="pmap_prot.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="01345be535b7918959df0aa464f8f396"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="auth_unix.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="e865466b7f50300890d5709ff34cfab9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="4911"
+   name="types.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2002-06-17T21:18:37.000000Z"
+   checksum="27ce2d02544c03aac46391fcb7519761"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="svc_auth.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="dc4f868744292d037d9113c7838d146e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="pmap_clnt.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="d3d16d2a55169c6e0019da610999a0c2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="755"
+   name="rpc_des.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2000-07-06T19:22:49.000000Z"
+   checksum="194e5dc474ad630171bb7b5b12cc1e28"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="pmap_rmt.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="cf5a6fe2c4ff337c4a2a8670931a8280"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="4911"
+   name="rpc.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2002-06-17T21:18:37.000000Z"
+   checksum="cbf95ebc39041d4a01763f88d0ba0747"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+</wc-entries>

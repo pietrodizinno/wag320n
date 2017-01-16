@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/misc/fnmatch"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="1180"
+   name="fnmatch.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2000-10-11T22:08:28.000000Z"
+   checksum="396f7cfa6e35ec7b1b054a8c71f47bf9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="b611ca6f42259bb3d1b17a41aa17202f"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="1180"
+   name=".indent.pro"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2000-10-11T22:08:28.000000Z"
+   checksum="6bea8d1b7f6cfeb6b6c2a95596c69c6d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+</wc-entries>

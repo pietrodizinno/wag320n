@@ -1,0 +1,180 @@
+# MCONFIG -- Configuration stuff for util-linux
+# Created: Sat Feb  4 15:50:30 1995
+# Copyright 1995 Rickard E. Faith (faith@cs.unc.edu)
+
+# For a user-mode install, make (at least) three changes:
+#  - remove the `-o root' part in INSTALLSUID
+#  - set USE_TTY_GROUP=no
+#  - define DESTDIR
+
+# Select for CPU one of intel, alpha, sparc, arm, m68k, mips
+CPU=$(shell uname -m | sed 's/i.86/intel/;s/arm.*/arm/')
+
+# define where is locale directrory (default /usr/share/locale)
+LOCALEDIR=/usr/share/locale
+
+# If HAVE_PAM is set to "yes", then login, chfn, chsh, and newgrp
+# will use PAM for authentication. Additionally, passwd will not be
+# installed as it is not PAM aware.
+HAVE_PAM=no
+
+# If HAVE_SHADOW is set to "yes", then login, chfn, chsh, newgrp, passwd,
+# and vipw will not be built or installed from the login-utils
+# subdirectory.  
+HAVE_SHADOW=yes
+
+# If HAVE_PASSWD is set to "yes", then passwd will not be built or
+# installed from the login-utils subdirectory (but login, chfn, chsh,
+# newgrp, and vipw *will* be installed).
+HAVE_PASSWD=no
+
+# If you use chfn and chsh from this package, REQUIRE_PASSWORD will require
+# non-root users to enter the account password before updating /etc/passwd.
+REQUIRE_PASSWORD=yes
+#REQUIRE_PASSWORD=no
+
+# If you use chsh from this package, ONLY_LISTED_SHELLS will require that
+# the selected shell be listed in /etc/shells -- otherwise only a warning is
+# printed.  This prevents someone from setting their shell to /bin/false.
+ONLY_LISTED_SHELLS=yes
+#ONLY_LISTED_SHELLS=no
+
+
+# If HAVE_SYSVINIT is set to "yes", then simpleinit and shutdown will not
+# be built or installed from the login-utils subdirectory.  (The shutdown
+# and halt that come with the SysVinit package should be used with the init
+# found in that package.)
+HAVE_SYSVINIT=yes
+
+# If HAVE_SYSVINIT_UTILS is set to "yes", then last, mesg, and wall will
+# not be built or installed from the login-utils subdirectory.  (The
+# shutdown and init from the SysVinit package do not depend on the last,
+# mesg, and wall from that package.)
+HAVE_SYSVINIT_UTILS=yes
+
+# If HAVE_GETTY is set to "yes", then agetty will not be built or
+# installed from the login-utils subdirectory.  Note that agetty can
+# co-exist with other gettys, so this option should never be used.
+HAVE_GETTY=no
+
+# If USE_TTY_GROUP is set to "yes", then wall and write will be installed
+# setgid to the "tty" group, and mesg will only set the group write bit.
+# Note that this is only useful if login/xterm/etc. change the group of the
+# user's tty to "tty" [The login in util-linux does this correctly, and
+# xterm will do it correctly if X is compiled with USE_TTY_GROUP set
+# properly.]
+USE_TTY_GROUP=yes
+
+# If HAVE_RESET is set to "yes", then reset won't be installed.  The version
+# of reset that comes with the ncurses package is less aggressive.
+HAVE_RESET=yes
+
+# If HAVE_SLN is set to "yes", then sln won't be installed
+# (but the man page sln.8 will be installed anyway).
+# sln also comes with libc and glibc.
+HAVE_SLN=no
+
+# If HAVE_TSORT is set to "yes", then tsort won't be installed.
+# GNU textutils 2.0 includes tsort.
+HAVE_TSORT=no
+
+# If HAVE_FDUTILS is set to "yes", then setfdprm won't be installed.
+HAVE_FDUTILS=no
+
+# Get CC from environment if defined
+ifeq "$(CC)" ""
+  CC=		gcc
+endif
+
+# Different optimizations for different cpus.
+# Change the -m486 part if you have a 386.
+ifeq "$(CPU)" "intel"
+  OPT=		-pipe -O2 -m486 -fomit-frame-pointer
+else 
+  ifeq "$(CPU)" "arm"
+    OPT=	-pipe -O2 -fsigned-char -fomit-frame-pointer
+  else
+    OPT=	-O2 -fomit-frame-pointer
+  endif
+endif
+
+LDFLAGS   = -s
+
+WARNFLAGS = -Wall -Wmissing-prototypes -Wstrict-prototypes
+
+LIB=../lib
+
+ERR_O=$(LIB)/err.o
+
+CFLAGS    = $(OPT) -I. -I$(LIB) $(WARNFLAGS) \
+			$(CURSESFLAGS) $(SLANGFLAGS) \
+			$(EXTRACFLAGS) \
+			-DSBINDIR=\"$(SBINDIR)\" \
+			-DUSRSBINDIR=\"$(USRSBINDIR)\" \
+			-DLOGDIR=\"$(LOGDIR)\" \
+			-DVARPATH=\"$(VARPATH)\" \
+			-DLOCALEDIR=\"$(LOCALEDIR)\"
+
+# Set HAVE_SLANG to yes if you have slang (and prefer to use that for cfdisk)
+# (If neither HAVE_NCURSES nor HAVE_SLANG is defined, cfdisk is not made.)
+# HAVE_SLANG=yes
+
+# There is a subdirectory /usr/include/slang containing slcurses.h
+# SLANGFLAGS=-I/usr/include/slang
+# No such subdirectory - slcurses.h lives in /usr/include
+#   (no extra definition required).
+LIBSLANG=-lslang
+
+
+DEVDIR=		$(DESTDIR)/dev
+ETCDIR=		$(DESTDIR)/etc
+SBINDIR=	$(DESTDIR)/sbin
+USRSBINDIR=	$(DESTDIR)/usr/sbin
+USRLIBDIR=      $(DESTDIR)/usr/lib
+USRBINDIR=      $(DESTDIR)/usr/bin
+USRGAMESDIR=    $(DESTDIR)/usr/games
+BINDIR=         $(DESTDIR)/bin
+VARPATH=	$(DESTDIR)/var
+LOGDIR=		$(DESTDIR)/var/log
+MANDIR=		$(DESTDIR)/usr/man
+MAN1DIR=	$(MANDIR)/man1
+MAN3DIR=	$(MANDIR)/man3
+MAN5DIR=	$(MANDIR)/man5
+MAN6DIR=	$(MANDIR)/man6
+MAN8DIR=	$(MANDIR)/man8
+INFODIR=	$(DESTDIR)/usr/info
+
+# Directory for shutdown, halt, reboot, etc.
+SHUTDOWNDIR=	$(SBINDIR)
+
+# Directory for fsck
+FSCKDIR=	$(SBINDIR)
+
+# Directory for passwd
+PASSWDDIR=	$(USRBINDIR)
+
+# Directory for help file for more.  Some may want /usr/share/misc .
+MOREHELPDIR=	$(USRLIBDIR)
+
+# Modes
+DIRMODE=	755
+BINMODE=	755
+MANMODE=	644
+DATMODE=	644
+INFOMODE=	644
+SUIDMODE=      4755
+
+CHMOD=		chmod
+INSTALL=	install
+INSTALLDIR=	$(INSTALL) -d -m $(DIRMODE)
+INSTALLBIN=	$(INSTALL) -m $(BINMODE)
+INSTALLMAN=	$(INSTALL) -m $(MANMODE)
+INSTALLDAT=	$(INSTALL) -m $(DATMODE)
+INSTALLSUID=    $(INSTALL) -m $(SUIDMODE) -o root
+
+%.o: %.c
+	$(CC) -c $(CFLAGS) $< -o $@
+
+%: %.cc
+	$(CXX) $(CFLAGS) $< -o $@
+

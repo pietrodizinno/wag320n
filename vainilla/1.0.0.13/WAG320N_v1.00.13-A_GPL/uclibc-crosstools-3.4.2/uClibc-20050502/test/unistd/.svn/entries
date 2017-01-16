@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9862"
+   name=""
+   committed-date="2005-02-12T20:59:08.359318Z"
+   url="svn://uclibc.org/trunk/uClibc/test/unistd"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:03.000000Z"
+   revision="10221"/>
+<entry
+   committed-rev="4171"
+   name="fork.c"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2002-02-04T11:10:10.000000Z"
+   checksum="fe95938ee31381acb9bf1268e24a5bd5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="5170"
+   name="getopt_long.c"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2002-08-07T12:47:11.000000Z"
+   checksum="317611c930529463cd18aeaa8a907763"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="5170"
+   name="getopt.c"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2002-08-07T12:47:11.000000Z"
+   checksum="ca5dc880f7b28d69224c930c3600b677"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="5938"
+   name="preadwrite.c"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2002-11-15T11:03:30.000000Z"
+   checksum="5edec5e4be95e22d02d2ace166029e58"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="7358"
+   name="vfork.c"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2003-09-01T19:57:31.000000Z"
+   checksum="e9cd6f48f5aa86a051a13532e8dad3f7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="8229"
+   name="Makefile"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2004-01-02T23:07:57.000000Z"
+   checksum="74af95fdf618f958c774ee65e2bd559e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   committed-rev="4928"
+   name="getcwd.c"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2002-06-18T20:46:40.000000Z"
+   checksum="c9bb11a349864e7a30bbaa3b596f2b83"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+</wc-entries>

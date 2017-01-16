@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10107"
+   name=""
+   committed-date="2005-04-16T03:02:25.346598Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/misc/syslog"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="10107"
+   name="syslog.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2005-04-16T03:02:25.346598Z"
+   checksum="cbd445f93a18ffa54a294252f07849eb"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="9e1203346aa0a87345da72d6e5b724e7"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+</wc-entries>

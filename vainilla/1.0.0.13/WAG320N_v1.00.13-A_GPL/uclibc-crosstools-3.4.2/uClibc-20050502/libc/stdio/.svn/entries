@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10055"
+   name=""
+   committed-date="2005-03-21T14:48:49.022517Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/stdio"
+   last-author="mjn3"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="8457"
+   name="fwide.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="0515388eebca2241bc9fe94532c1ef7f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="freopen.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="a21ee7e1edc33802e3152385fd138ced"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fopencookie.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="194d64f2011c5e8de709da7b5620b556"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="4510"
+   name="tempnam.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2002-04-01T11:57:37.000000Z"
+   checksum="06d380ae10811dbb22c130742afa5d52"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="printf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="c3afa3657d0544c1bedeadeb65dbbe41"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="getwchar.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="6a8add749968d32bb4f7eefcd737bff2"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fgetpos.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="d73c5ae7ba11db003e98983daab807d9"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="__flbf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="056092e59f4952bc62c9b692dfbf3d69"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="_store_inttype.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="cf271250a84d705c1741426e12d450a8"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fgets.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="8c313226255dc48c231f8e8603aeff76"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="perror.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="31d731f6de63060dea765e8d45c10276"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="__fwritable.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="3a60745db08bf391250b6ca0b22db58f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="__freading.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="e8cf076baf69576b5b27324faac89d6a"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="_uintmaxtostr.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="d8ec66969afc1a19688f7c92fff5db1a"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fsetpos.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="95009dac52fc69fa7f5998f27dd230f4"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="setbuffer.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="6153062d47dffdf1af19bba11875adf9"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="_wfwrite.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="d95c9d841c2bf9a5e131b5878788b311"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="__fwriting.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="dc1ba5f2786c6d05545d1bf1afe8ecb2"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="ctermid.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="a3c40aeda3753eae38f22f0ea43d325f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="getline.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="ae422ece4c992e3a429868a16a320df4"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="setbuf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="f0678dd5bf890f2df047790146f2f645"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="_WRITE.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="ca81530442dc8407a26db7d208b18088"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="c094f6acc3b9036aea2435a76be0edd2"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="vdprintf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="03d22cc4ee97cbbcbed2e3d6222ff4ab"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="9873"
+   name="vfprintf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2005-02-14T05:58:08.142208Z"
+   checksum="7c7e273c133d26677c1d28f64c193149"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fwprintf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="96d89ae4b8d3f39a250edf0bf2ddac30"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="9736"
+   name="_trans2w.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2005-01-19T10:31:51.000000Z"
+   checksum="318099c1a62cf653ce9991984706840e"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="clearerr.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="e6651c11638a237824f70b330003d3cd"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="5747"
+   name="tmpfile.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2002-10-31T18:20:21.000000Z"
+   checksum="1f8c8bac8faa2008f6ddccfcb66d9f27"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="funlockfile.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="f7d56c426c986e1c2ee4da8f8287118f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="gets.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="cfcc533ffdff967490a56fa4149870f9"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="10055"
+   name="_fopen.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2005-03-21T14:48:49.022517Z"
+   checksum="dbe2294c408c4269667451d579caa43b"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="getw.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="5b3504aa11ec955f92ee44bfddb7dcca"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fopen.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="5e8e7f67d3ba677a0f2f6635ef1367e6"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="_rfill.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="bc851f19af1112bb115add22e82f01a6"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fputwc.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="4550b9c5f947dd8b9813731a02317bc2"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="_READ.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="dcd4a90be5f5bf05f2d451124e4828ec"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fclose.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="6771ff91fcbd4c29427aba09af53fce8"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="vsprintf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="407f4cd965765639b204677166d45066"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="vwprintf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="779c26cfe0864c756baf25c6d5a8067e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fputc.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="10907d90f16b4b6f395034026ebe976a"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="popen.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="29c491e1eacccfbad1236097ae361f00"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="__fpurge.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="6773cb73c3c24f526f0a6d2d5c8c9f7d"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fflush.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="886fcaa555eaaf68b4c17efe441f2a12"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fputws.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="c73840a72db3b5bbc8475ad40c1497f2"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="vsnprintf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="8ed80aa04075104a90c8cc599412070d"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="_load_inttype.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="777fb58f8481a2037af5ffac40939558"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="getdelim.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="b63a445ec5d66eb04a4d9b0ac66bf569"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="scanf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="63a90d73187e4d9f413c985e5074f848"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="4510"
+   name="tmpnam.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2002-04-01T11:57:37.000000Z"
+   checksum="5bcba8e4f51c385cc3fb23ffbe5e304d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="putwchar.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="dd5bec8c8caa31cc3ec3670c13d3b9f7"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="ferror.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="a8aa63c2a9a12280329f8e993cb343b2"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="_fwrite.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="f0d2757f30931f78893a5363135eff15"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="setlinebuf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="19d0028469c06ce24862519f3c379598"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fputs.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="abae4d4579aeb97a4d0ebb198c70eaf4"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="_cs_funcs.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="f7924c03bc3af7bf410f1e45c3588564"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="vswprintf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="0a81e3f301a722b732a4fa0f679ef375"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="__freadable.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="a686d16686c08816161a53690f6f410e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="snprintf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="b9a91878089f5da0bb26ad797195e55a"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fmemopen.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="33f1e9aa31980be17218e2a50104a77a"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="10035"
+   name="_fpmaxtostr.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2005-03-17T06:41:59.640440Z"
+   checksum="18c9bf516890234073119d5d34fdaff1"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fdopen.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="420a442b8a0661846b6fca33025fd644"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="__fbufsize.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="637a3c7f01c866b6a72d3894208edb20"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fseeko.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="0345c479936fa317e2989c5c797d178c"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fileno.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="c3e53b510c6f48e7ac2ea7733f467d1e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="swprintf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="4db5ca654bc3db9cba32e7a7e09b7f27"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="ungetwc.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="5bf07b7dd41315ba0523d7b9cb7e6eb4"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="1176"
+   name=".indent.pro"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2000-10-09T20:06:30.000000Z"
+   checksum="6bea8d1b7f6cfeb6b6c2a95596c69c6d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="getchar.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="44aa6c82864f64e32a5a81ef586b16ac"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="setvbuf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="55dd4810eaee19a8b7446a729e89d92d"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fgetwc.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="ca1a76f3b9cebab094960a75d72b5871"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="feof.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="5945a5a22166840c22479db1f30f9e62"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="_stdio.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="d9ef42df4621e6c2bc77ff1409a681a2"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="ungetc.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="07a2a8dc56a95934bc638833839c788f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8813"
+   name="_stdio.h"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-05-07T10:19:14.000000Z"
+   checksum="8d7fb03485f4c6502f45f35854bb2556"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="__fpending.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="17cb1ca1030b413a9ca47827f38f7f02"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="9736"
+   name="_trans2r.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2005-01-19T10:31:51.000000Z"
+   checksum="41aa744554414359796aef929c7e6ad3"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="puts.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="f19cc91544f5f143fc41453d64c96211"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="old_vfprintf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="169661242e5ed8bdad550a147ac1a570"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="flockfile.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="10be6cc8dda4d7bb82fe3cd83e8f6b89"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fgetws.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="250220df18bb80ff3d521f8ab9340c4c"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="putw.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="105c33ad7edab87df34c39a90d26b6cc"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fwrite.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="5087dbc819d8d93e3104209cd16613d1"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fcloseall.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="90e793ad212be66ab5457c50de39ddf1"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="_flushlbf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="77ee77bad943b6787df4dddb18eaadfb"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="dprintf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="fb0cab8aeba30282ba0c9dba65f81682"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="__fsetlocking.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="edbfe72c180ef7daf8c57bfce799f403"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="putchar.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="2238631b5a353df9491c4512c3d3451f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fprintf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="78ed0e4085eb208d86d8670315e6372c"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="_adjust_pos.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="3fb6fb9c928ee326ae767438f96481fe"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="open_memstream.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="c39d5e12f9d82349d8e79a95d95ec532"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="9873"
+   name="vasprintf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2005-02-14T05:58:08.142208Z"
+   checksum="efbf124274062b0c26ad0227bec067fa"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="4510"
+   name="tmpnam_r.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2002-04-01T11:57:37.000000Z"
+   checksum="62d998ac79eebf542bc9cf9abb08e721"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="_wcommit.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="65e565296a13936e8c6ea4ada00afd41"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fread.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="5461e7c1c5845f0e5fac6e8091316815"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="ftello.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="53e0d6fe9514f8f293c1d04b9a5b56ab"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="sprintf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="5799fc174e5f9db7bdec532d32c7656c"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="asprintf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="8398b19ec94f57c48ba02aedc1cddaa4"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="fgetc.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="004d02544fb8646c9db41f98f91c955b"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="rewind.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="8de49f7601888d83ec19717d5cd05cb7"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="vprintf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="e175efc5b5bdabf6b4447edd072db99a"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="wprintf.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="e5bda02b7114ed45b0ec7b0bd90f446e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="ftrylockfile.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="7d3d909f722e29b9926f8887a5b1b485"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="remove.c"
+   text-time="2005-05-02T06:10:19.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="7e07adbaba82352eb5b9be98c567cf7a"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+</wc-entries>

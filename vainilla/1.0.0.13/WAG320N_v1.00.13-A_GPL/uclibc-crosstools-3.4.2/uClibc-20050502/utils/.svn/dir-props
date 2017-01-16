@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 39
+ldd
+readelf
+ldconfig
+elf.h
+iconv
+*.host
+END

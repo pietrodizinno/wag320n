@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9091"
+   name=""
+   committed-date="2004-08-13T23:39:45.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/i386/sys"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="4309"
+   name="ucontext.h"
+   text-time="2005-05-02T06:10:26.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="a3ed474aa669114f708dd0099711bd1c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:26.000000Z"/>
+<entry
+   committed-rev="4309"
+   name="procfs.h"
+   text-time="2005-05-02T06:10:26.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="3fefbbb6d9b421eda28bee94f837212f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:26.000000Z"/>
+<entry
+   committed-rev="4309"
+   name="reg.h"
+   text-time="2005-05-02T06:10:26.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="a4fbb246d61e73258446392f58dcf725"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:26.000000Z"/>
+<entry
+   committed-rev="9091"
+   name="user.h"
+   text-time="2005-05-02T06:10:26.000000Z"
+   committed-date="2004-08-13T23:39:45.000000Z"
+   checksum="f936774a9a29295d270bd9243a3a45f2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:26.000000Z"/>
+<entry
+   committed-rev="4309"
+   name="vm86.h"
+   text-time="2005-05-02T06:10:26.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="6c73ea7160810f1f2836662872868ab5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:26.000000Z"/>
+<entry
+   committed-rev="4309"
+   name="perm.h"
+   text-time="2005-05-02T06:10:26.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="f835ce66e63f6af9517db1ace7b635b4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:26.000000Z"/>
+<entry
+   committed-rev="4309"
+   name="debugreg.h"
+   text-time="2005-05-02T06:10:26.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="4e2840cc7b4caff67962b9af77af5469"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:26.000000Z"/>
+<entry
+   committed-rev="4309"
+   name="elf.h"
+   text-time="2005-05-02T06:10:26.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="6c4b215449b50b0b6bdea593bc3d992a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:26.000000Z"/>
+<entry
+   committed-rev="4309"
+   name="io.h"
+   text-time="2005-05-02T06:10:26.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="ebafd9acf327555ffdc8bb1725ae011a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:26.000000Z"/>
+</wc-entries>

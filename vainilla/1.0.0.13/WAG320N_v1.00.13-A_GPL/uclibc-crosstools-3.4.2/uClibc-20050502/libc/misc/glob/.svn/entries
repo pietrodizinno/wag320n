@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/misc/glob"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="7642"
+   name="glob.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2003-10-12T04:41:11.000000Z"
+   checksum="8b2958d9a220192ce48899cb57991659"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="4505"
+   name="glob-hooks.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2002-03-31T04:42:13.000000Z"
+   checksum="9fb5345fb4ea0d7613ba8ed0ae56cc9b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="2ffdc557a70e08064e47c7151903c6fd"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="1180"
+   name=".indent.pro"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2000-10-11T22:08:28.000000Z"
+   checksum="6bea8d1b7f6cfeb6b6c2a95596c69c6d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="7642"
+   name="glob64.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2003-10-12T04:41:11.000000Z"
+   checksum="1dc24d72e353c75009bc657f64e5be63"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+</wc-entries>

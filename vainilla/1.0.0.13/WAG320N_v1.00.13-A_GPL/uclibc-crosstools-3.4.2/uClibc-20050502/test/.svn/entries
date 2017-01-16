@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9862"
+   name=""
+   committed-date="2005-02-12T20:59:08.359318Z"
+   url="svn://uclibc.org/trunk/uClibc/test"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:03.000000Z"
+   revision="10221"/>
+<entry
+   committed-rev="3906"
+   name="testsuite.h"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2001-12-19T15:53:08.000000Z"
+   checksum="d821bc9116118f2e2b270cf0bf508505"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:01.000000Z"/>
+<entry
+   name="stdlib"
+   kind="dir"/>
+<entry
+   name="dlopen"
+   kind="dir"/>
+<entry
+   name="termios"
+   kind="dir"/>
+<entry
+   name="ctype"
+   kind="dir"/>
+<entry
+   name="pthread"
+   kind="dir"/>
+<entry
+   name="math"
+   kind="dir"/>
+<entry
+   name="mmap"
+   kind="dir"/>
+<entry
+   name="misc"
+   kind="dir"/>
+<entry
+   name="silly"
+   kind="dir"/>
+<entry
+   name="args"
+   kind="dir"/>
+<entry
+   name="assert"
+   kind="dir"/>
+<entry
+   name="crypt"
+   kind="dir"/>
+<entry
+   committed-rev="9158"
+   name="Rules.mak"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2004-08-26T17:03:09.000000Z"
+   checksum="436f9be7d4af53c4ef03a430ecaa338a"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   name="pwd_grp"
+   kind="dir"/>
+<entry
+   name="setjmp"
+   kind="dir"/>
+<entry
+   committed-rev="6554"
+   name="Config"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2003-02-10T20:28:12.000000Z"
+   checksum="4f1e099c4b5b1971c44b23bce825760d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+<entry
+   name="string"
+   kind="dir"/>
+<entry
+   name="unistd"
+   kind="dir"/>
+<entry
+   name="malloc"
+   kind="dir"/>
+<entry
+   name="stat"
+   kind="dir"/>
+<entry
+   name="signal"
+   kind="dir"/>
+<entry
+   committed-rev="9158"
+   name="Makefile"
+   text-time="2005-05-02T06:10:03.000000Z"
+   committed-date="2004-08-26T17:03:09.000000Z"
+   checksum="6f15a18d502bf5dbef57cc3966dfd759"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:03.000000Z"/>
+</wc-entries>

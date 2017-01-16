@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10221"
+   name=""
+   committed-date="2005-05-01T07:13:09.412284Z"
+   url="svn://uclibc.org/trunk/uClibc/ldso/ldso/mips"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="8827"
+   name="dl-syscalls.h"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2004-05-12T22:54:59.000000Z"
+   checksum="f84145ded2d8e3a2eb6e945afe3865cc"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+<entry
+   committed-rev="10221"
+   name="resolve.S"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-05-01T07:13:09.412284Z"
+   checksum="bea6c39018ad0e47d55a397c86d27315"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+<entry
+   committed-rev="10060"
+   name="dl-startup.h"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-03-29T13:47:21.689829Z"
+   checksum="c2a1b901b4d6ce1306765156449ad005"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+<entry
+   committed-rev="10221"
+   name="elfinterp.c"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-05-01T07:13:09.412284Z"
+   checksum="a6c41395fbf7d38f183c88f9f2f8034e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+<entry
+   committed-rev="10221"
+   name="dl-sysdep.h"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-05-01T07:13:09.412284Z"
+   checksum="81d57ce83fda51708926361322830816"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:14.000000Z"/>
+<entry
+   committed-rev="8445"
+   name="README"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2004-02-10T09:26:57.000000Z"
+   checksum="65c9a4b9a081b903b39852cfdd5169b6"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+</wc-entries>

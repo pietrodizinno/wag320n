@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6235"
+   name=""
+   committed-date="2002-12-20T19:26:35.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/extra/locale/collation"
+   last-author="mjn3"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10221"/>
+<entry
+   committed-rev="6235"
+   name="fa_IR"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="6586e76ea08fb24231ca989cdf1ce14d"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="hi_IN"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="br_FR"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="25eee3292c9b26b5ddd39201c2e83947"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ar_JO"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ta_IN"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="hy_AM"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="f0942089c2ea2344329cc23196a31381"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="fr_FR"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="ebd99b46160cc48ee27ced5ea3927bc9"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="sr_YU"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="9f7089cd2d546d21715f65369ed402fe"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_GT"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a1d6afcc81c9ac3e7b72e4dee172e77e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ko_KR"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="660deaac9c3fc59b29d75b077b03cde3"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="sv_FI"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="b807016e62266e28f6f5aadff5a519a3"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="pl_PL"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="f23d21dad44933080f3ecbd924957084"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="th_TH"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="8099861e644d23cb0455187b65c2bf6e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="tl_PH"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="998e3f1f32d82c8d5fd3d0928818bb6e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="en_NZ"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="en_GB"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="ebd99b46160cc48ee27ced5ea3927bc9"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ru_UA"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="af6a617c29068a78f5e3cdc4c34128f5"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="et_EE"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="e8ac4eae20eba89bde81243a2a33c779"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ja_JP"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="9cfe3bb1377d6a37765a452b57a145be"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="gv_GB"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ar_SA"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="5ad9e41030b93c1554c531572f717d58"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="pt_PT"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_PA"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a1d6afcc81c9ac3e7b72e4dee172e77e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="yi_US"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="07a6c8507e94ad8965333262e3e0da44"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ar_SD"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="gl_ES"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a1d6afcc81c9ac3e7b72e4dee172e77e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="zh_TW"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="comm"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="958d233d89b962134c22872d9645ddb6"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_PE"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a1d6afcc81c9ac3e7b72e4dee172e77e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_HN"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a1d6afcc81c9ac3e7b72e4dee172e77e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ar_KW"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ka_GE"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_PR"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a1d6afcc81c9ac3e7b72e4dee172e77e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="mi_NZ"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="f9afef2456af3c75daaca2a450f856f9"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ar_SY"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="nl_BE"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_PY"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a1d6afcc81c9ac3e7b72e4dee172e77e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ar_LB"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="mt_MT"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="2d5ce6a96c24014270ed313b84330ee0"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="cy_GB"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="bcc2e6bfd2f8f757b3b7b526bc10195c"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="en_HK"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="eo_EO"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a7977fb5cdea16108b2216f7034780d9"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="en_PH"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_AR"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a1d6afcc81c9ac3e7b72e4dee172e77e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ar_DZ"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="bg_BG"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="5007f4543586f7419fd68dc4a16b08ef"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="hr_HR"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="2536f341638c79653c638733a3564cd0"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="gd_GB"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="868aa10dc352a5a1de2d1cc3934cd0de"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="da_DK"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="2ba44821a1d9ab3ff68c0602f946e051"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ar_TN"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="pt_BR"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="is_IS"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="4380c36c881fcfbfb54d378da567fa4f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ar_LY"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ar_EG"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ar_MA"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="en_IE"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="lv_LV"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="cc963b493fa66c62b5a760fd90e647c0"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="en_AU"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_BO"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a1d6afcc81c9ac3e7b72e4dee172e77e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="kl_GL"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="ce966e687ceb8eca8f15aeddd6c2985b"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="el_GR"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="en_IN"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="tt_RU"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7ee4502e27614d82c9142a2d3a474ad7"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ga_IE"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="hu_HU"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="5b99470b19e139dbbfabe936f51a253f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="de_AT"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="ebd99b46160cc48ee27ced5ea3927bc9"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="fr_BE"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="af_ZA"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="868aa10dc352a5a1de2d1cc3934cd0de"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="he_IL"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ro_RO"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="6b008155bf45ee49dad3e51aa220a031"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_CL"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a1d6afcc81c9ac3e7b72e4dee172e77e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="am_ET"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="315be44418f2874959cbae85e692976e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_CO"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a1d6afcc81c9ac3e7b72e4dee172e77e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="kw_GB"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="en_BW"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="cf1580a4fae2b038334a32e75c50503a"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_CR"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a1d6afcc81c9ac3e7b72e4dee172e77e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="en_ZA"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="te_IN"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="de_BE"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="sq_AL"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="eu_ES"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="cs_CZ"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="4d00d23e81b057dd9e0b572fededcddf"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ti_ER"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="8f8dc1e6df91d81bb911a0d4b439183d"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="zh_HK"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ti_ET"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="8f8dc1e6df91d81bb911a0d4b439183d"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="en_CA"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="125c65765eb02c47c306eade00f76769"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="nn_NO"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="id_ID"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="fr_CA"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="9b644b146f1c5d169baab53994750fca"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="sk_SK"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="4ea5676d1722f89c09b23d769f0697e3"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="uz_UZ"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="040a4040ac1edc93084f55feb4274e9b"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="fi_FI"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="e2c0c7da493a4f0b3fbdbae20cd51981"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="wa_BE"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0d08e72f9b2e8197cd3a874e318ec828"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="lt_LT"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="ea159537bf855b4dfd3e4dc28805e882"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_SV"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a1d6afcc81c9ac3e7b72e4dee172e77e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="be_BY"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="af6a617c29068a78f5e3cdc4c34128f5"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="fr_CH"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="en_ZW"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="cf1580a4fae2b038334a32e75c50503a"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_DO"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a1d6afcc81c9ac3e7b72e4dee172e77e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="en_SG"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ar_OM"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="iso14651_t1"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="bd82fe8be17715c7798493d18c1acf19"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="de_CH"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="se_NO"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a6b00cbbf0bb7885c5962a49a64ba7c0"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="tg_TJ"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="dd3d12b2a656b755fe642d86605bbccb"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="it_IT"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_EC"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="f22a900675079293a3822e4e9ff64376"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="sv_SE"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="48f584e8d34d2cf8d1b1c3a5c77d9a38"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="en_DK"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="vi_VN"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ru_RU"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="af6a617c29068a78f5e3cdc4c34128f5"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_ES"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="f970adf5fc87890e2d3c43e43c8b2b60"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="mk_MK"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:08.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="de_DE"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="nl_NL"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="iw_IL"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="uk_UA"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="af6a617c29068a78f5e3cdc4c34128f5"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="bs_BA"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="38b42b8971804bcf38f34f632efbde88"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ar_AE"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="fr_LU"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_MX"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a1d6afcc81c9ac3e7b72e4dee172e77e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_US"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="5b9ad27d3da13553bfc1477f87f2bf25"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ur_PK"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="868aa10dc352a5a1de2d1cc3934cd0de"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ar_QA"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_UY"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a1d6afcc81c9ac3e7b72e4dee172e77e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ms_MY"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="bn_IN"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="1922dc190bb095d75047a83a1139400f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="it_CH"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="oc_FR"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="868aa10dc352a5a1de2d1cc3934cd0de"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="fo_FO"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="ce966e687ceb8eca8f15aeddd6c2985b"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ar_IN"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="04266cf0a4b67bfb3e10b8c848511e49"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="de_LU"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="tr_TR"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="94d02f4df805699e34baebddf413bbe0"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ar_IQ"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_NI"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a1d6afcc81c9ac3e7b72e4dee172e77e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ar_YE"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="es_VE"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a1d6afcc81c9ac3e7b72e4dee172e77e"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="zh_CN"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7cf1fdc2ed3bd865ce25de4f6142038f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="mr_IN"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="bn_BD"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="7861ba3607b95d3a60319d93c1b570eb"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="az_AZ"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="a3940b1d459f00b32b61dec7c1cf3723"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="no_NO"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="5f3fcacc821e5b198df946bbaebf25bb"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="sl_SI"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="36411e3ed9b9ae11e3c9597a8ccca04f"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="en_US"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ca_ES"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="f970adf5fc87890e2d3c43e43c8b2b60"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="zh_SG"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+<entry
+   committed-rev="6235"
+   name="ar_BH"
+   text-time="2005-05-02T06:10:09.000000Z"
+   committed-date="2002-12-20T19:26:35.000000Z"
+   checksum="0f1c0df9cde69a8c993978871d9f0312"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:09.000000Z"/>
+</wc-entries>

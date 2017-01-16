@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/unistd"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:20.000000Z"
+   revision="10283"/>
+<entry
+   committed-rev="5747"
+   name="pathconf.c"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2002-10-31T18:20:21.000000Z"
+   checksum="844c875c23666f269ae555c6de6eb61d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="7150"
+   name="getopt.c"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2003-08-01T20:08:59.000000Z"
+   checksum="95b2c9fa6565b56b38d342ac5bda7aa6"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="8297"
+   name="daemon.c"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2004-01-16T13:43:30.000000Z"
+   checksum="095bd2169f80f2a95cb913b3ce33b1bc"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="4563"
+   name="getpass.c"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2002-04-09T17:00:04.000000Z"
+   checksum="7e073da091a80c4d553d9275ac50be78"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="9595"
+   name="usershell.c"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2004-12-22T21:57:24.000000Z"
+   checksum="d0c1af5cace4ab8e29c1acff5f363e4f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="8201"
+   name="sleep.c"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2003-12-30T10:45:45.000000Z"
+   checksum="43e3b43a0eb418be3ecb6085e9a36e6e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="8158"
+   name="getlogin.c"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2003-12-22T11:22:59.000000Z"
+   checksum="ddd808af1a7ca4739fc6a8733cabeab4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="5747"
+   name="fpathconf.c"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2002-10-31T18:20:21.000000Z"
+   checksum="15133c67b68b34ccf2c48878b8519795"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="5574"
+   name="getsubopt.c"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2002-09-19T17:31:15.000000Z"
+   checksum="9ceafb3e165c93412be9d5750e17d0f6"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="1261"
+   name=".indent.pro"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2000-10-27T21:40:35.000000Z"
+   checksum="6bea8d1b7f6cfeb6b6c2a95596c69c6d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="2599"
+   name="confstr.c"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2001-05-10T17:54:23.000000Z"
+   checksum="9be4bc7e740150a8261371cbb3fb57c7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="9311"
+   name="ualarm.c"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2004-10-07T02:18:56.000000Z"
+   checksum="6b9b72c3bbce2d61deaa8111b1805027"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="7428"
+   name="getopt-susv3.c"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2003-09-08T20:33:10.000000Z"
+   checksum="c65fdab909de4cfe0cac9dad09628865"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="8951"
+   name="sysconf.c"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2004-07-15T09:09:24.000000Z"
+   checksum="4339a464e0463eb88d51da2e648dfee2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="8495"
+   name="exec.c"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2004-02-17T10:40:47.000000Z"
+   checksum="ec38bee881066f0b7901069a3c3eb00b"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="5184"
+   name="swab.c"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2002-08-08T05:27:37.000000Z"
+   checksum="d7286be7bff4204ed68abe8738649a4c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="cb358333132465a2ac873ed0c6159a63"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="8201"
+   name="usleep.c"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2003-12-30T10:45:45.000000Z"
+   checksum="eb0769ae57efb47b5ff33bbea2ed1146"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+</wc-entries>

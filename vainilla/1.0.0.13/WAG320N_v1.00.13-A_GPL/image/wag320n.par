@@ -1,0 +1,4 @@
+:cfe6358.bin              		&00000000
+:bcm963xx_fs_kernel 			&0000FFF0
+%wag320n.pid 					&0000FFEF &007EFFE0
+$SIZE                   		&2000

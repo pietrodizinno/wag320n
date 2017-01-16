@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10282"
+   name=""
+   committed-date="2005-05-10T03:02:11.373431Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/misc"
+   last-author="mjn3"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   name="file"
+   kind="dir"/>
+<entry
+   name="fnmatch"
+   kind="dir"/>
+<entry
+   name="syslog"
+   kind="dir"/>
+<entry
+   name="glob"
+   kind="dir"/>
+<entry
+   name="ctype"
+   kind="dir"/>
+<entry
+   name="dirent"
+   kind="dir"/>
+<entry
+   name="utmp"
+   kind="dir"/>
+<entry
+   name="pthread"
+   kind="dir"/>
+<entry
+   name="ttyent"
+   kind="dir"/>
+<entry
+   name="wordexp"
+   kind="dir"/>
+<entry
+   name="gnu"
+   kind="dir"/>
+<entry
+   name="error"
+   kind="dir"/>
+<entry
+   name="time"
+   kind="dir"/>
+<entry
+   name="locale"
+   kind="dir"/>
+<entry
+   name="internals"
+   kind="dir"/>
+<entry
+   name="ftw"
+   kind="dir"/>
+<entry
+   name="sysvipc"
+   kind="dir"/>
+<entry
+   name="assert"
+   kind="dir"/>
+<entry
+   name="statfs"
+   kind="dir"/>
+<entry
+   name="wchar"
+   kind="dir"/>
+<entry
+   name="mntent"
+   kind="dir"/>
+<entry
+   name="search"
+   kind="dir"/>
+<entry
+   name="intl"
+   kind="dir"/>
+<entry
+   name="regex"
+   kind="dir"/>
+<entry
+   name="wctype"
+   kind="dir"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="59cd8443a992e4825862733e4f92b3dc"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+</wc-entries>

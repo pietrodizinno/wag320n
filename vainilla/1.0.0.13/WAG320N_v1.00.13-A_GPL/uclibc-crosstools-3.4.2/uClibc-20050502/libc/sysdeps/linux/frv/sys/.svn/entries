@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8840"
+   name=""
+   committed-date="2004-05-14T10:59:09.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/frv/sys"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="8840"
+   name="ucontext.h"
+   text-time="2005-05-02T06:10:26.000000Z"
+   committed-date="2004-05-14T10:59:09.000000Z"
+   checksum="f4a7b9cbef50c6b025ddf60a1f5d4658"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:26.000000Z"/>
+<entry
+   committed-rev="8505"
+   name="procfs.h"
+   text-time="2005-05-02T06:10:26.000000Z"
+   committed-date="2004-02-18T08:04:51.000000Z"
+   checksum="f7ef1d8fe5d60f4fdc3db9de90ff7a49"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:26.000000Z"/>
+<entry
+   committed-rev="8505"
+   name="ptrace.h"
+   text-time="2005-05-02T06:10:26.000000Z"
+   committed-date="2004-02-18T08:04:51.000000Z"
+   checksum="375bc1f364629f39a483fe7db2f87ee4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:26.000000Z"/>
+</wc-entries>

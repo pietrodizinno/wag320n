@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10176"
+   name=""
+   committed-date="2005-04-24T19:29:39.227826Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/misc/sysvipc"
+   last-author="jocke"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="10176"
+   name="ipc.h"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2005-04-24T19:29:39.227826Z"
+   checksum="bfdedde796b5590f800cf1d2af51f0e8"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="8328"
+   name="ftok.c"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2004-01-21T23:27:48.000000Z"
+   checksum="a0a18c7f68d258a5a2aae3c8402e55f7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="10176"
+   name="sem.c"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2005-04-24T19:29:39.227826Z"
+   checksum="f889d4564de02fd74e0222060a5171f6"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="10176"
+   name="msgq.c"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2005-04-24T19:29:39.227826Z"
+   checksum="d9883bf29250cb516914ee6135cb968f"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="10176"
+   name="shm.c"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2005-04-24T19:29:39.227826Z"
+   checksum="20e9111cd2358d1f3eeb2fdb309c8452"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="39ee511b3f824f17fded5f6a8108e107"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="2157"
+   name=".indent.pro"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2001-03-19T21:51:29.000000Z"
+   checksum="6bea8d1b7f6cfeb6b6c2a95596c69c6d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+</wc-entries>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/misc/wchar"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="8457"
+   name="wchar.c"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="7ac08b8d6cbda72dac41dd93b1182b2c"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="8457"
+   name="wstdio.c"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2004-02-11T23:48:50.000000Z"
+   checksum="02b4d3821424af944b08dc0413c66b49"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:33.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="896f350fbd10f10a1a4c59b05d8fa462"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:33.000000Z"/>
+</wc-entries>

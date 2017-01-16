@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/string/arm"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="7971"
+   name="memcmp.S"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2003-11-20T20:05:53.000000Z"
+   checksum="f6631391eaaa9a52b4d40caabf1d1696"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8638"
+   name="bzero.S"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2004-03-18T11:38:02.000000Z"
+   checksum="56d4f9ba027e3f03c469f357256ac98d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="7967"
+   name="memmove.S"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2003-11-20T15:23:03.000000Z"
+   checksum="418d2325936894da564a0916da7f6136"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="7967"
+   name="strncmp.S"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2003-11-20T15:23:03.000000Z"
+   checksum="d2b38f9afc1f226e013fbb81cc6ec473"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="8892"
+   name="strlen.S"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2004-06-12T06:12:21.000000Z"
+   checksum="0737fb70b87ab94200ff0b1c464796e3"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="7967"
+   name="strcmp.S"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2003-11-20T15:23:03.000000Z"
+   checksum="b8ad335dd6b33827d4916bbd07c0d46e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:19.000000Z"/>
+<entry
+   committed-rev="7968"
+   name="_memcpy.S"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2003-11-20T15:28:24.000000Z"
+   checksum="fa564239aa07b9275179596e61ceaaa8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="7967"
+   name="memcpy.S"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2003-11-20T15:23:03.000000Z"
+   checksum="fca05ee07f8e2f2c62ad91d73c353d4c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="7967"
+   name="memset.S"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2003-11-20T15:23:03.000000Z"
+   checksum="596f31c8634cd8c83e7ee644d1655862"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="9c2dab35a83f6ee425541447177ac423"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="7967"
+   name="bcopy.S"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2003-11-20T15:23:03.000000Z"
+   checksum="2a7499b3593e7ed13d6bd4a8b58fffe5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+</wc-entries>

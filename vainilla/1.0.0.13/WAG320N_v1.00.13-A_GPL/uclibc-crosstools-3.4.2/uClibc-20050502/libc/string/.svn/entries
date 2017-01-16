@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/string"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   name="arm"
+   kind="dir"/>
+<entry
+   name="powerpc"
+   kind="dir"/>
+<entry
+   name="sh64"
+   kind="dir"/>
+<entry
+   name="mips"
+   kind="dir"/>
+<entry
+   name="i386"
+   kind="dir"/>
+<entry
+   name="generic"
+   kind="dir"/>
+<entry
+   name="frv"
+   kind="dir"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="95d817532be5903e118edcbbe4acc964"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="1168"
+   name=".indent.pro"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2000-10-07T23:37:03.000000Z"
+   checksum="6bea8d1b7f6cfeb6b6c2a95596c69c6d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="9192"
+   name="wstring.c"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2004-09-02T14:34:53.000000Z"
+   checksum="a4ee814333024a7e465f1799eae02014"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+</wc-entries>

@@ -1,0 +1,89 @@
+This is ../../../../binutils-2.15.94.0.2.2/bfd/doc/bfd.info, produced
+by makeinfo version 4.3 from
+../../../../binutils-2.15.94.0.2.2/bfd/doc/bfd.texinfo.
+
+START-INFO-DIR-ENTRY
+* Bfd: (bfd).                   The Binary File Descriptor library.
+END-INFO-DIR-ENTRY
+
+   This file documents the BFD library.
+
+   Copyright (C) 1991, 2000, 2001, 2003 Free Software Foundation, Inc.
+
+   Permission is granted to copy, distribute and/or modify this document
+     under the terms of the GNU Free Documentation License, Version 1.1
+     or any later version published by the Free Software Foundation;
+   with no Invariant Sections, with no Front-Cover Texts, and with no
+    Back-Cover Texts.  A copy of the license is included in the
+section entitled "GNU Free Documentation License".
+
+
+Indirect:
+bfd.info-1: 778
+
+Tag Table:
+(Indirect)
+Node: Top778
+Node: Overview1110
+Node: History2160
+Node: How It Works3101
+Node: What BFD Version 2 Can Do4641
+Node: BFD information loss5951
+Node: Canonical format8474
+Node: BFD front end12835
+Node: Memory Usage37888
+Node: Initialization39111
+Node: Sections39489
+Node: Section Input39967
+Node: Section Output41323
+Node: typedef asection43791
+Node: section prototypes61874
+Node: Symbols70596
+Node: Reading Symbols72186
+Node: Writing Symbols73314
+Node: Mini Symbols75034
+Node: typedef asymbol75999
+Node: symbol handling functions81043
+Node: Archives86172
+Node: Formats89805
+Node: Relocations92639
+Node: typedef arelent93359
+Node: howto manager109103
+Node: Core Files162432
+Node: Targets163459
+Node: bfd_target165422
+Node: Architectures184925
+Node: Opening and Closing204824
+Node: Internal214009
+Node: File Caching220256
+Node: Linker Functions223436
+Node: Creating a Linker Hash Table225102
+Node: Adding Symbols to the Hash Table226829
+Node: Differing file formats227719
+Node: Adding symbols from an object file229452
+Node: Adding symbols from an archive231588
+Node: Performing the Final Link233987
+Node: Information provided by the linker235218
+Node: Relocating the section contents236353
+Node: Writing the symbol table238089
+Node: Hash Tables241037
+Node: Creating and Freeing a Hash Table242228
+Node: Looking Up or Entering a String243467
+Node: Traversing a Hash Table244709
+Node: Deriving a New Hash Table Type245487
+Node: Define the Derived Structures246542
+Node: Write the Derived Creation Routine247608
+Node: Write Other Derived Routines250307
+Node: BFD back ends251607
+Node: What to Put Where251873
+Node: aout252011
+Node: coff258148
+Node: elf283069
+Node: mmo283906
+Node: File layout284829
+Node: Symbol-table290467
+Node: mmo section mapping294262
+Node: GNU Free Documentation License297905
+Node: Index317605
+
+End Tag Table

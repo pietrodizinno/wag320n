@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10028"
+   name=""
+   committed-date="2005-03-16T23:13:30.006752Z"
+   url="svn://uclibc.org/trunk/uClibc/include/net"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10284"/>
+<entry
+   committed-rev="1578"
+   name="ppp-comp.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2001-01-16T10:03:48.000000Z"
+   checksum="075fa87e48a9ae4a94e5a237858dfed3"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="10028"
+   name="if_ppp.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2005-03-16T23:13:30.006752Z"
+   checksum="822952293e8b1cf6015d968d1149e287"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="10028"
+   name="ethernet.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2005-03-16T23:13:30.006752Z"
+   checksum="40598f9e6015f2690aafd1ee1897240f"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="if.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="1ff7636a1a7a0467475f998c47a35830"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="10028"
+   name="route.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2005-03-16T23:13:30.006752Z"
+   checksum="41c37dec9a50f15b51e187e5f335ebb3"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="9489"
+   name="if_arp.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2004-10-30T17:56:00.000000Z"
+   checksum="443e3ffa6025c428447e2ef9fb02c89f"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="if_shaper.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="dc08bfb4eb67c308c1fe28d01a69226a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="1578"
+   name="ppp_defs.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2001-01-16T10:03:48.000000Z"
+   checksum="bdf9ce3109df55274edef9025ecc4612"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="if_packet.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="c2c965bac05c56ec680339499b7a636c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+<entry
+   committed-rev="3438"
+   name="if_slip.h"
+   text-time="2005-05-02T06:10:06.000000Z"
+   committed-date="2001-09-27T05:21:15.000000Z"
+   checksum="87e9a2bb8df8618be55dab6c6738afe6"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:06.000000Z"/>
+</wc-entries>

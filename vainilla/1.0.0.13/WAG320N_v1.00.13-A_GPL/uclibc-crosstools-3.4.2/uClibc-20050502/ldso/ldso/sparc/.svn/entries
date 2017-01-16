@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10060"
+   name=""
+   committed-date="2005-03-29T13:47:21.689829Z"
+   url="svn://uclibc.org/trunk/uClibc/ldso/ldso/sparc"
+   last-author="jocke"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="10033"
+   name="dl-syscalls.h"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-03-16T23:20:55.816871Z"
+   checksum="0737f09e32e97e32d3bcc59465d7812f"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="10031"
+   name="resolve.S"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-03-16T23:19:36.836606Z"
+   checksum="e5140e179c7cbdaf0eb8b48186f36916"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="10036"
+   name="dl-startup.h"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-03-17T17:14:06.371860Z"
+   checksum="1e55b0df7f905fb8426411634af6184c"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="10060"
+   name="elfinterp.c"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-03-29T13:47:21.689829Z"
+   checksum="10c2e1aca49720112933759f4c5a9953"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="10060"
+   name="dl-sysdep.h"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-03-29T13:47:21.689829Z"
+   checksum="d624843817112377f8a5c99efd1e9a96"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+</wc-entries>

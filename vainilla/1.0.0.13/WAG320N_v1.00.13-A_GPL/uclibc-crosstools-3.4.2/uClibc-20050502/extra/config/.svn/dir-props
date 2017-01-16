@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 81
+conf
+mconf
+lkc_defs.h
+lex.zconf.c
+zconf.tab.h
+zconf.tab.c
+lex.backup
+zconf.output
+END

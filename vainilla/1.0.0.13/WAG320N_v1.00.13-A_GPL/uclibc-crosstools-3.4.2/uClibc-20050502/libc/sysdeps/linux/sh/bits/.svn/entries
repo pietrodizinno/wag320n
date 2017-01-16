@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10270"
+   name=""
+   committed-date="2005-05-07T20:10:07.086497Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/sh/bits"
+   last-author="lethal"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:31.000000Z"
+   revision="10283"/>
+<entry
+   committed-rev="4309"
+   name="huge_val.h"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="4407466c7aea7c4bf8078e2fd5658523"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="6460"
+   name="kernel_stat.h"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2003-01-24T11:44:14.000000Z"
+   checksum="3aea4c82b720ba4e55a8afe3f548c344"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="10270"
+   name="syscalls.h"
+   text-time="2005-05-10T09:42:59.000000Z"
+   committed-date="2005-05-07T20:10:07.086497Z"
+   checksum="f8f8029a4feed3830817f0d32e50e5f0"
+   last-author="lethal"
+   kind="file"
+   prop-time="2005-05-10T09:42:59.000000Z"/>
+<entry
+   committed-rev="1875"
+   name="endian.h"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2001-02-21T18:58:30.000000Z"
+   checksum="6e5b29dea971c517399f0de81b99048f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="6671"
+   name="stackinfo.h"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2003-03-03T20:58:42.000000Z"
+   checksum="71e00825d527d338b21fad68431e2117"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="3985"
+   name="setjmp.h"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2002-01-02T12:33:10.000000Z"
+   checksum="75e04af4365b489cd8ed0aea598556d2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="6671"
+   name="sigcontextinfo.h"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2003-03-03T20:58:42.000000Z"
+   checksum="e00938f01b7f1901f4acd95e49ae5f1b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="8416"
+   name="kernel_types.h"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2004-02-06T07:07:16.000000Z"
+   checksum="f9ed8c6c6347ab10900b54f59ba1986c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="5635"
+   name="fcntl.h"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2002-10-09T11:46:39.000000Z"
+   checksum="b21e6abf3e5762203fec006289b9e73c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="3985"
+   name="wordsize.h"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2002-01-02T12:33:10.000000Z"
+   checksum="2c314799fcb85777712bab1e53ef150a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="3985"
+   name="resource.h"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2002-01-02T12:33:10.000000Z"
+   checksum="746f27f95fa3e83bf8480a41c3b31003"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="3985"
+   name="mman.h"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2002-01-02T12:33:10.000000Z"
+   checksum="32122d7d3189e8ec6f98a3c78814881c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="7415"
+   name="profil-counter.h"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2003-09-07T04:13:12.000000Z"
+   checksum="41610aafd9c9416b088a03f16701c929"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+</wc-entries>

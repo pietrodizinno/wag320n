@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9862"
+   name=""
+   committed-date="2005-02-12T20:59:08.359318Z"
+   url="svn://uclibc.org/trunk/uClibc/test/math"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:02.000000Z"
+   revision="10221"/>
+<entry
+   committed-rev="4747"
+   name="gen-libm-test.pl"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2002-05-09T04:43:18.000000Z"
+   checksum="e0089b4ac6b08b7723813ba032f92429"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="4747"
+   name="test-idouble.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2002-05-09T04:43:18.000000Z"
+   checksum="5e16b597531d07eb7159bc8b37488fef"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="4747"
+   name="test-float.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2002-05-09T04:43:18.000000Z"
+   checksum="8ad7df9fd674ce04a8bd90f316adc302"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="4747"
+   name="test-ldouble.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2002-05-09T04:43:18.000000Z"
+   checksum="53adcc892cf98dcc8830fe55249fab4f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="4747"
+   name="libm-test.inc"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2002-05-09T04:43:18.000000Z"
+   checksum="c72fcfdd8c0e270f81e810083fafc023"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="4747"
+   name="test-double.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2002-05-09T04:43:18.000000Z"
+   checksum="b8623eff153dc31bef6652521365e69c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="4747"
+   name="test-ildoubl.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2002-05-09T04:43:18.000000Z"
+   checksum="7a4bb81a66c566eda1dd08dcdb081791"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="4747"
+   name="test-ifloat.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2002-05-09T04:43:18.000000Z"
+   checksum="7ed839b07fd30baff0484c753d269e0c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="8229"
+   name="Makefile"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2004-01-02T23:07:57.000000Z"
+   checksum="d1c9a85b63a1a4f33a9972a42bcb8266"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+<entry
+   committed-rev="6449"
+   name="rint.c"
+   text-time="2005-05-02T06:10:02.000000Z"
+   committed-date="2003-01-23T16:28:10.000000Z"
+   checksum="b255e91d75f44fc4701237fca596affe"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:02.000000Z"/>
+</wc-entries>

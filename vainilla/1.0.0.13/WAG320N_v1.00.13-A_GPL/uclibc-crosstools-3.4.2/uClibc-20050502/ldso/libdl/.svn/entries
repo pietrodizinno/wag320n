@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10167"
+   name=""
+   committed-date="2005-04-23T16:54:05.600449Z"
+   url="svn://uclibc.org/trunk/uClibc/ldso/libdl"
+   last-author="jocke"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:15.000000Z"
+   revision="10283"/>
+<entry
+   committed-rev="10167"
+   name="libdl.c"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-04-23T16:54:05.600449Z"
+   checksum="72cd9f99a144c74d511e63e034b989be"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="9742"
+   name="Makefile"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2005-01-19T23:41:09.000000Z"
+   checksum="d1d7eeca55727d1e413e405ebaddafbf"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+</wc-entries>

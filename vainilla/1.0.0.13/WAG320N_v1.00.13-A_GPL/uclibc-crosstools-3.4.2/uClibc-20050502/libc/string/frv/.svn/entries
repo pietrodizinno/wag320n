@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/string/frv"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="8837"
+   name="memcpy.S"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2004-05-14T10:29:45.000000Z"
+   checksum="bc819e315f633374812efa3b6be7b2c3"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="8837"
+   name="memset.S"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2004-05-14T10:29:45.000000Z"
+   checksum="a485278064fbf4bfdc97c7567f95b63c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:20.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="e3b410f0aac540b17004661224449029"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:20.000000Z"/>
+</wc-entries>

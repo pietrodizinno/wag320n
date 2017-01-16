@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6646"
+   name=""
+   committed-date="2003-02-27T18:13:05.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libpthread/linuxthreads/sysdeps/pthread/bits"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10221"/>
+<entry
+   committed-rev="4243"
+   name="pthreadtypes.h"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2002-02-20T09:18:50.000000Z"
+   checksum="7f5a7af7adc501778feedf83724b1176"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="6646"
+   name="libc-lock.h"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2003-02-27T18:13:05.000000Z"
+   checksum="d98a0bb4d6749111f9822fb3379e8e93"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+<entry
+   committed-rev="6646"
+   name="libc-tsd.h"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2003-02-27T18:13:05.000000Z"
+   checksum="7b14983a19a440f1f046f030f3900950"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:35.000000Z"/>
+</wc-entries>

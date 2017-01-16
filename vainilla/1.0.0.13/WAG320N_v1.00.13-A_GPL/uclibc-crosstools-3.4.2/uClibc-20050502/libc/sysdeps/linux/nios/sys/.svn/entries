@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8957"
+   name=""
+   committed-date="2004-07-16T11:09:34.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/nios/sys"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="8957"
+   name="ucontext.h"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2004-07-16T11:09:34.000000Z"
+   checksum="a4bee1f960da5987c8680e614167f8a0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+<entry
+   committed-rev="8957"
+   name="procfs.h"
+   text-time="2005-05-02T06:10:29.000000Z"
+   committed-date="2004-07-16T11:09:34.000000Z"
+   checksum="970d5b0a5ee58ca38ec2a022fdc1390d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:29.000000Z"/>
+</wc-entries>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/stdlib/malloc-simple"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="8948"
+   name="alloc.c"
+   text-time="2005-05-02T06:10:18.000000Z"
+   committed-date="2004-07-15T08:06:25.000000Z"
+   checksum="278025ac86c8cd8b5c30a5e6b68340d8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:18.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="1654e278c2e728dbd2d6d697e918042c"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:18.000000Z"/>
+</wc-entries>

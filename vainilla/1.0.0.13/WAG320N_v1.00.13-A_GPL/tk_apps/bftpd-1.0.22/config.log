@@ -1,0 +1,37 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:536: checking for gcc
+configure:649: checking whether the C compiler (gcc  ) works
+configure:665: gcc -o conftest    conftest.c  1>&5
+configure:691: checking whether the C compiler (gcc  ) is a cross-compiler
+configure:696: checking whether we are using GNU C
+configure:724: checking whether gcc accepts -g
+configure:756: checking how to run the C preprocessor
+configure:836: checking for AIX
+configure:890: checking for a BSD compatible install
+configure:947: checking for getusershell in -lc
+configure:995: checking for inet_ntoa in -lc
+configure:1082: checking for socket in -lsocket
+configure:1126: checking for connect in -lsocket
+configure:1172: checking for crypt in -lcrypt
+configure:1221: checking for dirent.h that defines DIR
+configure:1259: checking for opendir in -ldir
+configure:1345: checking for paths.h
+configure:1385: checking for netinet/in.h
+configure:1425: checking for sys/time.h
+configure:1465: checking for time.h
+configure:1505: checking for sys/types.h
+configure:1545: checking for sys/stat.h
+configure:1585: checking for sys/socket.h
+configure:1625: checking for asm/socket.h
+configure:1665: checking for wait.h
+configure:1705: checking for sys/wait.h
+configure:1745: checking for shadow.h
+configure:1785: checking for arpa/inet.h
+configure:1825: checking for syslog.h
+configure:1865: checking for crypt.h
+configure:1905: checking for utmp.h
+configure:1945: checking for sys/sendfile.h
+configure:1988: checking whether to enable pam
+configure:2057: checking whether to enable libz

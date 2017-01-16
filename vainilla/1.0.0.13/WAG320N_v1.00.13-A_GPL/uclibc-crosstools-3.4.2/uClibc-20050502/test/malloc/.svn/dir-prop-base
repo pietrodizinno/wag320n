@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 116
+malloc
+testmalloc
+testmalloc.o
+testmalloc_glibc
+testmalloc_glibc.o
+mallocbug
+mallocbug_glibc
+realloc0
+realloc0_glibc
+END

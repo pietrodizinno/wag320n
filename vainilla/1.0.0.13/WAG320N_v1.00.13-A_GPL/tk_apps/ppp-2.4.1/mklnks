@@ -1,0 +1,6 @@
+ln -f -s  Makefile.linux chat/Makefile
+ln -f -s  Makefile.linux pppd/Makefile
+ln -f -s  Makefile.linux pppd/plugins/Makefile
+ln -f -s  Makefile.linux pppd/plugins/pppoe/Makefile
+ln -f -s  Makefile.linux pppdump/Makefile
+ln -f -s  Makefile.linux pppstats/Makefile

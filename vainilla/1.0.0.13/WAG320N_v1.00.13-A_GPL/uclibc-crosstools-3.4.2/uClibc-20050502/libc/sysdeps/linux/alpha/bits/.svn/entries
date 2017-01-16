@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10271"
+   name=""
+   committed-date="2005-05-07T22:20:37.168644Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/alpha/bits"
+   last-author="jocke"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="4750"
+   name="statvfs.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-10T08:28:15.000000Z"
+   checksum="f5aa46906ec52dd12a733820cb219858"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="5055"
+   name="uClibc_clk_tck.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-07-15T16:26:52.000000Z"
+   checksum="4c1eeb89e2f07ddbd3506104e68ceadf"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="4750"
+   name="netdb.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-10T08:28:15.000000Z"
+   checksum="09a3b3a84a803cf696d6839a900a2709"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="4750"
+   name="elfclass.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-10T08:28:15.000000Z"
+   checksum="87162da5ee6468e4d100d0f96929bb20"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="5453"
+   name="syscalls.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-09-05T05:29:49.000000Z"
+   checksum="71c503c7e9814ec83349fd38e6443328"
+   last-author="miles"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="9091"
+   name="uClibc_page.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2004-08-13T23:39:45.000000Z"
+   checksum="8104863b87ff5fee7117244f460d04af"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="4750"
+   name="siginfo.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-10T08:28:15.000000Z"
+   checksum="1d4628269bf8c8a3b373e052943edc62"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="4750"
+   name="endian.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-10T08:28:15.000000Z"
+   checksum="740ec9bfb4f51cb261a1b4f122aff4ab"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="4750"
+   name="msq.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-10T08:28:15.000000Z"
+   checksum="43e9d89c9712b3427667baed6eb1f7a4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="4750"
+   name="setjmp.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-10T08:28:15.000000Z"
+   checksum="d7527bf749c77a1c8cd8f747fea7c872"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="8769"
+   name="atomicity.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2004-04-20T06:33:11.000000Z"
+   checksum="9ccb5cd9d7a281486d39c7b7503a2c6c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="4750"
+   name="signum.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-10T08:28:15.000000Z"
+   checksum="6df3828e6d7433f453fde42beca327d3"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="6671"
+   name="sigcontextinfo.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-03-03T20:58:42.000000Z"
+   checksum="069022f9dc0272396fd0448634ced9e0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="8416"
+   name="kernel_types.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2004-02-06T07:07:16.000000Z"
+   checksum="0d7348788284e79a9d233b2eb18262df"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="5366"
+   name="errno_values.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-08-23T18:48:19.000000Z"
+   checksum="e51707ca52384f607dc12ccb4a9ef5a8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="6470"
+   name="types.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-01-24T17:54:31.000000Z"
+   checksum="808508747d45e9f9042de36e7f7845f9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="5635"
+   name="fcntl.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-10-09T11:46:39.000000Z"
+   checksum="c7515c091c1cedc171c25815a1ba531a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="4750"
+   name="wordsize.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-10T08:28:15.000000Z"
+   checksum="e07f5582784ae0c7c68398e8db7f9351"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="4750"
+   name="sigstack.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-10T08:28:15.000000Z"
+   checksum="1c8a12a74e326886e89ff14f720ed963"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="6460"
+   name="kernel_stat.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-01-24T11:44:14.000000Z"
+   checksum="8b3964e4c51373fae81d8daa04f3dd5b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="10176"
+   name="ipc.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2005-04-24T19:29:39.227826Z"
+   checksum="5cb430434aa3b5d0ce0fbb4b08a9190a"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="6470"
+   name="stat.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-01-24T17:54:31.000000Z"
+   checksum="a207926f9bd95394e2588b88c651870e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="4750"
+   name="sigaction.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-10T08:28:15.000000Z"
+   checksum="48a4e46135b74a36fbc033488ffcee36"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="6671"
+   name="stackinfo.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2003-03-03T20:58:42.000000Z"
+   checksum="a77a21fa1e8a180e03c645aff08f5a11"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:23.000000Z"/>
+<entry
+   committed-rev="4750"
+   name="termios.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-10T08:28:15.000000Z"
+   checksum="b02c1b96dc7965f98e03615cbe4795b7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="4760"
+   name="dirent.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-12T00:23:39.000000Z"
+   checksum="521b73b34e39b4398fa9ff6e99504baa"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="4750"
+   name="resource.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-10T08:28:15.000000Z"
+   checksum="6dc3b225b0c40ef7b75d7e96e4225bef"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+<entry
+   committed-rev="10271"
+   name="shm.h"
+   text-time="2005-05-10T09:42:58.000000Z"
+   committed-date="2005-05-07T22:20:37.168644Z"
+   checksum="fb6a0a973613ff946816ceb97de8e0b3"
+   last-author="jocke"
+   kind="file"
+   prop-time="2005-05-10T09:42:58.000000Z"/>
+<entry
+   committed-rev="4750"
+   name="socket.h"
+   text-time="2005-05-02T06:10:24.000000Z"
+   committed-date="2002-05-10T08:28:15.000000Z"
+   checksum="8453617faab333d235cca70b3d99e37b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:24.000000Z"/>
+</wc-entries>

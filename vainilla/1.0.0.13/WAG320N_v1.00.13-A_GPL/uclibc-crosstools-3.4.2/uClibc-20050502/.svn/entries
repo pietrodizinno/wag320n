@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10221"
+   name=""
+   committed-date="2005-05-01T07:13:09.412284Z"
+   url="svn://uclibc.org/trunk/uClibc"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2005-05-02T06:10:35.000000Z"
+   revision="10221"/>
+<entry
+   name="test"
+   kind="dir"/>
+<entry
+   name="debian"
+   kind="dir"/>
+<entry
+   name="libnsl"
+   kind="dir"/>
+<entry
+   name="libm"
+   kind="dir"/>
+<entry
+   name="extra"
+   kind="dir"/>
+<entry
+   name="include"
+   kind="dir"/>
+<entry
+   committed-rev="9690"
+   name="Changelog"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2005-01-12T07:52:50.000000Z"
+   checksum="4f586d95c4a312658c4d0730ae92800c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:11.000000Z"/>
+<entry
+   name="libcrypt"
+   kind="dir"/>
+<entry
+   name="docs"
+   kind="dir"/>
+<entry
+   committed-rev="9690"
+   name="Changelog.full"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2005-01-12T07:52:50.000000Z"
+   checksum="af2270d3b3810cb643960dcaf4a37fcd"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:12.000000Z"/>
+<entry
+   name="libintl"
+   kind="dir"/>
+<entry
+   committed-rev="9564"
+   name="README"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2004-12-13T20:33:27.000000Z"
+   checksum="3dd65d78ec7e466c35eeba3b3e94f0c3"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:12.000000Z"/>
+<entry
+   name="utils"
+   kind="dir"/>
+<entry
+   name="libresolv"
+   kind="dir"/>
+<entry
+   name="ldso"
+   kind="dir"/>
+<entry
+   committed-rev="10016"
+   name="Rules.mak"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2005-03-16T01:19:54.604887Z"
+   checksum="f8e1bfcfab88725f1223eb7caee4f1b1"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   name="libutil"
+   kind="dir"/>
+<entry
+   committed-rev="9676"
+   name="TODO"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2005-01-11T09:58:05.000000Z"
+   checksum="2ae05a55da3907457fd254617acb5328"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="9512"
+   name="INSTALL"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2004-11-11T14:44:17.000000Z"
+   checksum="8f93b329e6fd615d6270a509c0475a65"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:16.000000Z"/>
+<entry
+   name="libc"
+   kind="dir"/>
+<entry
+   committed-rev="8393"
+   name="DEDICATION.mjn3"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2004-02-03T17:33:50.000000Z"
+   checksum="b1d4e1b55336fe2edf16915e2791b7c9"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="10014"
+   name="MAINTAINERS"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2005-03-15T23:56:18.135242Z"
+   checksum="74e596e5000deac4747ae46df608a0eb"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   name="librt"
+   kind="dir"/>
+<entry
+   committed-rev="9993"
+   name="Makefile"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2005-03-10T19:32:36.958299Z"
+   checksum="7792fe6d4b743dc16e5a8aaa527234a3"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="540"
+   name="COPYING.LIB"
+   text-time="2005-05-02T06:10:35.000000Z"
+   committed-date="2000-05-14T04:16:35.000000Z"
+   checksum="55ca817ccb7d5b5b66355690e9abc605"
+   last-author="erik"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   name="libpthread"
+   kind="dir"/>
+</wc-entries>

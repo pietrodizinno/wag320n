@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10132"
+   name=""
+   committed-date="2005-04-18T15:59:49.023995Z"
+   url="svn://uclibc.org/trunk/uClibc/extra/config/lxdialog"
+   last-author="pkj"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10221"/>
+<entry
+   committed-rev="10127"
+   name="msgbox.c"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:23:18.312955Z"
+   checksum="52963bbcf369b023b61832f30f38fe5f"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="10132"
+   name="dialog.h"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:59:49.023995Z"
+   checksum="f99bf61658bd09817d51a7e27e33124e"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="10127"
+   name="colors.h"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:23:18.312955Z"
+   checksum="a304272240937ccc86ff04b85e0d73f9"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="10127"
+   name="inputbox.c"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:23:18.312955Z"
+   checksum="2a0c80e9625fae5a7c898fdf731c965d"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="10132"
+   name="checklist.c"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:59:49.023995Z"
+   checksum="1788198bb41446a2afe8d8264c63441d"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="10127"
+   name="BIG.FAT.WARNING"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:23:18.312955Z"
+   checksum="2e0bfdc0eb78ca744114b42489f077d3"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="10132"
+   name="menubox.c"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:59:49.023995Z"
+   checksum="ea08d97d50fb953dbc8b8ec5c9c443ee"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="10132"
+   name="textbox.c"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:59:49.023995Z"
+   checksum="0368347d28c98e7eb03f74e9a9d5e1ff"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="10132"
+   name="util.c"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:59:49.023995Z"
+   checksum="4993a91470a2884d3cb5a943aa873b3c"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+<entry
+   committed-rev="10127"
+   name="yesno.c"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2005-04-18T15:23:18.312955Z"
+   checksum="ea0c4d6b6623370d2c7ab87564dfcde4"
+   last-author="pkj"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+</wc-entries>

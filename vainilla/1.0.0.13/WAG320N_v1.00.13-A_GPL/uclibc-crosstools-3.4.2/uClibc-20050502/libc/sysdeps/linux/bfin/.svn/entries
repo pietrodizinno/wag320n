@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/bfin"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="9579"
+   name="clone.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2004-12-21T08:35:58.000000Z"
+   checksum="a7287e0d4c6e8e71b0afae72c8ee469f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9579"
+   name="vfork.S"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2004-12-21T08:35:58.000000Z"
+   checksum="61f7aba7c8c109f5f1a3d06840d2112a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9579"
+   name="syscall.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2004-12-21T08:35:58.000000Z"
+   checksum="61ca465310587f309c3dea29155641d2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9579"
+   name="brk.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2004-12-21T08:35:58.000000Z"
+   checksum="6a92baa6dc84023237389cd16aa82683"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   name="bits"
+   kind="dir"/>
+<entry
+   committed-rev="9579"
+   name="crti.S"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2004-12-21T08:35:58.000000Z"
+   checksum="6fe86f7926dc85c0e23f70247b124619"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9579"
+   name="setjmp.S"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2004-12-21T08:35:58.000000Z"
+   checksum="0a67e612e34464b1b7024884284152fe"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9579"
+   name="__longjmp.S"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2004-12-21T08:35:58.000000Z"
+   checksum="fed5180e091c631d848bda3c940951d8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9579"
+   name="crtn.S"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2004-12-21T08:35:58.000000Z"
+   checksum="abfac0d2c28e18b7c86964c1af4530ea"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9579"
+   name="bsd-_setjmp.S"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2004-12-21T08:35:58.000000Z"
+   checksum="9cd9b333b7995e55edee98e871f5510e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9579"
+   name="crt0.S"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2004-12-21T08:35:58.000000Z"
+   checksum="5b17d4fd8618fed2e2a8ee4593bf9bce"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9579"
+   name="README.bfin"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2004-12-21T08:35:58.000000Z"
+   checksum="37fa691be6ef5962417890ef39655ed8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9579"
+   name="bsdsetjmp.c"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2004-12-21T08:35:58.000000Z"
+   checksum="94bb51ea14fec40d0725ca84144887b0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:31.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="189f895e493a6343bd41e221c85d140d"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:31.000000Z"/>
+<entry
+   name="sys"
+   kind="dir"/>
+</wc-entries>

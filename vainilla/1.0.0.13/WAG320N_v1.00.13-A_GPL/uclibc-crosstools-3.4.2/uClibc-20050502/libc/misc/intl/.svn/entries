@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9773"
+   name=""
+   committed-date="2005-01-25T03:17:00.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/misc/intl"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="7347"
+   name="intl.c"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2003-09-01T09:47:09.000000Z"
+   checksum="fb98a0d8c65305fa372ed7869b58acff"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+<entry
+   committed-rev="9773"
+   name="Makefile"
+   text-time="2005-05-02T06:10:34.000000Z"
+   committed-date="2005-01-25T03:17:00.000000Z"
+   checksum="d8ea1afe81bdb8a9621c5f8089a5a26e"
+   last-author="vapier"
+   kind="file"
+   prop-time="2005-05-02T06:10:34.000000Z"/>
+</wc-entries>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9556"
+   name=""
+   committed-date="2004-12-11T12:23:37.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/ldso/ldso/frv"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="9091"
+   name="dl-syscalls.h"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2004-08-13T23:39:45.000000Z"
+   checksum="3c0dcac955adf6cb0f8526baabf97984"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="9042"
+   name="resolve.S"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2004-07-30T03:31:31.000000Z"
+   checksum="d2e82db4c6407e22976859f6f1ebfb9a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="9556"
+   name="dl-inlines.h"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2004-12-11T12:23:37.000000Z"
+   checksum="55d4cb5c39a6d50266897db0887d39b2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="9556"
+   name="dl-startup.h"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2004-12-11T12:23:37.000000Z"
+   checksum="8bcc6860b6471aebafe84c8dc2ac7159"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="9556"
+   name="elfinterp.c"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2004-12-11T12:23:37.000000Z"
+   checksum="fe7568fb7dd0f6d1146556e06d38f41c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+<entry
+   committed-rev="9556"
+   name="dl-sysdep.h"
+   text-time="2005-05-02T06:10:15.000000Z"
+   committed-date="2004-12-11T12:23:37.000000Z"
+   checksum="1e95d0d20f51edd83deffed67abd865d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:15.000000Z"/>
+</wc-entries>

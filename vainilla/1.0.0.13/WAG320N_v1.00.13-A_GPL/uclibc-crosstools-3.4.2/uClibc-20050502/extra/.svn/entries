@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10132"
+   name=""
+   committed-date="2005-04-18T15:59:49.023995Z"
+   url="svn://uclibc.org/trunk/uClibc/extra"
+   last-author="pkj"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10221"/>
+<entry
+   name="locale"
+   kind="dir"/>
+<entry
+   name="config"
+   kind="dir"/>
+<entry
+   name="scripts"
+   kind="dir"/>
+<entry
+   name="Configs"
+   kind="dir"/>
+<entry
+   name="libstrip"
+   kind="dir"/>
+<entry
+   committed-rev="7771"
+   name="Makefile"
+   text-time="2005-05-02T06:10:10.000000Z"
+   committed-date="2003-11-04T13:07:50.000000Z"
+   checksum="bad4ad0d9e6d8097ca2480ad12458b5a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:10.000000Z"/>
+</wc-entries>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4767"
+   name=""
+   committed-date="2002-05-12T00:37:03.000000Z"
+   url="svn://uclibc.org/trunk/uClibc/libc/sysdeps/linux/sparc/sys"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="10283"/>
+<entry
+   committed-rev="4309"
+   name="ucontext.h"
+   text-time="2005-05-02T06:10:30.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="3467dbb32c0cc0409f69599edcc9ccc9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:30.000000Z"/>
+<entry
+   committed-rev="4309"
+   name="procfs.h"
+   text-time="2005-05-02T06:10:30.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="2889e1449ce3b200983434090235009f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:30.000000Z"/>
+<entry
+   committed-rev="4309"
+   name="ptrace.h"
+   text-time="2005-05-02T06:10:30.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="5ff55757d16f59add9571ef33fb002e1"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:30.000000Z"/>
+<entry
+   committed-rev="4309"
+   name="trap.h"
+   text-time="2005-05-02T06:10:30.000000Z"
+   committed-date="2002-03-01T20:46:26.000000Z"
+   checksum="4410b04a40b7c261f2f30e4af0eb66d5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2005-05-02T06:10:30.000000Z"/>
+</wc-entries>
